@@ -27,7 +27,7 @@ This repository contains several modules intended to drive knowledge and culture
 
 ## Course outline 🗺
 
-* [01-Introduction to open-source](./01-intro-to-oss/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
+* [01-Introduction to open-source](./01-intro-to-os/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
   
 ## Contributing
 

@@ -1,4 +1,4 @@
-# 01 - Introduction to Open-Source-(Software) (OSS)
+# 01 - Introduction to Open-Source
 
 ## Learning objectives 🧑🏿‍🏫
 
