@@ -5,6 +5,7 @@ This repository contains the training materials for the CZI Imaging Tech team fo
 - [CZI Open Source Training Materials](#czi-open-source-training-materials)
   - [Format and structure 🔖](#format-and-structure-)
   - [Learning personas 🙋🏽‍♀️](#learning-personas-️)
+  - [Course outline 🗺](#course-outline-)
   - [Contributing](#contributing)
     - [Pre-commit hooks 🧹](#pre-commit-hooks-)
 
@@ -24,6 +25,10 @@ This repository contains several modules intended to drive knowledge and culture
 
 <!-- TODO: @pavithraes will be adding these -->
 
+## Course outline 🗺
+
+* [01-Introduction to open-source](./01-intro-to-oss/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
+  
 ## Contributing
 
 ### Pre-commit hooks 🧹
