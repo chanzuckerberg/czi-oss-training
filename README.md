@@ -5,6 +5,9 @@ This repository contains the training materials for the CZI Imaging Tech team fo
 - [CZI Open Source Training Materials](#czi-open-source-training-materials)
   - [Format and structure 🔖](#format-and-structure-)
   - [Learning personas 🙋🏽‍♀️](#learning-personas-️)
+    - [Code contributor](#code-contributor)
+    - [Code-adjacent contributor](#code-adjacent-contributor)
+    - [Manager/stakeholder](#managerstakeholder)
   - [Course outline 🗺](#course-outline-)
   - [Contributing](#contributing)
     - [Pre-commit hooks 🧹](#pre-commit-hooks-)
@@ -26,7 +29,7 @@ This repository contains several modules intended to drive knowledge and culture
 This training is created for three types of people (personas) who interact with open source projects:
 code contributors, code-adjacent contributors, and managers who support the first two groups.
 
-You can read the material chapter-wise for thorough understanding. However, certain chapters are more relevant and valuable for particular personas, and this persona is indicated at the top of each chapter.
+You can read the material chapter-wise for a thorough understanding. However, certain chapters are more relevant and valuable for particular personas, and this persona is indicated at the top of each chapter.
 
 The following sections outline the role each persona plays in the open source project.
 
@@ -37,7 +40,7 @@ and make a note of these "learning paths" in the section description. -->
 
 Community members who:
 
-- report issues and create pull requests with the goal to improve or maintain the software codebase;
+- report issues and create pull requests to improve or maintain the software codebase;
 - propose plans to advance the software design and implementation;
 - regularly participate in community discussions;
 - contribute to upstream or downstream projects where relevant.
@@ -46,7 +49,7 @@ Community members who:
 
 Community members who:
 
-- report issues and create pull requests with the goal to improve or maintain the software documentation, design, user and developer experience;
+- report issues and create pull requests to improve or maintain the software documentation, design, user and developer experience;
 - propose plans to improve community collaboration, planning, and workflows;
 - participate in community discussions;
 - interact with upstream or downstream project communities.
@@ -56,7 +59,7 @@ Community members who:
 Community members who support teams of regular contributors, specifically:
 
 - manage teams of individual contributors (ICs) or advise team members/managers;
-- set goals for the team that align with team members' skill sets, team's mission, and the broader project roadmap;
+- set goals for the team that align with team members' skill sets, the team's mission, and the broader project roadmap;
 - track, record, and communicate progress on various tasks;
 - participate in community discussions, primarily around project-level strategy and direction.
 
