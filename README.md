@@ -13,17 +13,52 @@ This repository contains the training materials for the CZI Imaging Tech team fo
 
 This repository contains several modules intended to drive knowledge and culture around open source at CZI.
 
-* Each module covers specific topics and is intended to be self-contained.
-* Each module is broken into chapters, which are prefixed by a number to reflect the order in which they should be read.
-* Each chapter indicates the main personas at which the content is aimed (though this is not prescriptive,
+- Each module covers specific topics and is intended to be self-contained.
+- Each module is broken into chapters, which are prefixed by a number to reflect the order in which they should be read.
+- Each chapter indicates the main personas at which the content is aimed (though this is not prescriptive,
   and all stakeholders involved in open source should be able to follow all the content in this repository).
-* Files are written in Markdown format.
+- Files are written in Markdown format.
 
 <!-- TODO: once we have made the relevant decisions we need to add notes on licensing, slides and the such -->
 
 ## Learning personas 🙋🏽‍♀️
 
-<!-- TODO: @pavithraes will be adding these -->
+This training is created for three types of people (personas) who interact with open source projects:
+code contributors, code-adjacent contributors, and managers who support the first two groups.
+
+You can read the material chapter-wise for thorough understanding. However, certain chapters are more relevant and valuable for particular personas, and this persona is indicated at the top of each chapter.
+
+The following sections outline the role each persona plays in the open source project.
+
+<!-- TODO: Add a list of relevant chapters for each persona here for quick access
+and make a note of these "learning paths" in the section description. -->
+
+### Code contributor
+
+Community members who:
+
+- report issues and create pull requests with the goal to improve or maintain the software codebase;
+- propose plans to advance the software design and implementation;
+- regularly participate in community discussions;
+- contribute to upstream or downstream projects where relevant.
+
+### Code-adjacent contributor
+
+Community members who:
+
+- report issues and create pull requests with the goal to improve or maintain the software documentation, design, user and developer experience;
+- propose plans to improve community collaboration, planning, and workflows;
+- participate in community discussions;
+- interact with upstream or downstream project communities.
+
+### Manager/stakeholder
+
+Community members who support teams of regular contributors, specifically:
+
+- manage teams of individual contributors (ICs) or advise team members/managers;
+- set goals for the team that align with team members' skill sets, team's mission, and the broader project roadmap;
+- track, record, and communicate progress on various tasks;
+- participate in community discussions, primarily around project-level strategy and direction.
 
 ## Course outline 🗺
 
