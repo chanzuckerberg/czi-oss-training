@@ -6,7 +6,6 @@ Pre-requisites: none
 # Module 01: Introduction To Open Source
 
 - [Module 01: Introduction To Open Source](#module-01-introduction-to-open-source)
-  - [Overview 🧭](#overview-)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [The Origins Of Open Source 🌱](#the-origins-of-open-source-)
   - [Pragmatism vs. Social Movement ✊🏾](#pragmatism-vs-social-movement-)
@@ -15,8 +14,6 @@ Pre-requisites: none
   - [InnerSource](#innersource)
     - [Benefits of InnerSource](#benefits-of-innersource)
   - [Resources 📚](#resources-)
-
-## Overview 🧭
 
 ## Learning Objectives 🧠
 
