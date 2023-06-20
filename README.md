@@ -45,6 +45,10 @@ Community members who:
 - regularly participate in community discussions;
 - contribute to upstream or downstream projects where relevant.
 
+Learning path:
+
+- [01-Introduction to open-source](./01-intro-to-os/README.md)
+
 ### Code-adjacent contributor
 
 Community members who:
@@ -53,6 +57,10 @@ Community members who:
 - propose plans to improve community collaboration, planning, and workflows;
 - participate in community discussions;
 - interact with upstream or downstream project communities.
+
+Learning path:
+
+- [01-Introduction to open-source](./01-intro-to-os/README.md)
 
 ### Manager/stakeholder
 
@@ -63,10 +71,14 @@ Community members who support teams of regular contributors, specifically:
 - track, record, and communicate progress on various tasks;
 - participate in community discussions, primarily around project-level strategy and direction.
 
+Learning path:
+
+- [01-Introduction to open-source](./01-intro-to-os/README.md)
+
 ## Course outline 🗺
 
 * [01-Introduction to open-source](./01-intro-to-os/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
-  
+
 ## Contributing
 
 ### Pre-commit hooks 🧹

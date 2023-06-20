@@ -12,6 +12,7 @@ Pre-requisites: none
   - [Pragmatism vs. Social Movement ✊🏾](#pragmatism-vs-social-movement-)
     - [The Four Freedoms](#the-four-freedoms)
     - [Open Source Definition](#open-source-definition)
+  - [InnerSource](#innersource)
   - [Resources 📚](#resources-)
 
 ## Overview 🧭
@@ -75,6 +76,10 @@ The Open Source Initiative (OSI) is the organization responsible for defending t
 > This definition of open source was coined in an attempt to clarify the concept of free from the [Four Freedoms](#the-four-freedoms), leading to a more pragmatic approach of software development (vs. the social movement approach of free software).
 
 In the OSD the considerations are more technically aligned with a focus on faster and better development involving the community. As a consequence, the Open Source movement has seen more corporate buy-in and adoption.
+
+## InnerSource
+
+
 
 ## Resources 📚
 
