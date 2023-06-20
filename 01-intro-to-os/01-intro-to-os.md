@@ -9,8 +9,9 @@ Pre-requisites: none
   - [Overview 🧭](#overview-)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [The Origins Of Open Source 🌱](#the-origins-of-open-source-)
-  - [Pragmatism vs. Social Movement](#pragmatism-vs-social-movement)
+  - [Pragmatism vs. Social Movement ✊🏾](#pragmatism-vs-social-movement-)
     - [The Four Freedoms](#the-four-freedoms)
+    - [Open Source Definition](#open-source-definition)
   - [Resources 📚](#resources-)
 
 ## Overview 🧭
@@ -36,7 +37,7 @@ The image below shows a condensed timeline of the Origins of open source.
 * Around this same time, the GNU Public License (GPL), was created and the first Linux kernel was released under such license.
 * In the 1998s, the term open source was coined by a group of industry and free software individuals and the Open Source Initiative (OSI) was founded.
 
-## Pragmatism vs. Social Movement
+## Pragmatism vs. Social Movement ✊🏾
 
 > Open Source is a development methodology; free software is a social movement
 > `-`*Richard Stallman*
@@ -55,6 +56,26 @@ However, the word *free* in Free Software has often been conflated with *free, a
 > **Note:**
 > *Free software* does not mean *noncommercial*. On the contrary, a free program must be available for commercial use, commercial development, and commercial distribution.
 
+### Open Source Definition
+
+The Open Source Initiative (OSI) is the organization responsible for defending the [**Open Source Definition** (OSD)][OS-definition]. The OSD is built on the Four Freedoms and the [Debian Software Guidelines](https://www.debian.org/social_contract#guidelines). It is formed by a set of 10 requirements that a piece of software must meet in order to be considered open source and is accepted as the single canonical definition of open source:
+
+1. Free Redistribution
+2. Source Code
+3. Derived works
+4. Integrity of the author's source code
+5. No discrimination against persons or groups
+6. No discrimination against fields of endeavor
+7. Distribution of license
+8. License must not be specific to a product
+9. License must not restrict other software
+10. License must be technology-neutral
+
+> **Note:**
+> This definition of open source was coined in an attempt to clarify the concept of free from the [Four Freedoms](#the-four-freedoms), leading to a more pragmatic approach of software development (vs. the social movement approach of free software).
+
+In the OSD the considerations are more technically aligned with a focus on faster and better development involving the community. As a consequence, the Open Source movement has seen more corporate buy-in and adoption.
+
 ## Resources 📚
 
 * [The Free Software Definition][free-software-definition]
@@ -63,3 +84,4 @@ However, the word *free* in Free Software has often been conflated with *free, a
 <!-- reusable links -->
 [free-software-definition]: https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms
 [cathedral-and-bazaar]: https://creatingaction.stanford.edu/pdf/cathedral-bazaar.pdf
+[OS-definition]: https://opensource.org/osd-annotated
