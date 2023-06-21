@@ -35,7 +35,7 @@ The image below shows a condensed timeline of the Origins of open source.
 * In 1974 software was granted the ability to be copyrighted, which marks the start of software as a commodity.
 * In the Early 1980s, the Free Software Foundation (FSF) was founded by Richard Stallman, which was the first organization to advocate for free software. Within that decade Stallman also wrote the [Free Software Definition][free-software-definition].
 * Around this same time, the GNU Public License (GPL), was created and the first Linux kernel was released under such license.
-* Eric S. Raymond published the "Cathedral and the Bazaar" in 1997, an essay comparing two different development models: the Cathedral (top-down development model by an exclusive group of developers) and the Bazaar (where the code is developed publicly over the internet).
+* Eric S. Raymond published the ["Cathedral and the Bazaar"][cathedral-and-bazaar] in 1997, an essay comparing two different development models: the Cathedral (top-down development model by an exclusive group of developers) and the Bazaar (where the code is developed publicly over the internet).
 * In 1998, the term open source was coined by a group of industry and free software individuals and the Open Source Initiative (OSI) was founded.
 
 ## Pragmatism vs. Social Movement ✊🏾
