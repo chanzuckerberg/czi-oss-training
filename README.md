@@ -5,9 +5,12 @@ This repository contains the training materials for the CZI Imaging Tech team fo
 - [CZI Open Source Training Materials](#czi-open-source-training-materials)
   - [Format and structure 🔖](#format-and-structure-)
   - [Learning personas 🙋🏽‍♀️](#learning-personas-️)
-    - [Code contributor](#code-contributor)
-    - [Code-adjacent contributor](#code-adjacent-contributor)
-    - [Manager/stakeholder](#managerstakeholder)
+    - [Code contributor 💻](#code-contributor-)
+      - [Learning path](#learning-path)
+    - [Code-adjacent contributor 🎨](#code-adjacent-contributor-)
+      - [Learning path](#learning-path-1)
+    - [Manager/stakeholder 🤝](#managerstakeholder-)
+      - [Learning path](#learning-path-2)
   - [Course outline 🗺](#course-outline-)
   - [Contributing](#contributing)
     - [Pre-commit hooks 🧹](#pre-commit-hooks-)
@@ -21,6 +24,7 @@ This repository contains several modules intended to drive knowledge and culture
 - Each chapter indicates the main personas at which the content is aimed (though this is not prescriptive,
   and all stakeholders involved in open source should be able to follow all the content in this repository).
 - Files are written in Markdown format.
+- This course is aimed at three major [learning personas](#learning-personas-️), learning paths relevant to each persona are indicated in the [learning personas](#learning-personas-️) section of this README.
 
 <!-- TODO: once we have made the relevant decisions we need to add notes on licensing, slides and the such -->
 
@@ -33,10 +37,7 @@ You can read the material chapter-wise for a thorough understanding. However, ce
 
 The following sections outline the role each persona plays in the open source project.
 
-<!-- TODO: Add a list of relevant chapters for each persona here for quick access
-and make a note of these "learning paths" in the section description. -->
-
-### Code contributor
+### Code contributor 💻
 
 Community members who:
 
@@ -45,11 +46,11 @@ Community members who:
 - regularly participate in community discussions;
 - contribute to upstream or downstream projects where relevant.
 
-Learning path:
+#### Learning path
 
 - [01-Introduction to open-source](./01-intro-to-os/README.md)
 
-### Code-adjacent contributor
+### Code-adjacent contributor 🎨
 
 Community members who:
 
@@ -58,26 +59,26 @@ Community members who:
 - participate in community discussions;
 - interact with upstream or downstream project communities.
 
-Learning path:
+#### Learning path
 
 - [01-Introduction to open-source](./01-intro-to-os/README.md)
 
-### Manager/stakeholder
+### Manager/stakeholder 🤝
 
 Community members who support teams of regular contributors, specifically:
 
-- manage teams of individual contributors (ICs) or advise team members/managers;
+- manage teams of Individual Contributors (ICs) or advise team members/managers;
 - set goals for the team that align with team members' skill sets, the team's mission, and the broader project roadmap;
 - track, record, and communicate progress on various tasks;
 - participate in community discussions, primarily around project-level strategy and direction.
 
-Learning path:
+#### Learning path
 
 - [01-Introduction to open-source](./01-intro-to-os/README.md)
 
 ## Course outline 🗺
 
-* [01-Introduction to open-source](./01-intro-to-os/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
+* [Module 01 - Introduction to open-source](./01-intro-to-os/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
 
 ## Contributing
 
