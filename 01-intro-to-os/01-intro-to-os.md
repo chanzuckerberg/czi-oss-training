@@ -3,9 +3,9 @@ Learner personas: 'code contributor', 'code-adjacent contributor', 'manager/stak
 Pre-requisites: none
 ---
 
-# Module 01: Introduction To Open Source
+# Chapter 01: Introduction To Open Source
 
-- [Module 01: Introduction To Open Source](#module-01-introduction-to-open-source)
+- [Chapter 01: Introduction To Open Source](#chapter-01-introduction-to-open-source)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [The Origins Of Open Source 🌱](#the-origins-of-open-source-)
   - [Pragmatism vs. Social Movement ✊🏾](#pragmatism-vs-social-movement-)
@@ -20,7 +20,7 @@ Pre-requisites: none
 By the end of this section, you should be able to:
 
 * Define open source and describe the main pillars of open source software.
-* Understand the difference and similarities among Open Source, Free Software, and InnerSource.
+* Understand the difference and similarities between Open Source, Free Software, and InnerSource.
 
 ## The Origins Of Open Source 🌱
 
@@ -59,12 +59,12 @@ However, the word *free* in Free Software has often been conflated with *free, a
 
 ### Open Source Definition
 
-The Open Source Initiative (OSI) is the organization responsible for defending the [**Open Source Definition** (OSD)][OS-definition]. The OSD is built on the Four Freedoms and the [Debian Software Guidelines](https://www.debian.org/social_contract#guidelines). It is formed by a set of 10 requirements that a piece of software must meet in order to be considered open source and is accepted as the single canonical definition of open source:
+The Open Source Initiative (OSI) is the organization responsible for defending the [**Open Source Definition** (OSD)][OS-definition]. The OSD is built on the Four Freedoms and the [Debian Software Guidelines](https://www.debian.org/social_contract#guidelines). It is formed by a set of 10 requirements that a piece of software must meet to be considered open source and is accepted as the single canonical definition of open source:
 
 1. Free Redistribution - The license shall not restrict any party from selling or giving away the software as a component of a larger software distribution containing programs from multiple sources.
 2. Source Code - The program must include source code, and must allow distribution in source code as well as compiled form.
-3. Derived Works - The license must allow modifications and derived works, and must allow them to be distributed under the same terms as the license of the original software.
-4. Integrity of The Author’s Source Code - The license may restrict source-code from being distributed in modified form only if the license allows the distribution of “patch files” with the source code for the purpose of modifying the program at build time.
+3. Derived Works - The license must allow modifications and derived works and must allow them to be distributed under the same terms as the license of the original software.
+4. Integrity of The Author’s Source Code - The license may restrict source-code from being distributed in modified form only if the license allows the distribution of “patch files” with the source code to modify the program at build time.
 5. No Discrimination Against Persons or Groups - The license must not discriminate against any person or group of persons.
 6. No Discrimination Against Fields of Endeavor - The license must not restrict anyone from making use of the program in a specific field of endeavor.
 7. Distribution of License - The rights attached to the program must apply to all to whom the program is redistributed without the need for execution of an additional license by those parties.
@@ -92,12 +92,12 @@ Some typical benefits of InnerSource are:
 
 * Increase code quality earlier in the lifecycle.
 * Help establish an open culture within an organization.
-* Develop software in a more collaborative way.
+* Develop software more collaboratively.
 * Increase visibility, transparency, and break down silos.
 * Reduction of redundant or duplicate work.
 * Reduction of red tape and bureaucracy.
 
-Some early adopters of InnerSource are: PayPal, Bosch, Bloomberg, Autodesk, and SanDisk.
+Some early adopters of InnerSource are PayPal, Bosch, Bloomberg, Autodesk, and SanDisk.
 
 ## Resources 📚
 
