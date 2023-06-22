@@ -34,7 +34,7 @@ The author of any piece of software holds all rights to it by default, even if t
 
 Open Source Initiative (OSI), a leading authority in the open source movement, recognizes [over a hundred different open source software licenses](https://opensource.org/licenses/). These licenses lie on a spectrum of **permissiveness**, from the most permissive to the most protective (copyleft).
 
-<img src="../images/1.02-oss-licenses.svg" alt="abc"/>
+<img src="./images/oss-licenses.svg" alt="abc"/>
 
 ### Permissive Licenses
 
@@ -48,7 +48,7 @@ Also referred to as protective, restrictive, viral, or repetitive, copyleft lice
 
 napari is under the BSD 3-Clause license, one of the most permissive license in the OSS ecosystem: https://github.com/napari/napari/blob/main/LICENSE
 
-<img src="../images/1.02-napari-license.png" alt="Napari license on GitHub"/>
+<img src="../images/napari-license.png" alt="Napari license on GitHub"/>
 
 GitHub presents the details of a license file in a digestible form, you can quickly infer that the napari license:
 
