@@ -9,7 +9,10 @@ Pre-requisites:
 
 # Chapter 01: Introduction To Open Source
 
+## Table of Contents 🗂️
+
 - [Chapter 01: Introduction To Open Source](#chapter-01-introduction-to-open-source)
+  - [Table of Contents 🗂️](#table-of-contents-️)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [The Origins Of Open Source 🌱](#the-origins-of-open-source-)
   - [Pragmatism vs. Social Movement ✊🏾](#pragmatism-vs-social-movement-)
