@@ -4,7 +4,8 @@ This module focuses on the basics of Open Source
 
 ## Chapters in this module 🗃
 
-- [1.1 - Introduction to Open Source](./01-intro-to-os.md) - provides a brief introduction to the roots of the FOSS (Free and Open Source Software) movement and the differences between Free Software, Open Source, and InnerSource.
+* [1.1 - Introduction to Open Source](./01-intro-to-os.md) - provides a brief introduction to the roots of the FOSS (Free and Open Source Software) movement and the differences between Free Software, Open Source, and InnerSource.
+* [1.5 - How Does OSS Relate To The Open Research Movement?](./05-oss-and-open-science.md) - explores the relationship between Open Source and Open Research.
 
 ## Check your understanding 🙇🏻‍♀️
 
