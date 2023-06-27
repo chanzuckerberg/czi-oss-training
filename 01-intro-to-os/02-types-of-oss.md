@@ -1,11 +1,11 @@
 ---
 
 Learner personas: 
-	- 'code contributor'
-	- 'code-adjacent contributor'
-	- 'manager/stakeholder'
+    - 'code contributor'
+    - 'code-adjacent contributor'
+    - 'manager/stakeholder'
 Pre-requisites: 
-	- [Chapter 01: Introduction To Open Source](./01-intro-to-os.md)
+    - 'Chapter 01: Introduction To Open Source'
 
 ---
 
