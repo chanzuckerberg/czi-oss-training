@@ -12,7 +12,7 @@ Pre-requisites:
 - [Chapter 05: How Does OSS Relate To The Open Research Movement?](#chapter-05-how-does-oss-relate-to-the-open-research-movement)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Introduction to Open Research 🔭](#introduction-to-open-research-)
-    - [Openness in practice within research](#openness-in-practice-within-research)
+  - [Open Research in practice 👩🏻‍💻](#open-research-in-practice-)
   - [Open Research and Open Source](#open-research-and-open-source)
   - [Resources 📚](#resources-)
 
@@ -34,9 +34,9 @@ The [Organization for Economic Co-operation and Development (OECD)](https://www.
 
 To achieve such goals Open Research relies on a number of practices such as Open Access, Open Data, Open Software, Open Educational Resources, Reproducible Science, Co-creation, Public Engagements, and Citizen Science. It also builds and expands on the principles of [FAIR data (Findable, Accessible, Interoperable, Reusable)][fair-principles].
 
-The above principles are applied throughout the research lifecycle, from the design of the research question to the dissemination of the results.
+## Open Research in practice 👩🏻‍💻
 
-### Openness in practice within research
+To ensure Research is truly open, each element of the research lifecycle should be publicly available, reusable, and transparent. 
 
 
 ## Open Research and Open Source
