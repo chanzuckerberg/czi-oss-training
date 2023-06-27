@@ -7,16 +7,18 @@ Pre-requisites: [Chapter 01: Introduction To Open Source](./01-intro-to-os.md)
 
 # Chapter 02: Types of Open Source Software
 
-Open source projects have a unified ethos, but can have a broad range of working cultures and atmospheres. In this chapter, we’ll learn about some dimensions along which OSS projects can differ.
+Open source projects have a unified ethos, but can have a varying range of working cultures and atmospheres. In this chapter, we'll learn about some dimensions along which OSS projects can differ.
 
-Let’s start by disambiguating a couple of terms for the scope of this chapter — when we say open source software “project” we mean both the:
+Let's start by disambiguating a couple of terms for the scope of this chapter — when we say open source software "project" we mean both the:
 
-- “OSS repository” - which includes the codebase, documentation, and design assets, and
-- “OSS community” - which refers to everyone who interacts with the repository like users and contributors.
+- "OSS repository" - which includes the codebase, documentation, and design assets, and
+- "OSS community" - which refers to everyone who interacts with the repository like users and contributors.
 
-The two most common ways to categorize or classify OSS projects are using licenses (to classify the software repository) and governance structures (to classify the community). License and governance inherently influence each other, so we'll use "motivation" as another way to think about types of OSS projects. There is a deep history to the free and open software movement, especially around licenses and governance, which we won’t get into in this chapter, but you can read about it in [this Wikipedia article](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software).
+The two most common ways to categorize or classify OSS projects are using licenses (to classify the software repository) and governance structures (to classify the community). License and governance inherently influence each other, so we'll use "motivation" as another way to think about types of OSS projects. There is a deep history to the free and open software movement, especially around licenses and governance, which we won't get into in this chapter, but you can read about it in [this Wikipedia article](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software).
 
-- Learning Objectives 🧠](#Learning-Objectives)
+## Table of Contents 🗂️
+
+- [Learning Objectives 🧠](#Learning-Objectives)
 - [OSS Licenses 🧑‍⚖️](#OSS-Licenses)
   - [Permissive Licenses](#Permissive-Licenses)
   - [Copyleft Licenses](#Copyleft-Licenses)
@@ -32,11 +34,11 @@ The two most common ways to categorize or classify OSS projects are using licens
 
 ## Learning Objectives 🧠
 
-In this chapter, we’ll focus on the practical details you need to navigate the different flavours of OSS communities:
+In this chapter, we'll focus on the practical details you need to navigate the different flavours of OSS communities:
 
 - Understand types of OSS licenses and why/when you should pay attention to them
-- Overview of governance structured in open source communities
-- Motivation behind creating and sustaining open source projects
+- Get an overview of governance structures in open source communities
+- Learn the motivations behind creating and sustaining open source projects
 
 ## OSS Licenses 🧑‍⚖️
 
@@ -46,7 +48,7 @@ The author of any piece of software holds all rights to it by default, even if t
 
 Open Source Initiative (OSI), a leading authority in the open source movement, recognizes [over a hundred different open source software licenses][osi-license]. These licenses lie on a spectrum of **permissiveness**, from the most permissive to the most protective (copyleft).
 
-<img src="./images/oss-licenses.svg" alt="abc"/>
+<img src="./images/oss-licenses.svg" alt="OSS licenses shown along a horizontal line that extends in both directions. On the left, we have Permissive - Minimal restrictions on derivations & redistributions, with examples: Apache, MIT, and BSD 3-Clause license. on the Right, we have Copyleft - Derivations & redistributions must remain open, with examples: Mozilla Public License (MPL) and GNU Public License (MPL) where GPL is placed further right indicating that it's more copyleft than MPL."/>
 
 ### Permissive Licenses
 
@@ -54,56 +56,56 @@ These are licenses with the least restrictions on usage, modifications, and redi
 
 ### Copyleft Licenses
 
-Also referred to as protective, restrictive, viral, or repetitive, copyleft licenses require any derivative work to be distributed as openly as the original work. In practice, your software needs to have a compatible open source license to use or redistribute a software that has a copyleft license. The most popular copyleft licenses are GNU Public License (GPL), and it’s variations Affero GNU Public License (AGPL) and Lesser GNU Public License (LGPL).
+Also referred to as protective, restrictive, viral, or repetitive, copyleft licenses require any derivative work to be distributed as openly as the original work. In practice, your software needs to have a compatible open source license to use or redistribute a software that has a copyleft license. The most popular copyleft licenses are GNU Public License (GPL), and it's variations Affero GNU Public License (AGPL) and Lesser GNU Public License (LGPL).
 
-### 🙋 Learner Question: Do you know napari’s license?
+### 🙋 Learner Question: Do you know napari's license?
 
-[napari is under the BSD 3-Clause license][napari-license], one of the most permissive license in the OSS ecosystem.
+[napari is licensed under the BSD 3-Clause license][napari-license], one of the most permissive license in the OSS ecosystem.
 
 <img src="./images/napari-license.png" alt="Napari license on GitHub"/>
 
-GitHub presents the details of a license file in a digestible form, you can quickly infer that the napari license:
+GitHub presents the details of a license file in an understandable form, you can quickly infer that the napari license:
 
 - permits a broad range of usage, modification, and distribution patterns,
 - protects the project against any liability and warranty claims,
 - and ensures attribution by requiring the license and copyright notice in derived work.
 
-💡**Tip**: [tl;drLegal][tldr-legal] is also a nice resource that presents these legal nuances in accessible language.
+💡**Tip**: [tl;drLegal][tldr-legal] is another nice resource that presents these legal nuances of licenses using accessible language.
 
 ### Contributing License Agreements
 
-If you contribute to a different project, maybe an upstream or downstream project, you may come across Contributor License Agreements (CLAs). A CLA legally clarifies the intellectual property (IP) rights for the contributions made by an individual or a company. CLAs primarily apply to code, documentation, and design contributions, as well as comments made on issue trackers and discussion forums. This agreement can take a few different forms, for example a voluntary pledge.
+While contributing to some OSS projects, perhaps an upstream or downstream project, you may come across Contributor License Agreements (CLAs). A CLA is a legal document that clarifies the intellectual property (IP) rights for the contributions made by an individual or a company. CLAs primarily apply to code, documentation, and design contributions, as well as comments made on issue trackers and discussion forums. This agreement can take different forms, for example a voluntary pledge.
 
 You will typically need to sign CLAs to contribute to high-profile, copyleft-licensed, or corporate-backed projects. It helps ensure the project has all the necessary permissions to use, modify, and distribute your contributions under their chosen open source license.
 
-❗️**Important:** If you need to sign a CLA to contribute to project, especially if you’re contributing to it during work hours, check with your management chain to ensure compliance.
+❗️**Important:** If you need to sign a CLA to contribute to a project, especially if you're contributing to it during work hours, check with your management chain to ensure compliance.
 
 ### License Considerations for Collaboration
 
-For the most part, you won’t need to think about licenses while contributing to open source projects.
+For the most part, you won't need to think about licenses while contributing to open source projects.
 
-❗️**Important:** If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project’s license. If there are restrictions, you should verify if your licenses are compatible.
+❗️**Important:** If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project's license. If there are restrictions, you should verify if your licenses are compatible.
 
-You can find the license file on the project’s hosted source repository, and note that sometimes the documentation and design assets may be under a different license than the codebase.
+You can find the license file on the project's hosted source repository, and note that sometimes the documentation and design assets may be under a different license than the codebase.
 
-Napari’s BSD 3-Clause license is compatible with majority of the other OSS licenses out there. However, if you’re un-sure any about any license clause, raise it along your management chain and they should be able to guide you.
+napari's BSD 3-Clause license is compatible with majority of the other OSS licenses out there. However, if you're un-sure any about any license clause, raise it along your management chain and they should be able to guide you.
 
 ## OSS Governance ⚖️
 
-As an open source project grows and the number of stakeholders increase, you need structured ways to make decisions and share responsibility. “Governance models” are the formal rules or informal conversions that define key roles and responsibilities for certain members in the community.
+As an open source project grows and the number of stakeholders increase, you need structured ways to make decisions and share responsibility. "Governance models" are the formal rules or informal convensions that define key roles and responsibilities for certain members in the community.
 
-It’s important to understand the governance model when you contribute to any OSS project. The governance model is how you identify the best community members to comment on and approve major changes to various parts of the project. If you’re interested in becoming a long-term contributor, the governance model is also your reference for how to take on more responsibility in the project.
+It's important to understand the governance model when you contribute to any OSS project. The governance model is how you identify the best community members to comment on and approve major changes to various parts of the project. If you're interested in becoming a long-term contributor, the governance model is also your reference for how to take on more responsibility in the project.
 
-[Red Hat recognizes](https://www.redhat.com/en/resources/guide-to-open-source-project-governance-models-overview) the following common governance models:
+[Red Hat recognizes](https://www.redhat.com/en/resources/guide-to-open-source-project-governance-models-overview) the following common approaches to OSS governance:
 
 - "Do-ocracy" — people who do the work make the decisions
-- Founder-leader — individual or group who authored the project make decisions
-- Self-appointing council or board — the community appoints a group (from within the community) to make decisions
+- Founder-leader — individual (or group) who authored the project make decisions
+- Self-appointed council or board — the community appoints a group (from within the community) to make decisions
 - Electoral — community elects certain members for specific roles in the project
 - Corporate-backed — decisions are made by a company that has majority stake in the project
 - Foundation-backed — a non-profit organization is set up (or engaged with) to make decisions
 
-We’ll learn more about governance models in the next chapter!
+We'll learn more about governance models in the next chapter!
 
 ## Motivations for OSS Projects 🌱
 
@@ -111,43 +113,41 @@ Understanding why an OSS project was created (and is maintained) can help you un
 
 ### Academic
 
-There are several open source projects that start because a researcher needed it for their research. Many projects in the PyData ecosystem started as academic projects. While some of these projects organically gain traction and community growth, there are many more that go unmaintained after the research project is complete.
-
-The primary motivation for these teams to open source their software is to share it with colleagues and other research teams and reduce duplicating work. These projects rarely invest in community growth or sustainability strategies, so you’ll often find them informally following the “do-ocracy” or founder-leader governance model, and have permissive licenses.
+There are several open source projects, especially in the PyData ecosystem, that were created by a research team for their research workflows. The primary motivation for these teams to open source their software is to share it with other teams and reduce duplicate work. While some of these projects can organically gain traction and become [community-driven][community-driven] over time, there are many more that get abandoned after the research project is complete. These projects rarely have the funding or bandwidth to invest in community engagement and sustainability strategies. You will often find them informally following the do-ocracy or founder-leader governance approaches, and adopting with permissive licenses.
 
 ### Company-backed
 
 Corporate, for/non -profit, companies create and maintain some open source projects for many reasons, including to:
 
-- Reach the open source community to grow the development and adoption of their project
-- Integrate smoothly with other open source projects in the ecosystem
-- Build goodwill and trust among users with transparent development
-- Ensure an existing OSS project that they depend on is well supported
+- Reach the open source community to accelerate the development and adoption of their tool,
+- Integrate smoothly with other open source projects in the ecosystem,
+- Build goodwill and trust among users with transparent development practices,
+- Contribute back to projects that are upstream to the company's software stack.
 
-Typically, these OSS projects and are critical to a paid (and/or proprietary) product or service that the company offers and it’s common for these projects to have restrictive licenses and strong CLAs.
+Typically, these OSS projects are critical to a paid (and/or proprietary) product or service that the company offers. It's not surprising for these projects to have restrictive licenses, strong CLAs, and corporate-backed governance structures. However, there are many examples of company-backed projects with permissive licenses and governance like electoral, foundation-backed, or self-appointed council.
 
 ### Individual/Hobby Projects
 
-These are projects created (almost entirely) by individuals to solve a problem that they had or simply to build something interesting. The authors open source their hobby projects to share it with other people might also may also find it helpful and/or interesting.
+These are projects created (almost entirely) by individuals to solve a problem that they had or simply to build something interesting. The author(s) open sources their hobby projects to share it with other people who might also may also find it helpful and interesting.
 
-A large number of these projects are deemed complete after an initial burst of activity and the creator (or other users who become contributors) only focus on minimal maintenance like security updates or bug fixes. Generally, these project don't have any formal governance models and the project creator makes all the major decisions. They also tend to have permissive licenses to allow for sharing with no-strings-attached.
+A large number of these projects are deemed complete after an initial burst of activity and the creator (or other users who become contributors) only focus on minimal maintenance like security updates or bug fixes. Generally, these project don't have any formal governance models and the project creator(s) makes all the major decisions. They also tend to have permissive licenses to allow for no-strings-attached-sharing.
 
 If these projects gain popularity, they sometimes grow into [community-driven][community-driven] or turn into a [company-backed][company-backed] projects.
 
 ### Community-driven
 
-Academic, company-backed, and individual projects can grow a large community (of users, contributors, enthusiasts, advocates, and more) and start being sustained by the community-as-a-whole instead of the original creators. Several projects in the Python and PyData community are community-driven, including foundational projects like NumPy, pandas, and Jupyter. These projects commonly lean towards permissive licenses, and electoral or self-appointed-council governance structures, that are clearly defined and documented.
+Academic, company-backed, and individual projects can grow a large community (of users, contributors, enthusiasts, advocates, and more) and start being sustained by the community-as-a-whole instead of the original creators. Several projects in the Python and PyData community are community-driven, including foundational projects like NumPy, pandas, and Jupyter. These projects usually lean towards permissive licenses, and electoral or self-appointed-council governance structures, that are clearly defined and documented.
 
 ### 🙋 Learner Question: How would you categorize "motivation" for napari?
 
-Based on the [project history](https://napari.org/stable/community/team.html#project-history), we can infer that napari was started as an academic/company-backed project, which has grown to be community-driven now.
+Based on the [project history](https://napari.org/stable/community/team.html#project-history), we can infer that napari was started as an academic/company-backed project, which has grown into a community-driven project.
 
 ## References 📚
 
 - [OSI approved licenses][osi-license]
-- [A dev’s guide to open source software licensing (The ReadME Project)](https://github.com/readme/guides/open-source-licensing)
+- [A dev's guide to open source software licensing (The ReadME Project)](https://github.com/readme/guides/open-source-licensing)
 - [A guide to open source project governance models (Red Hat)][governance-overview-redhat]
-- [tl;drLegar][tldr-legal]
+- [tl;drLegal][tldr-legal]
 
 <!-- reusable links -->
 
