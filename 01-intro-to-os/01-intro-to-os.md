@@ -1,9 +1,9 @@
 ---
-Learner personas: 
+Learner personas:
   - code contributor
   - code-adjacent contributor
   - manager/stakeholder
-Pre-requisites: 
+Pre-requisites:
   - none
 ---
 
@@ -26,8 +26,8 @@ Pre-requisites:
 
 By the end of this section, you should be able to:
 
-* Define open source and describe the main pillars of open source software.
-* Understand the difference and similarities between Open Source, Free Software, and InnerSource.
+- Define open source and describe the main pillars of open source software.
+- Understand the difference and similarities between Open Source, Free Software, and InnerSource.
 
 ## The Origins Of Open Source 🌱
 
@@ -37,36 +37,35 @@ The image below shows a condensed timeline of the Origins of open source.
 
 ![Timeline of the Origins of open source](./images/OSS-early-timeline.svg)
 
-* In the early years of computing (1950-1960s) software was often a research activity and was often released under the public domain, meaning that these works could not be owned by an individual or a collective.
-* Later, in the 1960s, with the rise of compilers and Operating Systems (OS) also came the rise of software-only companies.
-* In 1974 software was granted the ability to be copyrighted, which marks the start of software as a commodity.
-* In the Early 1980s, the Free Software Foundation (FSF) was founded by Richard Stallman, which was the first organization to advocate for free software. Within that decade Stallman also wrote the [Free Software Definition][free-software-definition].
-* Around this same time, the GNU Public License (GPL), was created and the first Linux kernel was released under such license.
-* Eric S. Raymond published the ["Cathedral and the Bazaar"][cathedral-and-bazaar] in 1997, an essay comparing two different development models: the Cathedral (top-down development model by an exclusive group of developers) and the Bazaar (where the code is developed publicly over the internet).
-* In 1998, the term open source was coined by a group of industry and free software individuals and the Open Source Initiative (OSI) was founded.
+- In the early years of computing (1950-1960s) software was often a research activity and was often released under the public domain, meaning that these works could not be owned by an individual or a collective.
+- Later, in the 1960s, with the rise of compilers and Operating Systems (OS) also came the rise of software-only companies.
+- In 1974 software was granted the ability to be copyrighted, which marks the start of software as a commodity.
+- In the Early 1980s, the Free Software Foundation (FSF) was founded by Richard Stallman, which was the first organization to advocate for free software. Within that decade Stallman also wrote the [Free Software Definition][free-software-definition].
+- Around this same time, the GNU Public License (GPL), was created and the first Linux kernel was released under such license.
+- Eric S. Raymond published the ["Cathedral and the Bazaar"][cathedral-and-bazaar] in 1997, an essay comparing two different development models: the Cathedral (top-down development model by an exclusive group of developers) and the Bazaar (where the code is developed publicly over the internet).
+- In 1998, the term open source was coined by a group of industry and free software individuals and the Open Source Initiative (OSI) was founded.
 
 ## Pragmatism vs. Social Movement ✊🏾
 
 > Open Source is a development methodology; free software is a social movement
-> `-`*Richard Stallman*
+> `-`_Richard Stallman_
 
 ### The Four Freedoms
 
 The Free Software Foundation is the organization responsible for defending the **Four Freedoms**. These freedoms establish the requisites for a piece of software to be considered free software.
 
-* **Freedom 0**: The freedom to run the program as you wish, for any purpose.
-* **Freedom 1**: The freedom to study how the program works, and change it, so it does your computing as you wish. Access to the source code is a precondition for this.
-* **Freedom 2**: The freedom to redistribute copies, so you can help others.
-* **Freedom 3**: The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+- **Freedom 0**: The freedom to run the program as you wish, for any purpose.
+- **Freedom 1**: The freedom to study how the program works, and change it, so it does your computing as you wish. Access to the source code is a precondition for this.
+- **Freedom 2**: The freedom to redistribute copies, so you can help others.
+- **Freedom 3**: The freedom to distribute copies of your modified versions to others. By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
-However, the word *free* in Free Software has often been conflated with *free, as in no price tag included*.
+However, the word _free_ in Free Software has often been conflated with _free, as in no price tag included_.
 
-> **Note:**
-> *Free software* does not mean *noncommercial*. On the contrary, a free program must be available for commercial use, commercial development, and commercial distribution.
+> **Note:** > _Free software_ does not mean _noncommercial_. On the contrary, a free program must be available for commercial use, commercial development, and commercial distribution.
 
 ### Open Source Definition
 
-The Open Source Initiative (OSI) is the organization responsible for defending the [**Open Source Definition** (OSD)][OS-definition]. The OSD is built on the Four Freedoms and the [Debian Software Guidelines](https://www.debian.org/social_contract#guidelines). It is formed by a set of 10 requirements that a piece of software must meet to be considered open source and is accepted as the single canonical definition of open source:
+The Open Source Initiative (OSI) is the organization responsible for defending the [**Open Source Definition** (OSD)][os-definition]. The OSD is built on the Four Freedoms and the [Debian Software Guidelines](https://www.debian.org/social_contract#guidelines). It is formed by a set of 10 requirements that a piece of software must meet to be considered open source and is accepted as the single canonical definition of open source:
 
 1. Free Redistribution - The license shall not restrict any party from selling or giving away the software as a component of a larger software distribution containing programs from multiple sources.
 2. Source Code - The program must include source code, and must allow distribution in source code as well as compiled form.
@@ -97,21 +96,22 @@ InnerSource is the application of open source principles within an organization.
 
 Some typical benefits of InnerSource are:
 
-* Increase code quality earlier in the lifecycle.
-* Help establish an open culture within an organization.
-* Develop software more collaboratively.
-* Increase visibility, transparency, and break down silos.
-* Reduction of redundant or duplicate work.
-* Reduction of red tape and bureaucracy.
+- Increase code quality earlier in the lifecycle.
+- Help establish an open culture within an organization.
+- Develop software more collaboratively.
+- Increase visibility, transparency, and break down silos.
+- Reduction of redundant or duplicate work.
+- Reduction of red tape and bureaucracy.
 
 Some early adopters of InnerSource are PayPal, Bosch, Bloomberg, Autodesk, and SanDisk.
 
 ## Resources 📚
 
-* [The Free Software Definition][free-software-definition]
-* [The Cathedral and the Bazaar][cathedral-and-bazaar]
+- [The Free Software Definition][free-software-definition]
+- [The Cathedral and the Bazaar][cathedral-and-bazaar]
 
 <!-- reusable links -->
+
 [free-software-definition]: https://www.gnu.org/philosophy/free-sw.en.html#four-freedoms
 [cathedral-and-bazaar]: https://creatingaction.stanford.edu/pdf/cathedral-bazaar.pdf
-[OS-definition]: https://opensource.org/osd-annotated
+[os-definition]: https://opensource.org/osd-annotated

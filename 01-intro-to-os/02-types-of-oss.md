@@ -1,10 +1,10 @@
 ---
 Learner personas:
-    - 'code contributor'
-    - 'code-adjacent contributor'
-    - 'manager/stakeholder'
+  - "code contributor"
+  - "code-adjacent contributor"
+  - "manager/stakeholder"
 Pre-requisites:
-    - 'Chapter 01: Introduction To Open Source'
+  - "Chapter 01: Introduction To Open Source"
 ---
 
 # Chapter 02: Types of Open Source Software
@@ -36,7 +36,7 @@ The two most common ways to categorize or classify OSS projects are using licens
     - [Individual/Hobby Projects](#individualhobby-projects)
     - [Community-driven](#community-driven)
     - [🙋 Learner Question: How would you categorize "motivation" for napari?](#learner-question-how-would-you-categorize-motivation-for-napari)
-  - [References 📚](#references-)
+  - [Resources 📚](#resources-)
 
 ## Learning Objectives 🧠
 
@@ -84,15 +84,15 @@ While contributing to some OSS projects, perhaps an upstream or downstream proje
 
 You will typically need to sign CLAs to contribute to high-profile, copyleft-licensed, or corporate-backed projects. It helps ensure the project has all the necessary permissions to use, modify, and distribute your contributions under their chosen open source license.
 
->**Important:**
->If you need to sign a CLA to contribute to a project, especially if you're contributing to it during work hours, check with your management chain to ensure compliance.
+> **Important:**
+> If you need to sign a CLA to contribute to a project, especially if you're contributing to it during work hours, check with your management chain to ensure compliance.
 
 ### License Considerations for Collaboration
 
 For the most part, you won't need to think about licenses while contributing to open source projects.
 
->**Important:**
->If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project's license. If there are restrictions, you should verify if your licenses are compatible.
+> **Important:**
+> If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project's license. If there are restrictions, you should verify if your licenses are compatible.
 
 You can find the license file on the project's hosted source repository, and note that sometimes the documentation and design assets may be under a different license than the codebase.
 
@@ -138,7 +138,7 @@ Typically, these OSS projects are critical to a paid (and/or proprietary) produc
 
 These are projects created (almost entirely) by individuals to solve a problem that they had or simply to build something interesting. The author(s) open sources their hobby projects to share it with other people who might also may also find it helpful and interesting.
 
-A large number of these projects are deemed complete after an initial burst of activity and the creator (or other users who become contributors) only focus on minimal maintenance like security updates or bug fixes. Generally, these project don't have any formal governance models and the project creator(s) makes all the major decisions. They also tend to have permissive licenses to allow for no-strings-attached-sharing.
+Many these projects are deemed complete after an initial burst of activity and the creator (or other users who become contributors) only focus on minimal maintenance like security updates or bug fixes. Generally, these project don't have any formal governance models and the project creator(s) makes all the major decisions. They also tend to have permissive licenses to allow for no-strings-attached-sharing.
 
 If these projects gain popularity, they sometimes grow into [community-driven][community-driven] or turn into a [company-backed][company-backed] projects.
 
@@ -150,7 +150,7 @@ Academic, company-backed, and individual projects can grow a large community (of
 
 Based on the [project history](https://napari.org/stable/community/team.html#project-history), we can infer that napari was started as an academic/company-backed project, which has grown into a community-driven project.
 
-## References 📚
+## Resources 📚
 
 - [OSI approved licenses][osi-license]
 - [A dev's guide to open source software licensing (The ReadME Project)](https://github.com/readme/guides/open-source-licensing)
