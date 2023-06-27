@@ -1,6 +1,6 @@
 # Module 01 - Introduction To Open Source
 
-This module focuses on the basics of Open Source
+This module focuses on the basics of Open Source.
 
 ## Chapters in this module 🗃
 
