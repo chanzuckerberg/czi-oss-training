@@ -1,7 +1,11 @@
 ---
 
-Learner personas: 'code contributor', 'code-adjacent contributor', 'manager/stakeholder'
-Pre-requisites: [Chapter 01: Introduction To Open Source](./01-intro-to-os.md)
+Learner personas: 
+	- 'code contributor'
+	- 'code-adjacent contributor'
+	- 'manager/stakeholder'
+Pre-requisites: 
+	- [Chapter 01: Introduction To Open Source](./01-intro-to-os.md)
 
 ---
 
@@ -12,7 +16,7 @@ Open source projects have a unified ethos, but can have a varying range of worki
 Let's start by disambiguating a couple of terms for the scope of this chapter — when we say open source software "project" we mean both the:
 
 - "OSS repository" - which includes the codebase, documentation, and design assets, and
-- "OSS community" - which refers to everyone who interacts with the repository like users and contributors.
+- "OSS community" - which refers to everyone who interacts with the repository like users, contributors, and in some cases, corporate sponsors.
 
 The two most common ways to categorize or classify OSS projects are using licenses (to classify the software repository) and governance structures (to classify the community). License and governance inherently influence each other, so we'll use "motivation" as another way to think about types of OSS projects. There is a deep history to the free and open software movement, especially around licenses and governance, which we won't get into in this chapter, but you can read about it in [this Wikipedia article](https://en.wikipedia.org/wiki/History_of_free_and_open-source_software).
 
@@ -46,7 +50,7 @@ A software is fundamentally, and legally, considered "open source" only if it ha
 
 The author of any piece of software holds all rights to it by default, even if the source code is hosted in a public online space. A license is how you "allow" more people to use, modify, and distribute your work, making it "open source" in principle. It gives you attribution, while protecting you against legal warranty and liability claims. Licenses also let you set _restrictions_ on how your work can be used and who can use it.
 
-Open Source Initiative (OSI), a leading authority in the open source movement, recognizes [over a hundred different open source software licenses][osi-license]. These licenses lie on a spectrum of **permissiveness**, from the most permissive to the most protective (copyleft).
+The Open Source Initiative (OSI), a leading authority in the open source movement, recognizes [over a hundred different open source software licenses][osi-license]. These licenses lie on a spectrum of **permissiveness**, from the most permissive to the most protective (copyleft).
 
 <img src="./images/oss-licenses.svg" alt="OSS licenses shown along a horizontal line that extends in both directions. On the left, we have Permissive - Minimal restrictions on derivations & redistributions, with examples: Apache, MIT, and BSD 3-Clause license. on the Right, we have Copyleft - Derivations & redistributions must remain open, with examples: Mozilla Public License (MPL) and GNU Public License (MPL) where GPL is placed further right indicating that it's more copyleft than MPL."/>
 
@@ -78,17 +82,19 @@ While contributing to some OSS projects, perhaps an upstream or downstream proje
 
 You will typically need to sign CLAs to contribute to high-profile, copyleft-licensed, or corporate-backed projects. It helps ensure the project has all the necessary permissions to use, modify, and distribute your contributions under their chosen open source license.
 
-❗️**Important:** If you need to sign a CLA to contribute to a project, especially if you're contributing to it during work hours, check with your management chain to ensure compliance.
+>**Important:** 
+>If you need to sign a CLA to contribute to a project, especially if you're contributing to it during work hours, check with your management chain to ensure compliance.
 
 ### License Considerations for Collaboration
 
 For the most part, you won't need to think about licenses while contributing to open source projects.
 
-❗️**Important:** If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project's license. If there are restrictions, you should verify if your licenses are compatible.
+>**Important:**
+>If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project's license. If there are restrictions, you should verify if your licenses are compatible.
 
 You can find the license file on the project's hosted source repository, and note that sometimes the documentation and design assets may be under a different license than the codebase.
 
-napari's BSD 3-Clause license is compatible with majority of the other OSS licenses out there. However, if you're un-sure any about any license clause, raise it along your management chain and they should be able to guide you.
+napari's BSD 3-Clause license is compatible with the majority of the other OSS licenses out there. However, if you're unsure about any license clause, raise it along your management chain and they should be able to guide you.
 
 ## OSS Governance ⚖️
 
