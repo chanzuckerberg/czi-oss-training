@@ -12,7 +12,7 @@ Pre-requisites:
 
 # Power Map Activity
 
-Power mapping is a visual tool used to understand who the key involved parties (a.k.a. stakeholders) are in a given system, and how they are related to each other.
+Power mapping is a brainstorming tool used to understand who the key involved parties (a.k.a. stakeholders) are in a given system, and how they are related to each other.
 It also helps us identify critical resources within this system as well as the power dynamics between the involved parties.
 
 ## Table of Contents 🗂️
