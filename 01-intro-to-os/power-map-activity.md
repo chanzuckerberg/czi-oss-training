@@ -36,7 +36,7 @@ After completing this activity you should be able to:
 2. Start by reflecting on these two questions:
    1. Who are the key involved parties in this project? (e.g. maintainers, contributors, users, sponsors, etc.)
    2. What do these parties value? What are the essential resources they need to engage with the project? (e.g. time, money, skills, etc.)
-3. Once you've got a feeling for the answer to these questions, begin building your power map. Grab a copy of the [Power Map Template](template-OSS-power-map.pdf) and fill it out for your chosen project with the following information:
+3. Once you've got a feeling for the answer to these questions, begin building your power map. Grab a copy of the [Power Map Template](./oss-power-map.pdf) and fill it out for your chosen project with the following information:
 
    1. _Key parties involved_: who are the main individuals or groups participating in the project? Depending on its governance structure there might be various layers of stakeholders. Also, make sure to include external or commercial supporters/sponsors.
    2. _Resources_: what are the resources that each of these parties needs to engage with the project? (e.g. time, money, skills, etc.) Are there any resources that are essential to the project's success or sustainability? What resources does each of these parties bring to and value within the project?
