@@ -4,6 +4,7 @@ Learner personas:
   - code-adjacent contributor
   - manager/stakeholder
 Pre-requisites:
+  - "Chapter 02: Types of Open Source Software"
   - "Chapter 01: Introduction To Open Source"
 ---
 
