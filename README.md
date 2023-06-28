@@ -14,6 +14,7 @@ This repository contains the training materials for the CZI Imaging Tech team fo
   - [Course outline 🗺](#course-outline-)
   - [Contributing](#contributing)
     - [Pre-commit hooks 🧹](#pre-commit-hooks-)
+  - [Code of Conduct](#code-of-conduct)
   - [License 📄](#license-)
 
 ## Format and structure 🔖
@@ -97,6 +98,10 @@ pre-commit run --all-files
 ```
 
 Once installed, the hooks should run automatically on every commit.
+
+## Code of Conduct
+
+This project adheres to the [Contributor Covenant Code of Conduct](https://github.com/chanzuckerberg/.github/blob/master/CODE_OF_CONDUCT.md?rgh-link-date=2023-06-28T16%3A31%3A48Z). By participating, you are expected to uphold this code. Please report unacceptable behavior to [opensource@chanzuckerberg.com](mailto:opensource@chanzuckerberg.com).
 
 ## License 📄
 
