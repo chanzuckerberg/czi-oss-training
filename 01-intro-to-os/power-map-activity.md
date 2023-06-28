@@ -7,6 +7,7 @@ Pre-requisites:
   - "Chapter 01: Introduction To Open Source"
   - "Chapter 02: Types of Open Source"
   - "Chapter 03: Understanding Open Source Governance"
+  - "Chapter 04: Why contribute to OSS? (as an individual and organization)"
 ---
 
 # Power Map Activity
@@ -38,12 +39,12 @@ After completing this activity you should be able to:
 3. Once you've got a feeling for the answer to these questions, begin building your power map. Grab a copy of the [Power Map Template](template-OSS-power-map.pdf) and fill it out for your chosen project with the following information:
 
    1. _Key parties involved_: who are the main individuals or groups participating in the project? Depending on its governance structure there might be various layers of stakeholders. Also, make sure to include external or commercial supporters/sponsors.
-   2. _Resources_: what are the resources that each of these parties needs to engage with the project? (e.g. time, money, skills, etc.) Are there any resources that are essential to the project's success or sustainability? What resources do each of these parties bring to and value within the project?
+   2. _Resources_: what are the resources that each of these parties needs to engage with the project? (e.g. time, money, skills, etc.) Are there any resources that are essential to the project's success or sustainability? What resources does each of these parties bring to and value within the project?
    3. _Power and influence_: think about the power dynamics between the different parties. Who has more power and influence over the project? Who has less? What are the factors that influence this power dynamic? Who is responsible for making decisions within the project or relating to the resources identified in Step 2.?
       You can think of power in terms of:
 
       - Power of resources/budget
-      - Human Resources power (including being able to decide on maintainership status or hiring)
+      - Human Resources power (including being able to decide on maintainers/contributor status or hiring)
       - Decision-making over strategic direction and priorities
       - Decision-making over ways of working
       - Access to and sharing of knowledge and information
