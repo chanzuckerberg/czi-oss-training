@@ -4,8 +4,9 @@ Learner personas:
   - code-adjacent contributor
   - manager/stakeholder
 Pre-requisites:
-  - "Chapter 02: Types of Open Source Software"
   - "Chapter 01: Introduction To Open Source"
+  - "Chapter 02: Types of Open Source Software"
+  - "Chapter 04: Why contribute to OSS? (as an individual and organization)"
 ---
 
 # Chapter 05: How Does OSS Relate To The Open Research Movement?
