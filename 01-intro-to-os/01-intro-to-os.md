@@ -18,9 +18,10 @@ Pre-requisites:
   - [Pragmatism vs. Social Movement ✊🏾](#pragmatism-vs-social-movement-)
     - [The Four Freedoms](#the-four-freedoms)
     - [Open Source Definition](#open-source-definition)
-  - [InnerSource](#innersource)
+  - [InnerSource 🏢](#innersource-)
     - [Benefits of InnerSource](#benefits-of-innersource)
   - [Resources 📚](#resources-)
+  - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
@@ -47,8 +48,10 @@ The image below shows a condensed timeline of the Origins of open source.
 
 ## Pragmatism vs. Social Movement ✊🏾
 
-> Open Source is a development methodology; free software is a social movement
-> `-`_Richard Stallman_
+<blockquote>
+<p> Open Source is a development methodology; free software is a social movement. </p>
+<p> <i> Richard Stallman </i> </p>
+</blockquote>
 
 ### The Four Freedoms
 
@@ -78,18 +81,18 @@ The Open Source Initiative (OSI) is the organization responsible for defending t
 9. License Must Not Restrict Other Software - The license must not place restrictions on other software that is distributed along with the licensed software.
 10. License Must Be Technology-Neutral - No provision of the license may be predicated on any individual technology or style of interface.
 
-> **Note:**
+> **Note**
 > This definition of open source was coined in an attempt to clarify the concept of free from the [Four Freedoms](#the-four-freedoms), leading to a more pragmatic approach of software development (vs. the social movement approach of free software).
 
 In the OSD the considerations are more technically aligned with a focus on faster and better development involving the community. As a consequence, the Open Source movement has seen more corporate buy-in and adoption.
 
-## InnerSource
+## InnerSource 🏢
 
 While InnerSource is not a core part of this training, it is worth mentioning it as it is a practice that can be often confused with open source.
 
 InnerSource is the application of open source principles within an organization. It is a practice that aims to increase collaboration and transparency within an organization by using open source tools and methodologies.
 
-> **Note:**
+> **Note**
 > When teams use InnerSource they are developing **proprietary** software and contributions are opened to different teams within the organization
 
 ### Benefits of InnerSource
@@ -109,6 +112,10 @@ Some early adopters of InnerSource are PayPal, Bosch, Bloomberg, Autodesk, and S
 
 - [The Free Software Definition][free-software-definition]
 - [The Cathedral and the Bazaar][cathedral-and-bazaar]
+
+## Continue learning 🚥
+
+**[Next Chapter: 02 - Types of Open Source Software](./02-types-of-oss.md)** ➡️
 
 <!-- reusable links -->
 
