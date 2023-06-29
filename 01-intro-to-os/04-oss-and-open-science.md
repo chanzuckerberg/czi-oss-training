@@ -6,20 +6,21 @@ Learner personas:
 Pre-requisites:
   - "Chapter 01: Introduction To Open Source"
   - "Chapter 02: Types of Open Source Software"
-  - "Chapter 04: Why contribute to OSS? (as an individual and organization)"
+  - "Chapter 03: Understanding OSS Governance"
 ---
 
-# Chapter 05: How Does OSS Relate To The Open Research Movement?
+# Chapter 04: How Does OSS Relate To The Open Research Movement?
 
 ## Table of Contents 🗂️
 
-- [Chapter 05: How Does OSS Relate To The Open Research Movement?](#chapter-05-how-does-oss-relate-to-the-open-research-movement)
+- [Chapter 04: How Does OSS Relate To The Open Research Movement?](#chapter-04-how-does-oss-relate-to-the-open-research-movement)
   - [Table of Contents 🗂️](#table-of-contents-️)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Introduction to Open Research 🔭](#introduction-to-open-research-)
   - [Open Research in practice 👩🏻‍💻](#open-research-in-practice-)
   - [Open Research and Open Source 💻](#open-research-and-open-source-)
   - [Resources 📚](#resources-)
+  - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
@@ -72,7 +73,7 @@ Below is a more comprehensive taxonomy of Open Science by [FOSTER](https://www.f
 
 The [Open Definition][open-definition] sets out several principles that define openness about data and content (including software) and is widely used across Open Research contexts. The Open Definition can be summarized as follows:
 
-> Open data and content can be freely used, modified, and shared by anyone for any purpose
+> Open data and content can be freely used, modified, and shared by anyone for any purpose.
 
 Additionally, the Open Definition was originally derived from the Open Source Definition and retains many of its principles such as:
 
@@ -91,6 +92,12 @@ It is important to remember that Open Research encompasses other practices as de
 - [Licenses conformant with the Open Definition](https://opendefinition.org/licenses/)
 - [Licenses nonconforming with the Open Definition](https://opendefinition.org/licenses/nonconformant/)
 - [UNESCO Recommendations for Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation)
+
+## Continue learning 🚥
+
+<!-- TODO: update link to chapter 03 -->
+
+⬅️ **[Previous Chapter: 03 - Understanding OSS Governance](./01-intro-to-os.md)**
 
 <!-- reusable links -->
 

@@ -1,8 +1,8 @@
 ---
 Learner personas:
-  - "code contributor"
-  - "code-adjacent contributor"
-  - "manager/stakeholder"
+  - code contributor
+  - code-adjacent contributor
+  - manager/stakeholder
 Pre-requisites:
   - "Chapter 01: Introduction To Open Source"
 ---
@@ -37,6 +37,7 @@ The two most common ways to categorize or classify OSS projects are using licens
     - [Community-driven](#community-driven)
     - [🙋 Learner Question: How would you categorize "motivation" for napari?](#learner-question-how-would-you-categorize-motivation-for-napari)
   - [Resources 📚](#resources-)
+  - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
@@ -84,14 +85,14 @@ While contributing to some OSS projects, perhaps an upstream or downstream proje
 
 You will typically need to sign CLAs to contribute to high-profile, copyleft-licensed, or corporate-backed projects. It helps ensure the project has all the necessary permissions to use, modify, and distribute your contributions under their chosen open source license.
 
-> **Important:**
+> **Important**
 > If you need to sign a CLA to contribute to a project, especially if you're contributing to it during work hours, check with your management chain to ensure compliance.
 
 ### License Considerations for Collaboration
 
 For the most part, you won't need to think about licenses while contributing to open source projects.
 
-> **Important:**
+> **Important**
 > If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project's license. If there are restrictions, you should verify if your licenses are compatible.
 
 You can find the license file on the project's hosted source repository, and note that sometimes the documentation and design assets may be under a different license than the codebase.
@@ -106,12 +107,12 @@ It's important to understand the governance model when you contribute to any OSS
 
 [Red Hat recognizes](https://www.redhat.com/en/resources/guide-to-open-source-project-governance-models-overview) the following common approaches to OSS governance:
 
-- "Do-ocracy" — people who do the work make the decisions
-- Founder-leader — individual (or group) who authored the project make decisions
-- Self-appointed council or board — the community appoints a group (from within the community) to make decisions
-- Electoral — community elects certain members for specific roles in the project
-- Corporate-backed — decisions are made by a company that has majority stake in the project
-- Foundation-backed — a non-profit organization is set up (or engaged with) to make decisions
+- **"Do-ocracy"** — people who do the work make the decisions
+- **Founder-leader** — individual (or group) who authored the project make decisions
+- **Self-appointed council or board** — the community appoints a group (from within the community) to make decisions
+- **Electoral** — community elects certain members for specific roles in the project
+- **Corporate-backed** — decisions are made by a company that has majority stake in the project
+- **Foundation-backed** — a non-profit organization is set up (or engaged with) to make decisions
 
 We'll learn more about governance models in the next chapter!
 
@@ -156,6 +157,12 @@ Based on the [project history](https://napari.org/stable/community/team.html#pro
 - [A dev's guide to open source software licensing (The ReadME Project)](https://github.com/readme/guides/open-source-licensing)
 - [A guide to open source project governance models (Red Hat)][governance-overview-redhat]
 - [tl;drLegal][tldr-legal]
+
+## Continue learning 🚥
+
+<!-- TODO: update link to chapter 03 -->
+
+⬅️ **[Previous Chapter: 01 - Introduction to OSS](./01-intro-to-os.md)** | **[Next Chapter: 03 - Understanding OSS governance](./02-types-of-oss.md)** ➡️
 
 <!-- reusable links -->
 
