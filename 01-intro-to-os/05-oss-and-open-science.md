@@ -34,7 +34,7 @@ Open Research (often referred to as Open Science[^1]) aims to transform the way 
 
 [^1]: The term Open Science is often used interchangeably with Open Research. However, Open Research is a more inclusive term that encompasses Open Science and other research practices such as Humanities and Social Sciences.
 
-The [Organization for Economic Co-operation and Development (OECD)](https://www.fct.pt/dsi/docs/Making_Open_Science_a_Reality.pdf) defines Open Science as:
+The [Organization for Economic Co-operation and Development (OECD)](https://read.oecd-ilibrary.org/science-and-technology/making-open-science-a-reality_5jrs2f963zs1-en#page1) defines Open Science as:
 
 > The practice of making the primary outputs of publicly funded research results – publications and the research data – publicly accessible in a digital format with no or minimal restriction.
 
