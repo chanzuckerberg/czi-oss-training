@@ -1,12 +1,10 @@
 ---
-
-Learner personas: 
-    - 'code contributor'
-    - 'code-adjacent contributor'
-    - 'manager/stakeholder'
-Pre-requisites: 
-    - 'Chapter 01: Introduction To Open Source'
-
+Learner personas:
+  - "code contributor"
+  - "code-adjacent contributor"
+  - "manager/stakeholder"
+Pre-requisites:
+  - "Chapter 01: Introduction To Open Source"
 ---
 
 # Chapter 02: Types of Open Source Software
@@ -22,19 +20,23 @@ The two most common ways to categorize or classify OSS projects are using licens
 
 ## Table of Contents 🗂️
 
-- [Learning Objectives 🧠](#Learning-Objectives)
-- [OSS Licenses 🧑‍⚖️](#OSS-Licenses)
-  - [Permissive Licenses](#Permissive-Licenses)
-  - [Copyleft Licenses](#Copyleft-Licenses)
-  - [Contributing License Agreements](#Contributing-License-Agreements)
-  - [License Considerations for Collaboration](#License-Considerations-for-Collaboration)
-- [OSS Governance ⚖️](#OSS-Governance)
-- [Motivations for OSS Projects 🌱](#Motivations-for-OSSProjects)
-  - [Academic](#Academic)
-  - [Company-backed](#Company-backed)
-  - [Individual/Hobby Projects](#Individual-Hobby-Projects)
-  - [Community-driven](#Community-driven)
-- [References 📚](#References)
+- [Chapter 02: Types of Open Source Software](#chapter-02-types-of-open-source-software)
+  - [Table of Contents 🗂️](#table-of-contents-️)
+  - [Learning Objectives 🧠](#learning-objectives-)
+  - [OSS Licenses 🧑‍⚖️](#oss-licenses-️)
+    - [Permissive Licenses](#permissive-licenses)
+    - [Copyleft Licenses](#copyleft-licenses)
+    - [🙋 Learner Question: Do you know napari's license?](#learner-question-do-you-know-naparis-license)
+    - [Contributing License Agreements](#contributing-license-agreements)
+    - [License Considerations for Collaboration](#license-considerations-for-collaboration)
+  - [OSS Governance ⚖️](#oss-governance-️)
+  - [Motivations for OSS Projects 🌱](#motivations-for-oss-projects-)
+    - [Academic](#academic)
+    - [Company-backed](#company-backed)
+    - [Individual/Hobby Projects](#individualhobby-projects)
+    - [Community-driven](#community-driven)
+    - [🙋 Learner Question: How would you categorize "motivation" for napari?](#learner-question-how-would-you-categorize-motivation-for-napari)
+  - [Resources 📚](#resources-)
 
 ## Learning Objectives 🧠
 
@@ -82,15 +84,15 @@ While contributing to some OSS projects, perhaps an upstream or downstream proje
 
 You will typically need to sign CLAs to contribute to high-profile, copyleft-licensed, or corporate-backed projects. It helps ensure the project has all the necessary permissions to use, modify, and distribute your contributions under their chosen open source license.
 
->**Important:** 
->If you need to sign a CLA to contribute to a project, especially if you're contributing to it during work hours, check with your management chain to ensure compliance.
+> **Important:**
+> If you need to sign a CLA to contribute to a project, especially if you're contributing to it during work hours, check with your management chain to ensure compliance.
 
 ### License Considerations for Collaboration
 
 For the most part, you won't need to think about licenses while contributing to open source projects.
 
->**Important:**
->If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project's license. If there are restrictions, you should verify if your licenses are compatible.
+> **Important:**
+> If you add a dependency on or integrate with another open source project, you should confirm if there are any restrictions in the project's license. If there are restrictions, you should verify if your licenses are compatible.
 
 You can find the license file on the project's hosted source repository, and note that sometimes the documentation and design assets may be under a different license than the codebase.
 
@@ -98,7 +100,7 @@ napari's BSD 3-Clause license is compatible with the majority of the other OSS l
 
 ## OSS Governance ⚖️
 
-As an open source project grows and the number of stakeholders increase, you need structured ways to make decisions and share responsibility. "Governance models" are the formal rules or informal convensions that define key roles and responsibilities for certain members in the community.
+As an open source project grows and the number of stakeholders increase, you need structured ways to make decisions and share responsibility. "Governance models" are the formal rules or informal conventions that define key roles and responsibilities for certain members in the community.
 
 It's important to understand the governance model when you contribute to any OSS project. The governance model is how you identify the best community members to comment on and approve major changes to various parts of the project. If you're interested in becoming a long-term contributor, the governance model is also your reference for how to take on more responsibility in the project.
 
@@ -123,7 +125,7 @@ There are several open source projects, especially in the PyData ecosystem, that
 
 ### Company-backed
 
-Corporate, for/non -profit, companies create and maintain some open source projects for many reasons, including to:
+Corporate, for/non-profit, companies create and maintain some open source projects for many reasons, including to:
 
 - Reach the open source community to accelerate the development and adoption of their tool,
 - Integrate smoothly with other open source projects in the ecosystem,
@@ -136,7 +138,7 @@ Typically, these OSS projects are critical to a paid (and/or proprietary) produc
 
 These are projects created (almost entirely) by individuals to solve a problem that they had or simply to build something interesting. The author(s) open sources their hobby projects to share it with other people who might also may also find it helpful and interesting.
 
-A large number of these projects are deemed complete after an initial burst of activity and the creator (or other users who become contributors) only focus on minimal maintenance like security updates or bug fixes. Generally, these project don't have any formal governance models and the project creator(s) makes all the major decisions. They also tend to have permissive licenses to allow for no-strings-attached-sharing.
+Many these projects are deemed complete after an initial burst of activity and the creator (or other users who become contributors) only focus on minimal maintenance like security updates or bug fixes. Generally, these project don't have any formal governance models and the project creator(s) makes all the major decisions. They also tend to have permissive licenses to allow for no-strings-attached-sharing.
 
 If these projects gain popularity, they sometimes grow into [community-driven][community-driven] or turn into a [company-backed][company-backed] projects.
 
@@ -148,7 +150,7 @@ Academic, company-backed, and individual projects can grow a large community (of
 
 Based on the [project history](https://napari.org/stable/community/team.html#project-history), we can infer that napari was started as an academic/company-backed project, which has grown into a community-driven project.
 
-## References 📚
+## Resources 📚
 
 - [OSI approved licenses][osi-license]
 - [A dev's guide to open source software licensing (The ReadME Project)](https://github.com/readme/guides/open-source-licensing)
