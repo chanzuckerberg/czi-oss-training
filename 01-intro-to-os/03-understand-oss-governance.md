@@ -148,8 +148,8 @@ Likewise, there is a vibrant community of people using Python for scientific res
 
 All of these projects are built to interoperate with each other and are most powerful when working together, hence creating an ecosystem. We call this the PyData[^3], Scientific Python[^4], or Python data science ecosystem.
 
-[^3]: [PyData is also a meetup and conference series by NumFOCUS](https://pydata.org/).
-[^4]: [Scientific Python is also a loose-federation of some projects in the ecosystem of Python tools for science and data work](https://scientific-python.org/).
+[^3]: [PyData is also a meetup and conference series by NumFOCUS.](https://pydata.org/)
+[^4]: [Scientific Python is also a loose-federation of some projects in the ecosystem of Python tools for science and data work.](https://scientific-python.org/)
 
 ### 🙋 Learner questions: Where does napari fit it the OSS ecosystem?
 
