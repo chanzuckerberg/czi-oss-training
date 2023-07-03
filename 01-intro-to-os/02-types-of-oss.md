@@ -67,7 +67,7 @@ Also referred to as protective, restrictive, viral, or repetitive, copyleft lice
 
 ### 🙋 Learner Question: Do you know napari's license?
 
-[napari is licensed under the BSD 3-Clause license][napari-license], one of the most permissive license in the OSS ecosystem.
+[napari is licensed under the BSD 3-Clause license][napari-license], one of the most permissive licenses in the OSS ecosystem.
 
 <img src="./images/napari-license.png" alt="Napari license on GitHub"/>
 
@@ -97,7 +97,7 @@ For the most part, you won't need to think about licenses while contributing to 
 
 You can find the license file on the project's hosted source repository, and note that sometimes the documentation and design assets may be under a different license than the codebase.
 
-napari's BSD 3-Clause license is compatible with the majority of the other OSS licenses out there. However, if you're unsure about any license clause, raise it along your management chain and they should be able to guide you.
+napari's BSD 3-Clause license is compatible with the majority of the other OSS licenses out there. However, if you're unsure about any license clause, raise it along your management chain, and they should be able to guide you.
 
 ## OSS Governance ⚖️
 
@@ -160,9 +160,7 @@ Based on the [project history](https://napari.org/stable/community/team.html#pro
 
 ## Continue learning 🚥
 
-<!-- TODO: update link to chapter 03 -->
-
-⬅️ **[Previous Chapter: 01 - Introduction to OSS](./01-intro-to-os.md)** | **[Next Chapter: 03 - Understanding OSS governance](./02-types-of-oss.md)** ➡️
+⬅️ **[Previous Chapter: 01 - Introduction to OSS](./01-intro-to-os.md)** | **[Next Chapter: 03 - Understanding OSS governance](./03-understand-oss-governance.md)** ➡️
 
 <!-- reusable links -->
 

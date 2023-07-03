@@ -1,6 +1,6 @@
 # Module 01 - Introduction To Open Source
 
-This module gives an introduction to Open Source, its history and ethos. As well as an overview of the different types of Open Source projects and its relationship with Open Research.
+This module gives an introduction to Open Source, its history and ethos. As well as an overview of the different types of Open Source projects and their relationship with Open Research.
 
 ## Chapters in this module 🗃
 

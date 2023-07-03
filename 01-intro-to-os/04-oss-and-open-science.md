@@ -78,7 +78,7 @@ The [Open Definition][open-definition] sets out several principles that define o
 Additionally, the Open Definition was originally derived from the Open Source Definition and retains many of its principles such as:
 
 - freedom to use, modify, and share
-- no discrimination against fields of endeavour, individuals, or groups of people
+- no discrimination against fields of endeavor, individuals, or groups of people
 
 Additionally, it requires that any content is distributed under an open license compatible with other open licenses (e.g. OSI licenses such as MIT, BSD-3, etc.).
 Research software outputs adhering to the Open Definition should then be distributed under an open license, though to be considered Open Source, the software must also meet the [Open Source Definition](https://opensource.org/osd-annotated) as described in the [Introduction to OSS chapter](./01-intro-to-os.md).

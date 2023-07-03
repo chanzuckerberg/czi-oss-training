@@ -25,7 +25,7 @@ At it's core, governance is a way for the open source community to align on _who
     - [Benevolent Dictator for Life (BDFL)](#benevolent-dictator-for-life-bdfl)
     - [Core team](#core-team)
     - [Elected council](#elected-council)
-    - [Council \& sub-committees](#council--sub-committees)
+    - [Council \& subcommittees](#council--subcommittees)
     - [A note on terminology](#a-note-on-terminology)
   - [Enhancement Proposals 📑](#enhancement-proposals-)
     - [🙋 Learner question: Do you know how napari is governed?](#learner-question-do-you-know-how-napari-is-governed)
@@ -34,6 +34,7 @@ At it's core, governance is a way for the open source community to align on _who
   - [Interlude: Broader open source software community 🌱](#interlude-broader-open-source-software-community-)
     - [🙋 Learner questions: Where does napari fit it the OSS ecosystem?](#-learner-questions-where-does-napari-fit-it-the-oss-ecosystem)
   - [Resources 📚](#resources-)
+  - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
@@ -78,14 +79,14 @@ Similar to the core team, the elected council model also involves a team of sust
 The main difference is that they are elected by the community and council members serve a fixed term.
 The Python project and the Kubernetes project have good implementations of the elected council governance model.
 
-### Council & sub-committees
+### Council & subcommittees
 
 Beyond a certain scale or complexity, projects start having different specialized areas with experts in each area.
 It's important for these areas and experts to be recognized and involved in decisions that affect the whole community.
 
-The council & sub-committee model is a two-tiered approach to governance.
-The council (usually elected, but sometimes core-team-like) is responsible for overall direction and community-wide-decisions, and sub-committees are created to lead and make decisions for specific areas of the project.
-The two tiers work collaboratively, with the council advising the sub-committees and the committees representing their special area in community discussions.
+The council & subcommittee model is a two-tiered approach to governance.
+The council (usually elected, but sometimes core-team-like) is responsible for overall direction and community-wide-decisions, and subcommittees are created to lead and make decisions for specific areas of the project.
+The two tiers work collaboratively, with the council advising the subcommittees and the committees representing their particular area in community discussions.
 
 Examples of this governance model are the [Kubernetes project with "Special Interest Groups"](https://github.com/kubernetes/community/blob/master/kubernetes_governance_diagram.png), and the [Jupyter Project with the "Software Steering Council"](https://jupyter.org/governance/overview.html).
 
@@ -101,13 +102,13 @@ They don't have an explicit community vote for joining the council, they follow 
 ## Enhancement Proposals 📑
 
 The second half of governance involves _how decisions are made_.
-In the Python and PyData ecosystem, community decision making takes the form of "Enhancement Proposals".
+In the Python and PyData ecosystem, community decision-making takes the form of "Enhancement Proposals".
 Enhancements proposals are a structured way for contributors to share ideas for a new feature or major change, propose details and impact, and gather feedback the commuting before proceeding with implementation.
 Enhancement Proposal are for large scale or community-wide topics, many day-to-day decisions can be made after quick discussions on the project's communication platform like GitHub issues.
 Examples of Enhancement proposals are [Python's PEPs](https://peps.python.org/pep-0001/), [NumPy's NEPs](https://numpy.org/neps/nep-0000.html), [Kubernetes' KEPs](https://github.com/kubernetes/enhancements/blob/master/keps/sig-architecture/0000-kep-process/README.md), etc.
 
 > **Note:**
-> Other terms for Enhancement Proposals are "Advancement Proposals", "Request for Discussion" (RFDs), or or "Request for Comments" (RFCs).
+> Other terms for Enhancement Proposals are "Advancement Proposals", "Request for Discussion" (RFDs), or "Request for Comments" (RFCs).
 
 ### 🙋 Learner question: Do you know how napari is governed?
 
@@ -121,7 +122,7 @@ It's how the community has decided to collaborate, and as a member of the commun
 You will find the governance models in the project's community documentation, contributor's guide, or repositories dedicated to project management.
 
 > **Note:**
-> The term "governance" is often overloaded and you may sometimes find a project's contribution guidelines, Code of Conduct, license files, project management notes, and more documented under the governance umbrella.
+> The term "governance" is often overloaded, and you may sometimes find a project's contribution guidelines, Code of Conduct, license files, project management notes, and more documented under the governance umbrella.
 
 ## OSS project management 📁
 
@@ -132,9 +133,9 @@ As a contributor or team of contributors, you can do that too, but make sure to 
 
 ## Interlude: Broader open source software community 🌱
 
-Open source software forms a critical part of our digital infrastructure, powering everything from internet security to household televisions. The Python programming language, and the community around it, is but one piece of this massive ecosystem.
+Open source software forms a critical part of our digital infrastructure, powering everything from internet security to household televisions. The Python programming language, and the surrounding community, is but one piece of this massive ecosystem.
 
-There is a saying in the Python community: "Python is the second best language for anything", and it can be backed by data. The [Python Developer Survey 2022][developer-survey] shows how people use Python for web development, game development, network programming and more, in addition to data analytics and machine learning. There are several open source projects associate with these use-cases within the Python community. For example, there is a large and lovely community around the Django project.
+There is a saying in the Python community: "Python is the second-best language for anything", and it can be backed by data. The [Python Developer Survey 2022][developer-survey] shows how people use Python for web development, game development, network programming and more, in addition to data analytics and machine learning. There are several open source projects associate with these use-cases within the Python community. For example, there is a large and lovely community around the Django project.
 
 <p align="center">
   <img src="./images/python-developer-survey-usage.png" alt="Horizontal bar graph of Python usage in 2022 and 2021. Most to least: Data analysis at 51%/51%, Web development 43%/45%, Machine learning 36%/36%, DevOps, Programming of web parsers, Educational purposes, Software testing, Software prototyping, Desktop development, Network programming, Computer graphics, Game development, Embedded development, Mobile development, Multimedia applications development, Other 6%/7%." width="50%"/>
@@ -161,6 +162,10 @@ napari is a part of PyData (and hence, broader Python) ecosystem. It's a techniq
 - [Napari community documentation](https://napari.org/stable/community/)
 - [Python Developer Survey 2022 results][developer-survey]
 - [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)
+
+## Continue learning 🚥
+
+⬅️ **[Previous Chapter: 02 Types of Open Source Software](./02-types-of-oss.md)** | **[Next Chapter: 04 How Does OSS Relate To The Open Research Movement?](./04-oss-and-open-science.md)** ➡️
 
 <!-- reusable links -->
 
