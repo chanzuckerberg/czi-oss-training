@@ -10,7 +10,7 @@ Pre-requisites:
 
 # Chapter 03: Understanding Open Source Governance
 
-At it's core, governance is a way for the open source community to align on _who make decisions_ and _how decisions are made_, and the permutations like _how decisions are made about who makes the decisions_. Governance models answer these questions by defining some roles in the projects and the powers they have.
+At it's core, governance is a way for the open source community to align on _who makes decisions_ and _how decisions are made_, and the permutations like _how decisions are made about who makes the decisions_. Governance models answer these questions by defining roles in the projects and the powers they have.
 
 <p align="center">
   <img src="./images/governance-questions.png" alt="Two questions shown side-by-side: who makes decision, and how decisions are made; both point to themselves and each other showing the various permutations." width="50%"/>
@@ -45,7 +45,7 @@ Building on the governance approaches discussed in the previous chapter, in this
 
 ## Governance models ⚖️
 
-Let's start by looking at four common ways to define _who makes decisions_ in an OSS project, and keep in mind that projects usually adopt a combination of two or more of the models described here.
+Let's start by looking at four common ways to define _who makes decisions_ in an OSS project. Though it is important to keep in mind that projects usually adopt a combination of two or more of the models described here.
 
 ### Benevolent Dictator for Life (BDFL)
 
@@ -61,7 +61,7 @@ Examples of projects with BDFLs are the Linux Kernel, pandas, and SciPy.
 ### Core team
 
 In this model, a group of sustainers[^2] are the project leaders and final decision makers.
-The group may have internal processes like majority vote or a consensus-based approach to make decisions.
+The group may have internal processes like majority vote or a [consensus-based](https://www.sociocracyforall.org/the-difference-between-whole-group-consensus-and-dynamic-governance-sociocracy/) approach to make decisions.
 Projects with this governance model have pathways for:
 
 - community members to start contributing,
@@ -91,7 +91,7 @@ Examples of this governance model are the [Kubernetes project with "Special Inte
 
 ### A note on terminology
 
-The terms used above like "core team", "elected council", etc., are not formal terms but a best-approximation for understanding governance.
+The terms used above like "core team", "elected council", etc., are not formal terms but a best-approximation for describing and understanding governance models.
 The spirit behind each model and their difference are more important.
 Moreover, every project implements governance differently and will have project-specific nuances.
 
