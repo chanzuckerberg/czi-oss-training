@@ -8,17 +8,17 @@ Pre-requisites:
   - "Chapter 02: Types of Open Source Software"
 ---
 
-# Chapter 03: Understand Open Source Governance
+# Chapter 03: Understanding Open Source Governance
 
 At it's core, governance is a way for the open source community to align on _who make decisions_ and _how decisions are made_, and the permutations like _how decisions are made about who makes the decisions_. Governance models answer these questions by defining some roles in the projects and the powers they have.
 
 <p align="center">
-  <img src="./images/governance-questions.png" alt="" width="50%"/>
+  <img src="./images/governance-questions.png" alt="Two questions shown side-by-side: who makes decision, and how decisions are made; both point to themselves and each other showing the various permutations." width="50%"/>
 </p>
 
 ## Table of Contents 🗂️
 
-- [Chapter 03: Understand Open Source Governance](#chapter-03-understand-open-source-governance)
+- [Chapter 03: Understanding Open Source Governance](#chapter-03-understanding-open-source-governance)
   - [Table of Contents 🗂️](#table-of-contents-️)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Governance models ⚖️](#governance-models-️)
@@ -31,7 +31,8 @@ At it's core, governance is a way for the open source community to align on _who
     - [🙋 Learner question: Do you know how napari is governed?](#learner-question-do-you-know-how-napari-is-governed)
   - [Navigating Governance Structures 🧑‍⚖️](#navigating-governance-structures-️)
   - [OSS project management 📁](#oss-project-management-)
-  - [napari in the broader PyData / Python / OSS community 🌱](#napari-in-the-broader-pydata--python--oss-community-)
+  - [Interlude: Broader open source software community 🌱](#interlude-broader-open-source-software-community-)
+    - [🙋 Learner questions: Where does napari fit it the OSS ecosystem?](#-learner-questions-where-does-napari-fit-it-the-oss-ecosystem)
   - [Resources 📚](#resources-)
 
 ## Learning Objectives 🧠
@@ -86,7 +87,7 @@ The council & sub-committee model is a two-tiered approach to governance.
 The council (usually elected, but sometimes core-team-like) is responsible for overall direction and community-wide-decisions, and sub-committees are created to lead and make decisions for specific areas of the project.
 The two tiers work collaboratively, with the council advising the sub-committees and the committees representing their special area in community discussions.
 
-Examples of this governance model are the Kubernetes project with "Special Interest Groups", and the Jupyter Project with the "Software Steering Council".
+Examples of this governance model are the [Kubernetes project with "Special Interest Groups"](https://github.com/kubernetes/community/blob/master/kubernetes_governance_diagram.png), and the [Jupyter Project with the "Software Steering Council"](https://jupyter.org/governance/overview.html).
 
 ### A note on terminology
 
@@ -129,10 +130,38 @@ Unlike corporate and academic projects, open source software projects don't have
 Volunteers or enthusiasts contribute to areas of the project that interest them and adopt project management systems (e.g., Kanban board or Gantt chart) that work best for them.
 As a contributor or team of contributors, you can do that too, but make sure to communicate and share your system with the broader community and the appropriate governing group.
 
-## napari in the broader PyData / Python / OSS community 🌱
+## Interlude: Broader open source software community 🌱
 
-<!-- TODO -->
+Open source software forms a critical part of our digital infrastructure, powering everything from internet security to household televisions. The Python programming language, and the community around it, is but one piece of this massive ecosystem.
+
+There is a saying in the Python community: "Python is the second best language for anything", and it can be backed by data. The [Python Developer Survey 2022][developer-survey] shows how people use Python for web development, game development, network programming and more, in addition to data analytics and machine learning. There are several open source projects associate with these use-cases within the Python community. For example, there is a large and lovely community around the Django project.
+
+<p align="center">
+  <img src="./images/python-developer-survey-usage.png" alt="Horizontal bar graph of Python usage in 2022 and 2021. Most to least: Data analysis at 51%/51%, Web development 43%/45%, Machine learning 36%/36%, DevOps, Programming of web parsers, Educational purposes, Software testing, Software prototyping, Desktop development, Network programming, Computer graphics, Game development, Embedded development, Mobile development, Multimedia applications development, Other 6%/7%." width="50%"/>
+</p>
+
+Likewise, there is a vibrant community of people using Python for scientific research and industry data science. They use Python for data analysis, data visualization, machine learning, high performance computing, and more. We have foundational projects like NumPy at the core of numerical computing, domain-specific projects like AstroPy, and technique-specific projects like scikit-image, as described in this figure from [Array programming with Python](https://www.nature.com/articles/s41586-020-2649-2):
+
+<p align="center">
+  <img src="./images/scientific-python-ecosystem.webp" alt="Foundation: NumPy (alongside Python and IPython/Jupyter), SciPy, and matplotlib. This branches into technique-specific: scikit-learn (machine learning), pandas & statsmodels (Statistics), scikit-image (image processing), NetworkX (network analysis). This inturn branches into domain-specific: Astropy (Astronomy), Biopython (Biology), QuantEcon (Economics), and more. This finally branches into application-specific: SunPy, PyWavelets, MDAnalysis, yt, and more." width="75%"/>
+</p>
+
+All of these projects are built to interoperate with each other and are most powerful when working together, hence creating an ecosystem. We call this the PyData[^3], Scientific Python[^4], or Python data science ecosystem.
+
+[^3]: [PyData is also a meetup and conference series by NumFOCUS](https://pydata.org/).
+[^4]: [Scientific Python is also a loose-federation of some projects in the ecosystem of Python tools for science and data work](https://scientific-python.org/).
+
+### 🙋 Learner questions: Where does napari fit it the OSS ecosystem?
+
+napari is a part of PyData (and hence, broader Python) ecosystem. It's a technique-specific project (high-dimensional imaging) and leans towards the bioscience domain.
 
 ## Resources 📚
 
-<!-- TODO -->
+- [Governance 6 types and 3 models by Josh Berkus at Red Hat OSPO](https://berkus.org/gov6/#1)
+- [Napari community documentation](https://napari.org/stable/community/)
+- [Python Developer Survey 2022 results][developer-survey]
+- [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure](https://www.fordfoundation.org/media/2976/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure.pdf)
+
+<!-- reusable links -->
+
+[developer-survey]: https://lp.jetbrains.com/python-developers-survey-2022/#PurposesUsingPython
