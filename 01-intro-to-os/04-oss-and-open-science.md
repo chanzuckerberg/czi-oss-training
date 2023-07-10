@@ -1,12 +1,12 @@
 ---
 Learner personas:
-  - code contributor
-  - code-adjacent contributor
-  - manager/stakeholder
+  - [code contributor](../README.md#code-contributor-)
+  - [code-adjacent contributor](../README.md#code-adjacent-contributor-)
+  - [manager/stakeholder](../README.md#managerstakeholder-)
 Pre-requisites:
-  - "Chapter 01: Introduction To Open Source"
-  - "Chapter 02: Types of Open Source Software"
-  - "Chapter 03: Understanding OSS Governance"
+  - ["Chapter 01: Introduction To Open Source"](./01-intro-to-os.md)
+  - ["Chapter 02: Types of Open Source Software"](./02-types-of-oss.md)
+  - ["Chapter 03: Understanding OSS Governance"](./03-understand-oss-governance.md)
 ---
 
 # Chapter 04: How Does OSS Relate To The Open Research Movement?

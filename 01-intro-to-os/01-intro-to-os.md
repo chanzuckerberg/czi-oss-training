@@ -1,8 +1,8 @@
 ---
 Learner personas:
-  - code contributor
-  - code-adjacent contributor
-  - manager/stakeholder
+  - [code contributor](../README.md#code-contributor-)
+  - [code-adjacent contributor](../README.md#code-adjacent-contributor-)
+  - [manager/stakeholder](../README.md#managerstakeholder-)
 Pre-requisites:
   - none
 ---

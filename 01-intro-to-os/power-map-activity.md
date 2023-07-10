@@ -1,13 +1,13 @@
 ---
 Learner personas:
-  - "code contributor"
-  - "code-adjacent contributor"
-  - "manager/stakeholder"
+  - [code contributor](../README.md#code-contributor-)
+  - [code-adjacent contributor](../README.md#code-adjacent-contributor-)
+  - [manager/stakeholder](../README.md#managerstakeholder-)
 Pre-requisites:
-  - "Chapter 01: Introduction To Open Source"
-  - "Chapter 02: Types of Open Source"
-  - "Chapter 03: Understanding Open Source Governance"
-  - "Chapter 04: Why contribute to OSS? (as an individual and organization)"
+  - ["Chapter 01: Introduction To Open Source"](./01-intro-to-os.md)
+  - ["Chapter 02: Types of Open Source"](./02-types-of-oss.md)
+  - ["Chapter 03: Understanding Open Source Governance"](./03-understand-oss-governance.md)
+  - ["Chapter 04: Why contribute to OSS? (as an individual and organization)"](./04-oss-and-open-science.md)
 ---
 
 # Power Map Activity
