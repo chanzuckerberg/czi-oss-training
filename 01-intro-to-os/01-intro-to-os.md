@@ -1,13 +1,8 @@
----
-Learner personas:
-  - [code contributor](../README.md#code-contributor-)
-  - [code-adjacent contributor](../README.md#code-adjacent-contributor-)
-  - [manager/stakeholder](../README.md#managerstakeholder-)
-Pre-requisites:
-  - none
----
-
 # Chapter 01: Introduction To Open Source
+
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | none                                                                                                                                                                                          |
 
 ## Table of Contents 🗂️
 

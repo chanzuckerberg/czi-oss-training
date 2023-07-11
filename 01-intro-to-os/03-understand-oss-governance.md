@@ -1,14 +1,8 @@
----
-Learner personas:
-  - [code contributor](../README.md#code-contributor-)
-  - [code-adjacent contributor](../README.md#code-adjacent-contributor-)
-  - [manager/stakeholder](../README.md#managerstakeholder-)
-Pre-requisites:
-  - ["Chapter 01: Introduction To Open Source"](./01-intro-to-os.md)
-  - ["Chapter 02: Types of Open Source Software"](./02-types-of-oss.md)
----
-
 # Chapter 03: Understanding Open Source Governance
+
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Chapter 01: Introduction To Open Source](./01-intro-to-os.md)<br> - [Chapter 02: Types of Open Source Software](./02-types-of-oss.md)                                                      |
 
 At it's core, governance is a way for the open source community to align on _who makes decisions_ and _how decisions are made_, and the permutations like _how decisions are made about who makes the decisions_. Governance models answer these questions by defining roles in the projects and the powers they have.
 

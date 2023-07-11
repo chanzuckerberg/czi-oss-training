@@ -1,13 +1,8 @@
----
-Learner personas:
-  - [code contributor](../README.md#code-contributor-)
-  - [code-adjacent contributor](../README.md#code-adjacent-contributor-)
-  - [manager/stakeholder](../README.md#managerstakeholder-)
-Pre-requisites:
-  - ["Chapter 01: Introduction To Open Source"](./01-intro-to-os.md)
----
-
 # Chapter 02: Types of Open Source Software
+
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Chapter 01: Introduction To Open Source](./01-intro-to-os.md)                                                                                                                              |
 
 Open source projects have a unified ethos, but can have a varying range of working cultures and atmospheres. In this chapter, we'll learn about some dimensions along which OSS projects can differ.
 

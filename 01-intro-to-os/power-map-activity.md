@@ -1,16 +1,8 @@
----
-Learner personas:
-  - [code contributor](../README.md#code-contributor-)
-  - [code-adjacent contributor](../README.md#code-adjacent-contributor-)
-  - [manager/stakeholder](../README.md#managerstakeholder-)
-Pre-requisites:
-  - ["Chapter 01: Introduction To Open Source"](./01-intro-to-os.md)
-  - ["Chapter 02: Types of Open Source"](./02-types-of-oss.md)
-  - ["Chapter 03: Understanding Open Source Governance"](./03-understand-oss-governance.md)
-  - ["Chapter 04: Why contribute to OSS? (as an individual and organization)"](./04-oss-and-open-science.md)
----
-
 # Power Map Activity
+
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-)                                                                                                                                           |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Chapter 01: Introduction To Open Source](./01-intro-to-os.md)<br> - [Chapter 02: Types of Open Source Software](./02-types-of-oss.md)<br>- [Chapter 03: Understanding OSS Governance](./03-understand-oss-governance.md)<br>- [Chapter 04: Why contribute to OSS? (as an individual and organization)](./04-oss-and-open-science.md) |
 
 Power mapping is a brainstorming tool used to understand who the key involved parties (a.k.a. stakeholders) are in a given system, and how they are related to each other.
 It also helps us identify critical resources within this system as well as the power dynamics between the involved parties.
