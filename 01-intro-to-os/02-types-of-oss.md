@@ -1,13 +1,8 @@
----
-Learner personas:
-  - code contributor
-  - code-adjacent contributor
-  - manager/stakeholder
-Pre-requisites:
-  - "Chapter 01: Introduction To Open Source"
----
-
 # Chapter 02: Types of Open Source Software
+
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Chapter 01: Introduction To Open Source](./01-intro-to-os.md)                                                                                                                              |
 
 Open source projects have a unified ethos, but can have a varying range of working cultures and atmospheres. In this chapter, we'll learn about some dimensions along which OSS projects can differ.
 
@@ -43,27 +38,27 @@ The two most common ways to categorize or classify OSS projects are using licens
 
 In this chapter, we'll focus on the practical details you need to navigate the different flavours of OSS communities:
 
-- Understand types of OSS licenses and why/when you should pay attention to them
+- Understand the types of OSS licenses and why/when you should pay attention to them
 - Get an overview of governance structures in open source communities
 - Learn the motivations behind creating and sustaining open source projects
 
 ## OSS Licenses 🧑‍⚖️
 
-A software is fundamentally, and legally, considered "open source" only if it has a license that enforces the [open source definition][os-definition].
+Software is fundamentally and legally considered "open source" only if it has a license that enforces the [open source definition][os-definition].
 
-The author of any piece of software holds all rights to it by default, even if the source code is hosted in a public online space. A license is how you "allow" more people to use, modify, and distribute your work, making it "open source" in principle. It gives you attribution, while protecting you against legal warranty and liability claims. Licenses also let you set _restrictions_ on how your work can be used and who can use it.
+The author of any piece of software holds all rights to it by default, even if the source code is hosted in a public online space. A license is how you "allow" more people to use, modify, and distribute your work, making it "open source" in principle. It gives you attribution while protecting you against legal warranty and liability claims. Licenses also let you set _restrictions_ on how your work can be used and who can use it.
 
 The Open Source Initiative (OSI), a leading authority in the open source movement, recognizes [over a hundred different open source software licenses][osi-license]. These licenses lie on a spectrum of **permissiveness**, from the most permissive to the most protective (copyleft).
 
-<img src="./images/oss-licenses.svg" alt="OSS licenses shown along a horizontal line that extends in both directions. On the left, we have Permissive - Minimal restrictions on derivations & redistributions, with examples: Apache, MIT, and BSD 3-Clause license. on the Right, we have Copyleft - Derivations & redistributions must remain open, with examples: Mozilla Public License (MPL) and GNU Public License (MPL) where GPL is placed further right indicating that it's more copyleft than MPL."/>
+<img src="./images/oss-licenses.svg" alt="OSS licenses shown along a horizontal line that extends in both directions. On the left, we have Permissive - Minimal restrictions on derivations & redistributions, with examples: Apache, MIT, and BSD 3-Clause license. on the Right, we have Copyleft - Derivations & redistributions must remain open, for example: Mozilla Public License (MPL) and GNU Public License (MPL) where GPL is placed further right, indicating that it's more copyleft than MPL."/>
 
 ### Permissive Licenses
 
-These are licenses with the least restrictions on usage, modifications, and redistributions. The most popular permissive licenses are MIT, Berkeley Software Distribution (BSD), and Apache license. These licenses protect you against liability/warrant and provide attribution in derived work. Other than that, they put minimal-to-no restrictions on how your software is used. Users are often free to build even commercial and proprietary products with it.
+These are licenses with the least restrictions on usage, modifications, and redistributions. MIT, Berkeley Software Distribution (BSD), and Apache are the most popular permissive licenses. These licenses protect you against liability/warrant and provide attribution in derived work. They also put minimal-to-no restrictions on how your software is used. Users are often free to build even commercial and proprietary products with it.
 
 ### Copyleft Licenses
 
-Also referred to as protective, restrictive, viral, or repetitive, copyleft licenses require any derivative work to be distributed as openly as the original work. In practice, your software needs to have a compatible open source license to use or redistribute a software that has a copyleft license. The most popular copyleft licenses are GNU Public License (GPL), and it's variations Affero GNU Public License (AGPL) and Lesser GNU Public License (LGPL).
+Also referred to as protective, restrictive, viral, or repetitive, copyleft licenses require any derivative work to be distributed as openly as the original work. In practice, your software needs a compatible open source license to use or redistribute software with a copyleft license. The most popular copyleft licenses are GNU Public License (GPL), and its variations Affero GNU Public License (AGPL) and Lesser GNU Public License (LGPL).
 
 ### 🙋 Learner Question: Do you know napari's license?
 
