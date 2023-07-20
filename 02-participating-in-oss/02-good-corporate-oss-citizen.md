@@ -8,16 +8,47 @@ How to be a good corporate citizen
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | [Module 02 - Chapter 01: Why and How to Contribute to Open Source](./01-why-contribute-to-oss.md)                                                                                             |
 
-## Table of Contents 🗂️
+## - [Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
 
-- [Chapter 01: Introduction To Open Source](#chapter-01-introduction-to-open-source)
-  Expand All- [Chapter 02: Introduction To Open Source](#chapter-02-introduction-to-open-source)
-  - [Table of Contents 🗂️](#table-of-contents-️)
+- [Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
+  - [- Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#--chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
+  - [OSS Project Life Cycle and Sustainability Cycle](#oss-project-life-cycle-and-sustainability-cycle)
+  - [Familiarize with Community Standards](#familiarize-with-community-standards)
+  - [Build Consensus and Keep Stakeholders Aligned](#build-consensus-and-keep-stakeholders-aligned)
+  - [Turn Private Conversations to Public Resources](#turn-private-conversations-to-public-resources)
+  - [Co-creation and Participating as a Corporate Sponsor](#co-creation-and-participating-as-a-corporate-sponsor)
+  - [Examples of Good Corporate Sponsorship](#examples-of-good-corporate-sponsorship)
   - [Resources 📚](#resources-)
 
 ## Learning Objectives 🧠
 
 <!-- TODO: Populate as new sections are added -->
 
+## OSS Project Life Cycle and Sustainability Cycle
+
+<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/41 -->
+
+## Familiarize with Community Standards
+
+<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/40 -->
+
+## Build Consensus and Keep Stakeholders Aligned
+
+<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/37 -->
+
+## Turn Private Conversations to Public Resources
+
+<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/36 -->
+
+## Co-creation and Participating as a Corporate Sponsor
+
+<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/17 -->
+
+## Examples of Good Corporate Sponsorship
+
+<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/42 -->
+
 ## Resources 📚
+
+<!-- TODO: Populate as new sections are added -->
