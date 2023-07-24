@@ -2,9 +2,9 @@
 
 <!-- TODO update links -->
 
-| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-)                                                            |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/)<br> - [Chapter 01: Why and how to contribute to Open Source](./2.01-why-contributing-to-oss.md)<br>- [Chapter 02: How to be a good corporate citizen?](./03-understand-oss-governance.md) |
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/)<br> - [Module 02 - Chapter 01: Why and how to contribute to Open Source](./2.01-why-contributing-to-oss.md)                    |
 
 This module has covered some main benefits of contributing to open source for individuals and organizations. This activity aims to help you reflect on your journey with open source and identify the next steps you want to take.
 
