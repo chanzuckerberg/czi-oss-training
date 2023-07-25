@@ -127,7 +127,7 @@ In this stage, the project winds down activity, and decides to archive, shut dow
 - Works with the community for a graceful transition without major disruptions
 
 It's difficult to recognize when a project has stalled and needs to wind down, but it's important for the sustainability of the broader OSS ecosystem. An explicit decision helps the community adopt better tools and smoothly direct their contribution efforts to other growing projects.
-
+We'll discuss strategies and best-practices for winding down in Module 3.
 ## Familiarize with Community Standards
 
 <!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/40 -->
@@ -153,7 +153,6 @@ It's difficult to recognize when a project has stalled and needs to wind down, b
 <!-- TODO: Populate as new sections are added -->
 
 - [The Life Cycles of Open Source Projects, by The Linux Foundation](https://lfx.linuxfoundation.org/blog/the-life-cycles-of-open-source-projects/)
-- [Winding Down an Open Source Project, by the Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project)
 - [Understanding the open source software life cycle, by Red Hat](https://www.redhat.com/en/resources/open-source-software-life-cycle-brief)
 - [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure, by Nadia Eghbal](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)
 - [Sustainable Open Source, by OSS Watch](http://oss-watch.ac.uk/resources/sustainableopensource)
