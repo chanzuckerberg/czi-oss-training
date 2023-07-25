@@ -8,7 +8,7 @@
 
 - [Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
-  - [OSS Project Life Cycle 🦋](#oss-project-life-cycle-)
+  - [OSS Project Life Cycle 🌲](#oss-project-life-cycle-)
     - [Sustainability](#sustainability)
     - [Life Cycle Stages](#life-cycle-stages)
       - [1. Proposal](#1-proposal)
@@ -29,9 +29,9 @@
 
 - Understand the life cycle of an open source project and how to set up the project for long term sustainability
 
-## OSS Project Life Cycle 🦋
+## OSS Project Life Cycle 🌲
 
-Understanding the life cycle of an open source project helps corporate sponsors extend the right kind of support at the right time. Although every project has a unique trajectory, we can outline some common themes which can be used to identify the state an needs of any project.
+Understanding the life cycle of an open source project helps corporate sponsors extend the right kind of support at the right time. Although every project has a unique trajectory, we can outline some common themes which can be used to identify the state and needs of any project.
 
 An OSS project can go through the following stages, but the depth and duration of each stage will vary:
 
@@ -74,7 +74,7 @@ The project may add more initial authors to the team, look for incubation opport
 
 #### 2. Early development
 
-The project enters a rapid development phase to achieve the set goals. Teams usually follow an agile approach to development where they release small-scoped working software and incrementally improve it.
+The project enters a rapid development phase to achieve the set goals. Teams usually follow an agile approach to development, where they release small-scoped working software and incrementally improve it.
 
 In this stage, initial authors work to:
 
@@ -101,7 +101,7 @@ In this stage, contributor teams:
 - Continue to make releases in quick succession
 - Focus on certain maintenance activities in addition to enhancement tasks
 
-Projects can aim create a welcoming environment for everyone, and work with the community to review and update the roadmap regularly.
+Projects can aim to create a welcoming environment for everyone, and work with the community to review and update the roadmap regularly.
 
 #### 4. Maturity
 
@@ -112,14 +112,14 @@ In this stage, the project has:
 - A linear or plateaued community growth
 - Advocates for the project outside the immediate community
 - A regular release cadence and release process
-- Several active downstream project
+- Several active downstream projects
 - Maintenance prioritized over feature development
 
 Initial authors and early maintainers can develop symptoms of burnout if the project's contributor community is not healthy. Projects may also look towards financial sustainability options like grants or paid licenses in this stage.
 
 #### 5. Wind-down
 
-The project will eventually experience community stagnation or decline. This can happen after years or even decades for reasons including a newer&faster alternative, user base saturation, or sustianer team burnout.
+The project will eventually experience community stagnation or decline. This can happen after years or even decades for reasons including a newer & faster alternative, user base saturation, or sustainer team burnout.
 
 In this stage, the project winds down activity, and decides to archive, shut down, or transfer the project to a different space for continued maintenance. The team also:
 
@@ -128,6 +128,7 @@ In this stage, the project winds down activity, and decides to archive, shut dow
 
 It's difficult to recognize when a project has stalled and needs to wind down, but it's important for the sustainability of the broader OSS ecosystem. An explicit decision helps the community adopt better tools and smoothly direct their contribution efforts to other growing projects.
 We'll discuss strategies and best-practices for winding down in Module 3.
+
 ## Familiarize with Community Standards
 
 <!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/40 -->
