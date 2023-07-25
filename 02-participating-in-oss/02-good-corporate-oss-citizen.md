@@ -161,3 +161,4 @@ It's difficult to recognize when a project has stalled and needs to wind down, b
 - [Winding Down an Open Source Project, by the Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project)
 - [Understanding the open source software life cycle, by Red Hat](https://www.redhat.com/en/resources/open-source-software-life-cycle-brief)
 - [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure, by Nadia Eghbal](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)
+- [Sustainable Open Source, by OSS Watch](http://oss-watch.ac.uk/resources/sustainableopensource)
