@@ -1,5 +1,3 @@
-How to be a good corporate citizen
-
 # Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor
 
 <!-- TODO: Verify chapter links after 2.01 is merged -->
