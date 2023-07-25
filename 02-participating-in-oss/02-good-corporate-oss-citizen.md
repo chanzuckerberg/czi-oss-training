@@ -8,10 +8,7 @@ How to be a good corporate citizen
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | [Module 02 - Chapter 01: Why and How to Contribute to Open Source](./01-why-contribute-to-oss.md)                                                                                             |
 
-## - [Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
-
 - [Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
-  - [- Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#--chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [OSS Project Life Cycle 🦋](#oss-project-life-cycle-)
     - [Sustainability](#sustainability)
