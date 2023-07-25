@@ -6,7 +6,7 @@
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/)<br> - [Module 02 Chapter 01: Why and how to contribute to Open Source](./2.01-why-contributing-to-oss.md)                      |
 
-This module has covered some main benefits of contributing to open source for individuals and organizations. This activity aims to help you reflect on your journey with open source and identify the next steps you want to take.
+This module has covered some main benefits of contributing to open source for individuals and organizations. This activity aims to help you reflect on and strategically improve your journey with open source.
 
 ## Table of Contents 🗂️
 
