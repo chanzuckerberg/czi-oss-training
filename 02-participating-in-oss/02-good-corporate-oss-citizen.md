@@ -16,6 +16,7 @@
       - [3. Community growth](#3-community-growth)
       - [4. Maturity](#4-maturity)
       - [5. Wind-down](#5-wind-down)
+      - [🙋 Learner Question: Which stage of the OSS Life Cycle is napari in?](#learner-question-which-stage-of-the-oss-life-cycle-is-napari-in)
   - [Familiarize with Community Standards](#familiarize-with-community-standards)
   - [Build Consensus and Keep Stakeholders Aligned](#build-consensus-and-keep-stakeholders-aligned)
   - [Turn Private Conversations to Public Resources](#turn-private-conversations-to-public-resources)
@@ -128,6 +129,10 @@ In this stage, the project winds down activity, and decides to archive, shut dow
 
 It's difficult to recognize when a project has stalled and needs to wind down, but it's important for the sustainability of the broader OSS ecosystem. An explicit decision helps the community adopt better tools and smoothly direct their contribution efforts to other growing projects.
 We'll discuss strategies and best-practices for winding down in Module 3.
+
+#### 🙋 Learner Question: Which stage of the OSS Life Cycle is napari in?
+
+napari is being continuously improved and maintained, and several (new and existing) users and contributors are actively participating in the project. Therefore, it's in the **community growth** stage. :)
 
 ## Familiarize with Community Standards
 
