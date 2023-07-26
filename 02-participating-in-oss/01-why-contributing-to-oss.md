@@ -1,11 +1,6 @@
----
-Learner personas:
-  - "code contributor"
-  - "code-adjacent contributor"
-  - "manager/stakeholder"
-Pre-requisites:
-  - "Module 1: Introduction to Open Source"
----
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/)                                                                                                                                |
 
 # Chapter 01: Why and how to contribute to Open Source
 
