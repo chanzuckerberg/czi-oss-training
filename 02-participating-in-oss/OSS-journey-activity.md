@@ -2,11 +2,11 @@
 
 <!-- TODO update links -->
 
-| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-)                                                            |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/)<br> - [Chapter 01: Why and how to contribute to Open Source](./2.01-why-contributing-to-oss.md)<br>- [Chapter 02: How to be a good corporate citizen?](./03-understand-oss-governance.md) |
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/)<br> - [Module 02 Chapter 01: Why and how to contribute to Open Source](./2.01-why-contributing-to-oss.md)                      |
 
-This module has covered some main benefits of contributing to open source for individuals and organizations. This activity aims to help you reflect on your journey with open source and identify the next steps you want to take.
+This module has covered some main benefits of contributing to open source for individuals and organizations. This activity aims to help you reflect on and strategically improve your journey with open source.
 
 ## Table of Contents 🗂️
 
@@ -25,10 +25,10 @@ This activity is designed to:
 
 ## Instructions 📝
 
-1. Gab a copy of the [OSS Journey Template](./oss-journey.pdf).
+1. Gab a copy of the [OSS Journey Template](./OSS-career-journey.pdf).
 2. Reflect on the following points and complete the template as needed:
-   1. What are your core personal values? How do they align with the values of open source?
-   2. How could you improve your open source practices to better align with the open source values?
+   1. What are your core personal or professional values? How do they align with the values of open source?
+   2. How could you improve your current open source practices to better align with the open source values?
    3. How has your open source journey been so far? This includes reflecting on how you got involved in open source, what you have learned, and what you have contributed.
    4. What are your personal goals for contributing to open source?
    5. How could open source help you achieve your career goals?
