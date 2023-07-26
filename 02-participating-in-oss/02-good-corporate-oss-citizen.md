@@ -38,13 +38,22 @@ An OSS project can go through the following stages, but the depth and duration o
 
 <img src="images/oss-life-cycle.svg" alt="Stages in order: Proposal, early-development, community growth, maturity, and wind-down.">
 
-Before delving into the details of each stage, let's discuss an important aspect of the life cycle: **Sustainability**.
+Before delving into the details of each stage, let's discuss an essential aspect of an open source projet's life cycle: **Sustainability**.
 
 ### Sustainability
 
-By definition, OSS projects give everyone the freedom to use, modify, and re-distribute the software, and it's often also free of cost. This is a key reason why OSS is the foundation of our digital infrastructure. At the same time, with so many critical components and for-profit organizations relying on OSS, it can quickly lead to volunteer burnout if users don't invest back in the OSS ecosystem.
+By definition, open source licenses allow everyone to use, modify, and re-distribute software freely and for any endeavor. Additionally, free and open source software  (FOSS) is often cost-free (at the point of use or acquisition). Such unrestricted access is why FOSS sits at the core of all primary digital infrastructure tools and innovation initiatives. 
+Such a heavy reliance on FOSS - across industry, research, academia, and many more -  has also increased our demand for those who sustain our digital infrastructure[^1], mainly on a volunteer basis. Hence,  it is not uncommon for open-source sustainers to experience burnout, stress, and diminished mental health. Consequently, all interested parties (i.e., corporate, governmental, research, and not-for-profit) must invest in the OSS ecosystem to ensure long-term sustainability.
 
-An open source project is _sustainable_ if it can support itself. Sustainability in OSS widely focuses on financial sustainability, but practically, it also includes areas like community health.
+[^1]: [Roads and bridges by Nadia Eghbal][roads-and-bridges]
+
+The ["Our common future: The world commission on environment and development" report](HTTPS://EN.WIKIPEDIA.ORG/WIKI/
+OUR_COMMON_FUTURE), better known as the Brundlant report (United Nations, 1987) defines sustainability as:
+
+> Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.
+
+Which recognizes the need for balance between economy and ecosystem sustainability. Such a definition of sustainability can be directly applied to open source projects. Though nowadays, most of the sustainability efforts and initiatives focus on the financial (or economic) aspect and ignore essential areas of the ecosystems such as community health, equality, operations of the entire supply chain, and interested parties' relationship management, among others.
+
 
 Common strategies for financial sustainability of OSS software include:
 
