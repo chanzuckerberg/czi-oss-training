@@ -1,4 +1,4 @@
-# Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor
+# Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor
 
 <!-- TODO: Verify chapter links after 2.01 is merged -->
 
@@ -6,9 +6,8 @@
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | [Module 02 - Chapter 01: Why and How to Contribute to Open Source](./01-why-contribute-to-oss.md)                                                                                             |
 
-- [Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
+- [Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-04-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
-  - [OSS Project Life Cycle and Sustainability Cycle](#oss-project-life-cycle-and-sustainability-cycle)
   - [Familiarize with Community Standards](#familiarize-with-community-standards)
   - [Build Consensus and Keep Stakeholders Aligned](#build-consensus-and-keep-stakeholders-aligned)
   - [Turn Private Conversations to Public Resources](#turn-private-conversations-to-public-resources)
@@ -19,10 +18,6 @@
 ## Learning Objectives 🧠
 
 <!-- TODO: Populate as new sections are added -->
-
-## OSS Project Life Cycle and Sustainability Cycle
-
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/41 -->
 
 ## Familiarize with Community Standards
 
