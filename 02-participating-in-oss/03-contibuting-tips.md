@@ -9,12 +9,14 @@
 - [Chapter 03: Contributing to open source](#chapter-03-contributing-to-open-source)
   - [Table of Contents 🗂️](#table-of-contents-️)
   - [Learning Objectives 🧠](#learning-objectives-)
-  - [How contributions work 🎁](#how-contributions-work-)
+  - [Contribution tips and best practices 🔖](#contribution-tips-and-best-practices-)
+    - [How contributions work 🎁](#how-contributions-work-)
     - [Contributions beyond code ✨](#contributions-beyond-code-)
+  - [Technical considerations 💻](#technical-considerations-)
   - [Legal and governance considerations](#legal-and-governance-considerations)
-  - [Technical considerations](#technical-considerations)
   - [Tools for PM](#tools-for-pm)
   - [Resources 📚](#resources-)
+    - [Project's examples](#projects-examples)
     - [Tools 🛠](#tools-)
   - [Continue learning 🚥](#continue-learning-)
 
@@ -25,7 +27,9 @@
 - Learn more about how to best approach open source contributions
 - Learn about valuable tools and practices for open source contributions and project management
 
-## How contributions work 🎁
+## Contribution tips and best practices 🔖
+
+### How contributions work 🎁
 
 For any open source project, one of the most challenging tasks for a new contributor is identifying ways to get involved by making online contributions to propose appropriate changes. Contribution processes vary depending on the open source project, its governance model, and the type of contribution you want to make. For example:
 
@@ -103,13 +107,17 @@ As discussed in Chapter 02, a project's sustainability requires collective actio
 > GitHub only makes certain types of contributions visible, while many other vital types of contributions are obscured or not accounted for.
 > You can consider adding the [all contributors bot][all-contributors] to your projects to ensure everyone gets credit for their contributions.
 
-## Legal and governance considerations
+👉🏽 The Turing Way has a [dedicated section on their contribution guidelines for recognizing contributions using the "all contributors" bot][turing-contributions].
 
-## Technical considerations
+## Technical considerations 💻
+
+## Legal and governance considerations
 
 ## Tools for PM
 
 ## Resources 📚
+
+### Project's examples
 
 ### Tools 🛠
 
@@ -122,3 +130,4 @@ As discussed in Chapter 02, a project's sustainability requires collective actio
 <!-- Reusable links -->
 
 [all-contributors]: https://allcontributors.org/docs/en/bot/overview
+[turing-contributions]: https://github.com/alan-turing-institute/the-turing-way/blob/main/CONTRIBUTING.md#recognising-contributions
