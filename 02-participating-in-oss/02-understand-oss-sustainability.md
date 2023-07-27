@@ -1,12 +1,10 @@
-# Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor
-
-<!-- TODO: Verify chapter links after 2.01 is merged -->
+# Chapter 02: Understand Open Source Sustainability and Life Cycle
 
 | Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-requisites   | [Module 02 - Chapter 01: Why and How to Contribute to Open Source](./01-why-contribute-to-oss.md)                                                                                             |
+| Pre-requisites   | [Module 02 - Chapter 01: Why Contribute to Open Source](./01-why-contribute-to-oss.md)                                                                                                        |
 
-- [Chapter 02: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-02-being-a-good-open-source-citizen-as-a-corporate-contributor)
+- [Chapter 02: Understand Open Source Sustainability and Life Cycle](#chapter-02-understand-open-source-sustainability-and-life-cycle)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Sustainability ♻️](#sustainability-️)
     - [Corporate Sustainability 101](#corporate-sustainability-101)
@@ -19,16 +17,9 @@
     - [4. Maturity](#4-maturity)
     - [5. Wind-down](#5-wind-down)
     - [🙋 Learner Question: Which stage of the OSS Life Cycle is napari in?](#-learner-question-which-stage-of-the-oss-life-cycle-is-napari-in)
-  - [Familiarize with Community Standards](#familiarize-with-community-standards)
-  - [Build Consensus and Keep Stakeholders Aligned](#build-consensus-and-keep-stakeholders-aligned)
-  - [Turn Private Conversations into Public Resources](#turn-private-conversations-into-public-resources)
-  - [Co-creation and Participating as a Corporate Sponsor](#co-creation-and-participating-as-a-corporate-sponsor)
-  - [Examples of Good Corporate Sponsorship](#examples-of-good-corporate-sponsorship)
   - [Resources 📚](#resources-)
 
 ## Learning Objectives 🧠
-
-<!-- TODO: Populate as new sections are added -->
 
 - Understand the importance of corporate sustainability and how it relates to open source software
 - Reflect on the role of OSS within your organization's supply chain
@@ -166,29 +157,7 @@ We'll discuss strategies and best practices for winding down in Module 3.
 
 napari is being continuously improved and maintained, and several (new and existing) users and contributors are actively participating in the project. Therefore, it's in the **community growth** stage. 😉
 
-## Familiarize with Community Standards
-
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/40 -->
-
-## Build Consensus and Keep Stakeholders Aligned
-
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/37 -->
-
-## Turn Private Conversations into Public Resources
-
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/36 -->
-
-## Co-creation and Participating as a Corporate Sponsor
-
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/17 -->
-
-## Examples of Good Corporate Sponsorship
-
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/42 -->
-
 ## Resources 📚
-
-<!-- TODO: Populate as new sections are added -->
 
 - [The Life Cycles of Open Source Projects, by The Linux Foundation](https://lfx.linuxfoundation.org/blog/the-life-cycles-of-open-source-projects/)
 - [Understanding the open source software life cycle, by Red Hat](https://www.redhat.com/en/resources/open-source-software-life-cycle-brief)
