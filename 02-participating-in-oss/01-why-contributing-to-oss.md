@@ -20,8 +20,6 @@
 
 ## Learning Objectives 🧠
 
-<!-- TODO: Populate as various sections & their content is added. -->
-
 - Understand why individuals and organizations contribute to open source.
 
 ## Why contribute to OSS? 🌱
@@ -44,7 +42,7 @@ We can understand their motivation to work on OSS by looking at extrinsic and in
 
 #### Intrinsic motivations
 
-- **Community**: Communities are the life force of open source projects. Brett Canon, a Python Steering Council member and core Python developer, once said, "I came for the language, but I stay for the community, " which resonates with many contributors in the Python open source community. You may contribute to OSS projects or volunteer your time and expertise to community initiatives because you like your community of collaborators.
+- **Community**: Communities are the life force of open source projects. Brett Canon, a Python Steering Council member and core Python developer, once said, "I came for the language, but I stay for the community", which resonates with many contributors in the Python open source community. You may contribute to OSS projects or volunteer your time and expertise to community initiatives because you like your community of collaborators.
 
 - **Hobby and passion**: Many people find joy, satisfaction, and excitement by working on OSS projects in their free time. Perhaps it's a project they use regularly, they created from scratch, or its work they find personally rewarding.
 

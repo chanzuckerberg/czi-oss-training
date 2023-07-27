@@ -3,6 +3,7 @@
 ## Chapters in this module 🗃
 
 - [2.1 - Why Contribute to Open Source](./01-why-contributing-to-oss.md) - describes various motivations for contributing to open source and outlines differences between individual and organizational contributions with some best practices.
+- [2.3 - Contributing to open source: tooling and best practices](./03-technical-considerations.md) - describes some technical considerations for contributing to open source, including tools and best practices for different types of contributions.
 
 ## Check your understanding 🙇🏻‍♀️
 
