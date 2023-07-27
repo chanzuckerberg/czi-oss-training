@@ -16,7 +16,6 @@
     - [Organizational-funded contributors](#organizational-funded-contributors)
     - [🙋 Learner question: Do you know why CZI contributes to napari?](#-learner-question-do-you-know-why-czi-contributes-to-napari)
   - [Volunteer and organizational contributions 🤝](#volunteer-and-organizational-contributions-)
-  - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
@@ -27,7 +26,7 @@
 
 ## Why contribute to OSS? 🌱
 
-The open source contributors' community is massive, and everyone has their personal reasons and motivations for being a part of this community. Reflecting on your motivations and understanding fellow contributors' motivations will help you collaborate effectively. The following sections'll briefly explore common motivations for individuals and organizations to contribute to open source.
+The open source contributors' community is massive, and everyone has their personal reasons and motivations for being a part of this community. Reflecting on your motivations and understanding fellow contributors' motivations will help you collaborate effectively. The following sections will briefly explore common motivations for individuals and organizations to contribute to open source.
 
 ### Individual volunteer contributors
 
@@ -45,11 +44,11 @@ We can understand their motivation to work on OSS by looking at extrinsic and in
 
 #### Intrinsic motivations
 
-- **Community**: Communities are the life force of open source projects. Brett Canon, a Python Steering Council member and core Python developer, once said: "I came for the language, but I stay for the community", a statement that resonates with many contributors in the Python open source community. You may contribute to OSS projects or volunteer your time and expertise to community initiatives because you like your community of collaborators.
+- **Community**: Communities are the life force of open source projects. Brett Canon, a Python Steering Council member and core Python developer, once said, "I came for the language, but I stay for the community, " which resonates with many contributors in the Python open source community. You may contribute to OSS projects or volunteer your time and expertise to community initiatives because you like your community of collaborators.
 
 - **Hobby and passion**: Many people find joy, satisfaction, and excitement by working on OSS projects in their free time. Perhaps it's a project they use regularly, they created from scratch, or its work they find personally rewarding.
 
-- **Responsibility**: Sole or long-term maintainers or project creators feel responsible toward their open source project and its users and continue to contribute and maintain it.
+- **Responsibility**: Sole or long-term maintainers or project creators feel responsible for their open source project and its users and continue contributing and maintaining it.
 
 - **Ideology**: Open source software started as an ideological movement. Using and contributing to open source is an identity and way of life for many people, and that's at the core of their contributions.
 
@@ -60,7 +59,7 @@ Their incentives can be incredibly varied, ranging from software commercializati
 
 - **Stability**: Companies with internal tools that rely on community OSS projects contribute to these upstream OSS projects to ensure their stability, long-term existence, and maintenance.
 
-- **Adoption and Sustainability**: Organizations open source their internal projects to grow their adoption and build a community of users and contributors around them. Suppose the project is hosted publicly, free to use, and open to contributions. In that case, it adds trust in the project and its long-term availability, and more people are willing to use it, as well as opt-in for commercial services developed around the open source project, if any. Moreover, if the company intends to reduce direct investment in the project, the open source community can share maintenance efforts to keep the project active.
+- **Adoption and Sustainability**: Organizations open source their internal projects to grow their adoption and build a community of users and contributors around them. Suppose the project is hosted publicly, free to use, and open to contributions. In that case, it adds trust in the project and its long-term availability and more people are willing to use it, as well as opt-in for commercial services developed around the open source project, if any. Moreover, if the company intends to reduce direct investment in the project, the open source community can share maintenance efforts to keep the project active.
 
 - **Efficiency**: It's more efficient to solve some foundational issues in the open by collaborating with organizations and individuals in the broader tech community. For instance, open "standards" have wider adoption, allowing tools built with said standards to reach more people. Companies can then focus on more innovative work that builds on these foundations.
 
@@ -93,12 +92,8 @@ Organizations often have some [corporate incentives](#organizational-funded-cont
 
 To keep the project stable, everyone must work collaboratively and aim for continuous and intentional communication and stakeholder alignment to ensure clarity between organizational and community needs. For example, organizations can share in maintenance tasks, enabling volunteers to provide feedback on ongoing work that's important to the organization.
 
-We'll cover more collaboration strategies in the next chapter.
-
-## Resources 📚
+In the following chapters, we'll cover more collaboration strategies and how organizations can best engage with and support open source projects.
 
 ## Continue learning 🚥
 
-<!-- TODO: update link to chapter 02 -->
-
-**[Next Chapter: 02 - How to be a good corporate citizen?](./02-types-of-oss.md)** ➡️
+**[Next Chapter: 02 - How to be a good corporate citizen?](./02-good-corporate-oss-citizen.md)** ➡️
