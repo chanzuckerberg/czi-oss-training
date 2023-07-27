@@ -78,6 +78,7 @@ Community members who support teams of regular contributors, specifically:
 ## Course outline 🗺
 
 - [Module 01 - Introduction to open-source](./01-intro-to-os/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
+- [Module 02 - Participating in open source](./02-participating-in-oss/): This module explores different ways to engage with and participate in open source communities. It also provides some best practices for contributing to open source as an individual and a corporate stakeholder.
 
 ## Contributing
 
