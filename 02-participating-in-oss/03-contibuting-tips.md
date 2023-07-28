@@ -1,6 +1,6 @@
-| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)                              |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Chapter 01: Why and how to contribute to Open Source](./01-why-contributing-to-oss.md) |
+| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)                                                                                                                                             |
+| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Chapter 01: Why and how to contribute to Open Source](./01-why-contributing-to-oss.md) <br>-[Chapter 02: Understand Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md) |
 
 # Chapter 03: Contributing to open source
 
@@ -125,7 +125,7 @@ As discussed in Chapter 02, a project's sustainability requires collective actio
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 02 How to be a good corporate citizen?](./02-good-corporate-oss-citizen.md)** | **[Module activity: OSS career journey](./OSS-journey-activity.md)** ➡️
+⬅️ **[Previous Chapter 02: Understand Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md)** | **[Module activity: OSS career journey](./OSS-journey-activity.md)** ➡️
 
 <!-- Reusable links -->
 
