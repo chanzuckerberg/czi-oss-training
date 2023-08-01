@@ -12,7 +12,7 @@
   - [Contribution tips and best practices 🔖](#contribution-tips-and-best-practices-)
     - [How contributions work 🎁](#how-contributions-work-)
     - [Contributions beyond code ✨](#contributions-beyond-code-)
-  - [Technical considerations 💻](#technical-considerations-)
+  - [Development and maintenance considerations 💻](#development-and-maintenance-considerations-)
   - [Legal and governance considerations](#legal-and-governance-considerations)
   - [Tools for PM](#tools-for-pm)
   - [Resources 📚](#resources-)
@@ -46,46 +46,7 @@ In general, an open source project allows any individual to make contributions i
 
 The diagram below shows a typical workflow for code contributions to an open source project. While many projects follow this workflow, others might have additional steps or different ways of handling contributions.
 
-```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#7A82E4',
-      'primaryTextColor': '#000',
-      'primaryBorderColor': '#7A82E4',
-      'lineColor': '#617388',
-      'secondaryColor': '#409D44'
-    }
-  }
-}%%
-flowchart TD
-  accTitle: "Workflow diagram for code contributions to an open source project"
-  start["Start contribution"]
-  start --> issue{"Is there
-  an issue?"}
-  issue --> |Yes| assign["Let others know you
-  will work on it"]
-  assign --> fixIssue["Clone repo
-    and create branch"]
-  issue --> |No| createIssue["Create issue"]
-  createIssue --> assign
-  fixIssue --> makeChanges["Make and push
-    changes"]
-  makeChanges --> createPR["Create PR and
-  mark as ready"]
-  createPR --> review["Wait for a review"]
-  review --> feedback["Address feedback
-  and make changes
-  (if needed)"]
-  feedback --> |"Might need a
-  few cycles"| review
-  feedback --> |"Approved ✅"| merge["Merge PR"]
-  feedback --> |"Rejected ⛔️"| close["Close PR
-  without merge"]
-  merge --> fin["End contribution"]
-  close --> fin
-```
+![Contribution workflow -> Start -> identify if there is an issue or create one -> assign issue -> make and push changes -> open PR and wait for review -> address feedback cycles -> ending contribution in merge or reject and close](./images/oss-contribution-flow.svg)
 
 > **Note**
 > As you can see, the outcome of a contribution could be getting your contribution merged or rejected.
@@ -109,7 +70,17 @@ As discussed in Chapter 02, a project's sustainability requires collective actio
 
 👉🏽 The Turing Way has a [dedicated section on their contribution guidelines for recognizing contributions using the "all contributors" bot][turing-contributions].
 
-## Technical considerations 💻
+## Development and maintenance considerations 💻
+
+Let's get started by revisitng a popular product-focused software development lifecycle: the Agile lifecylce.
+
+![Agile software development lifecycle covering requirements gathering -> design -> implementation -> Test/QA -> Deployment -> User acceptance testing -> Delivery -> Feedback](./images/agile-swe.png)
+
+Agile has gained a great amount of popularity as it enables development teams to iterate on and ship new products and features efficiently and with a consistent throughoutput.
+However, these practices are best suited for traditional tech corporate (including startup and similar) scenarios, particularly due to the following reasons:
+
+- Such a process assumes there is a dedicated team of developers (and designers) working on the project.
+- It requires a product owner as well as a project manager to coordinate the work an.
 
 ## Legal and governance considerations
 
