@@ -16,7 +16,7 @@
   - [Legal and governance considerations](#legal-and-governance-considerations)
   - [Tools for PM](#tools-for-pm)
   - [Resources 📚](#resources-)
-    - [Project's examples](#projects-examples)
+    - [Project examples](#project-examples)
     - [Tools 🛠](#tools-)
   - [Continue learning 🚥](#continue-learning-)
 
@@ -46,41 +46,41 @@ In general, an open source project allows any individual to make contributions i
 
 The diagram below shows a typical workflow for code contributions to an open source project. While many projects follow this workflow, others might have additional steps or different ways of handling contributions.
 
-![Contribution workflow -> Start -> identify if there is an issue or create one -> assign issue -> make and push changes -> open PR and wait for review -> address feedback cycles -> ending contribution in merge or reject and close](./images/oss-contribution-flow.svg)
+<img src="./images/oss-contribution-flow.svg" alt="Contribution workflow -> Start -> identify if there is an issue or create one -> assign issue -> make and push changes -> open PR and wait for review -> address feedback cycles -> ending contribution in merge or reject and close" width="500px">
 
 > **Note**
 > As you can see, the outcome of a contribution could be getting your contribution merged or rejected.
 
-It is important to remember that the outcome of a contribution is not a reflection of your skills or abilities. It reflects the project's needs and priorities at that time. There are loads of factors that need to be taken into account by a sustainer when reviewing and approving contributions; some of them are: maintainability, security, performance, scalability, upstream and downstream compatibility, and more.
+It is important to remember that the outcome of a contribution is not a reflection of your skills or abilities. It reflects the project's needs and priorities at that time. There are loads of factors that need to be considered by a sustainer when reviewing and approving contributions: maintainability, security, performance, scalability, upstream and downstream compatibility, and more.
 
 ### Contributions beyond code ✨
 
 Not all contributions to an open source project will be made in the form of code.
-Open source projects also need contributions in the form of documentation, design, marketing, community management, fundraising, legal counsel, accessibility auditing and remediation work, translation and localization, and more. These contributions are as important as code contributions and are often called code-adjacent contributions.
+Open source projects also need contributions in documentation, design, marketing, community management, fundraising, legal counsel, accessibility auditing and remediation work, translation and localization, and more. These contributions are as significant as code contributions and are often called code-adjacent contributions.
 
 While some of these contributions _might_ follow a similar workflow to code contributions, others might not. For example, a contribution to the documentation of a project might follow the Pull Request workflow described above. However, community-related contributions such as organizing community meetings or mentoring new contributors follow different processes.
 
-<!-- TODO: add link to sustainability section -->
+<!-- TODO: add a link to sustainability section -->
 
 As discussed in Chapter 02, a project's sustainability requires collective actions across multiple areas; thus including and acknowledging all types of contributions is paramount for the success of an open source project. This starts with creating no-code/code-adjacent contribution pathways to adopt mechanisms to make these contributions visible and valued.
 
 > **Tip**
-> GitHub only makes certain types of contributions visible, while many other vital types of contributions are obscured or not accounted for.
+> GitHub only makes certain types of contributions visible, while many other vital contributions are obscured or not accounted for.
 > You can consider adding the [all contributors bot][all-contributors] to your projects to ensure everyone gets credit for their contributions.
 
 👉🏽 The Turing Way has a [dedicated section on their contribution guidelines for recognizing contributions using the "all contributors" bot][turing-contributions].
 
 ## Development and maintenance considerations 💻
 
-Let's get started by revisitng a popular product-focused software development lifecycle: the Agile lifecylce.
+Let's start by revising a popular product-focused software development lifecycle: the Agile lifecycle.
 
 ![Agile software development lifecycle covering requirements gathering -> design -> implementation -> Test/QA -> Deployment -> User acceptance testing -> Delivery -> Feedback](./images/agile-swe.png)
 
-Agile has gained a great amount of popularity as it enables development teams to iterate on and ship new products and features efficiently and with a consistent throughoutput.
-However, these practices are best suited for traditional tech corporate (including startup and similar) scenarios, particularly due to the following reasons:
+Agile has gained tremendous popularity as it enables development teams to iterate on and ship new products and features efficiently and with consistent throughput.
+However, these practices are best suited for traditional tech corporate (including startup and similar) scenarios, mainly due to the following reasons:
 
-- Such a process assumes there is a dedicated team of developers (and designers) working on the project.
-- It requires a product owner as well as a project manager to coordinate the work an.
+- Such a process assumes a dedicated team of developers (and designers) working on the project.
+- It requires a product owner and a project manager to coordinate the work an.
 
 ## Legal and governance considerations
 
@@ -88,7 +88,7 @@ However, these practices are best suited for traditional tech corporate (includi
 
 ## Resources 📚
 
-### Project's examples
+### Project examples
 
 ### Tools 🛠
 
