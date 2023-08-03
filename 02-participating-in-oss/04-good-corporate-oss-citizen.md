@@ -8,7 +8,6 @@
 
 - [Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-04-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
-  - [Understand OSS Contributions 💻](#understand-oss-contributions-)
   - [Familiarize with Community Standards 🔖](#familiarize-with-community-standards-)
   - [Build Community Consensus 🤝](#build-community-consensus-)
   - [Turn Private Conversations to Public Resources](#turn-private-conversations-to-public-resources)
@@ -18,44 +17,35 @@
 
 ## Learning Objectives 🧠
 
-- Understand how corporate open source contributions are different from individual and volunteer contributions.
-- Learn some strategies and best practices for successful corporate sponsorship, specifically: following community standards, building consensus, keeping stakeholders aligned, and turning private conversation into public resources.
-- Reason and make educated decisions about creation new open source projects and contributing to existing projects.
+Corporate contributors have a responsibility to support the volunteer community and work collaborative at every stage, from corporate open source strategy, to team-level sprint planning, to day-to-day individual contributions. This chapter will help you:
 
-## Understand OSS Contributions 💻
-
-As a corporate-sponsored team or individual contributing to open source software, you are in a position of privilege and power within the community. Therefore, it is your responsibility to support the volunteer contributors and join forces to improve the project, because we need a collaborative contributor community to keep the project healthy.
-
-It may be surprising to first-time OSS contributors, but open source development is usually much slower than corporate projects. Reasons for this include:
-
-- Volunteer contributors can dedicate varying levels of time and energy to the project, because many people have conflicting work and personal responsibilities to balance.
-- Community collaborators, often located worldwide, work remotely and communicate asynchronously, so you need to account for time zones and regional holidays while making decisions.
-- The high-standards for work and more collaborators means more iteration cycles.
-
-For a successful open source collaboration, make sure to consider this at every stage of your contribution from open source strategy and sprint planning, to day-to-day engagement.
+- Learn best practices for successful corporate sponsorship and effective collaboration with the project community
+- Understand creation new open source projects and contributing to existing projects.
 
 ## Familiarize with Community Standards 🔖
 
-The first step in contributing to any open source project is to understand the project-specific community standards and processes. This step is important for all contributors, but especially critical for corporate contributor who have additional reputation and trust to build in the project community as long-term contributors. Taking the time to understand community workflows before starting to contribute signals respect for volunteers’ time.
+All open source contributions start with an understanding of project-specific community standards and processes. This first step is especially important for corporate contributors because you have additional reputation and trust to build within the project community. Taking the time to understand community standards early, and making an active effort to follow them, signals a strong respect for volunteers' time.
 
-You can find the community standards in the project’s documentation under community, developer, or contributor sections. The following is a non-exhaustive list of standards to build familiarity with.
+These standards are usually documented in the community, developer, or contributor sections of the project's documentation. Corporate-sponsored individual contributors should familiarize themselves with the following non-exhaustive set of guidelines.
 
-- **Project’s contribution guidelines:** This resource is intended to guide you start contributing to the project and ensure your first few contributions are successfully incorporated in the project. You will be directed to these guidelines by GitHub or any project resource you encounter as a first-time contributor. These include notes and instructions for:
-  - Contribution workflow for the project. For example, some projects require an issue before opening a pull request, a CHANGELOG entry, etc., as a part of the contribution process
-  - Issue and PR creation guidelines that share when to open them and what information to include
-  - Local or personal setup for development environment, documentation systems, and test infrastructure
-  - Project-specific helper tools like pre-commit and linting tools
-  - Project’s code, documentation, and design style preferences (a.k.a. “style guide”)
-- **Community support forums:** Documentation for where and how to ask the project community for help.
-  - Appropriate support spaces. Projects may use different platforms for user and developer discussions
-  - Communication guidelines around how to ask questions and who to notify, and reasonable wait times
-  - Code of Conduct to follow across all spaces
-- **Maintainers documentation:** Learn to support the projects maintenance efforts, including
-  - Issues and PR triage
-  - Guidelines for contributing to upstream and downstream projects
-  - Project's release process and cadence
-- **Governance:**
-- **Roadmap:**
+- **New contributor guidelines** - The journey, tasks, and tools for your first few successful contributions, including:
+  - End-to-end contribution workflow for the project with notes about specific requirements like corresponding issues for all pull requests, a CHANGELOG entry for each pull request (PR), and more
+  - Guidelines for creating context-rich issues & PRs and the appropriate process to move the discussions forward, for example, notifying a particular project team
+  - Instructions for setting up local or personal development environments, documentation systems, and test infrastructure, along with project-specific helper tools like `pre-commit`
+  - Style guides, also known as project-specific preferences, for authoring code, writing documentation, and using design elements
+- **Communication guidelines** - Best practices for engaging with fellow community members, including:
+  - Various community forums and their primary purpose like support questions, developer discussions, etc.
+  - Guidelines for good asynchronous communication, for example, adding relevant context, using jargon-free plain language, expected time to respond, etc.
+  - Code of Conduct to follow in the community spaces
+- **Active contributor and maintainer documentation** - Guidelines for regular maintenance activities, including:
+  - Issue triaging and PR reviewing guidelines, for example, using project labels and bots
+  - Release procedure, activities, and cadence
+  - Continuous integration / Continuous Deployment (CI/CD) workflows
+  - Guidelines for upstream and downstream collaboration
+- **Governance** - Decision-making processes in the project as discussed in Module 1, including:
+  - Guidelines for creation, comment requests, and final decisions on Enhancement Proposal
+  - Notes on project leadership roles and responsibilities
+- **Roadmap** - Current project priorities and future direction
 
 ## Build Community Consensus 🤝
 
