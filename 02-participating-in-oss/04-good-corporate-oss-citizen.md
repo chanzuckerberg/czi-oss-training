@@ -17,7 +17,7 @@
   - [Build Community Consensus 🤝](#build-community-consensus)
     - [Organizational Open Source Strategy](#organizational-open-source-strategy)
     - [Steps for Large-Scoped Tasks](#steps-for-large-scoped-tasks)
-    - [Steps for small-scope contributions](#steps-for-small-scope-contributions)
+    - [Considerations for Small-Scope Contributions](#considerations-for-small-scope-contributions)
   - [Turn Private Conversations to Public Resources](#turn-private-conversations-to-public-resources)
   - [Co-creation and Participating as a Corporate Sponsor](#co-creation-and-participating-as-a-corporate-sponsor)
   - [Examples of Good Corporate Sponsorship](#examples-of-good-corporate-sponsorship)
@@ -97,7 +97,9 @@ Effective open source collaboration trickles down from the leadership teams. It'
 
 A large-scoped task is a "project" (in the broad meaning of the team) that touches several parts of the project, impacts a substantial user base, or changes long-term community workflows. Community-governed projects usually have an Enhancement Proposal or Request for Discussion mechanism for making decisions on such tasks:
 
-<img src="images/enhancement-workflow.svg" alt="" />
+<p align="center">
+  <img src="images/enhancement-workflow.svg" alt="" width="70%"/>
+</p>
 
 When working on enhancement proposals:
 
@@ -110,7 +112,7 @@ When working on enhancement proposals:
 
 This community decision making and incorporation of differing views is what keeps up the quality of our open source projects, so be patient and remember the human behind the screens even when the conversations get difficult. :)
 
-### Steps for small-scope contributions
+### Considerations for Small-Scope Contributions
 
 Building consensus is also important for small-scale day-to-day contributions. The main differences here are fewer stakeholders and an informal-self-driven process. Some good practices include:
 
