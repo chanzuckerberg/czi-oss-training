@@ -160,7 +160,7 @@ The DIR program employs a developer for full-time hours with competitive pay to 
 > - investigation of project priorities and their tasks going forward,
 > - and working on those priorities.
 >
-> - [I am the new CPython Developer in Residence, by Łukasz Langa]
+> ~ [I am the new CPython Developer in Residence, by Łukasz Langa]
 
 This program has been running strong for over two years and has expanded to include a [Security DIR](https://pyfound.blogspot.com/2023/06/announcing-our-new-security-developer.html) and [Deputy CPython DIR](https://lukasz.langa.pl/40b601fc-2b24-4629-91d9-3b32c58365c6/).
 
@@ -172,7 +172,7 @@ This team includes long-term contributors to CPython and other Python libraries,
 
 > [Michael] Droettboom says he hopes they [volunteer core devs] don't feel "overloaded" and works to take off "some of that burden". "We've kind of created a little more burden on those people. So it's only fair that we also ask what we can do to help."
 >
-> - [A Team at Microsoft is Helping Make Python Faster, by Jay Miller](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
+> ~ [A Team at Microsoft is Helping Make Python Faster, by Jay Miller](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
 
 [^2]: [Faster CPython by Guido van Rossum, at Python Language Summit 2021](https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf)
 
@@ -182,7 +182,7 @@ Bloomberg released an internally-developed tool, Memray - a memory profiler for 
 
 > We also encourage the community to help us shape the future and direction of the tool by letting us know what specific problems they are facing and how we could extend or modify our tool to solve them. In addition, we hope that contributors will help us add new reporters that adapt to problems that we have not yet considered, and that they extend the tool to work on systems that we have not initially supported.
 >
-> - [Bloomberg publishes Memray, a new open source memory profiler for Python code](https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/)
+> ~ [Bloomberg publishes Memray, a new open source memory profiler for Python code](https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/)
 
 ### Consulting with Open Source Projects (Quansight)
 
@@ -192,7 +192,7 @@ Quansight is a consulting firm that provides OSS-based solutions for commercial 
 >
 > ~ [Quansight Labs Annual Report 2022](https://a.storyblok.com/f/152463/x/20372ca74f/quansight-labs-annual-report-2022.pdf)
 
-[3]: Quansight Labs is the public-benefit organization adjacent to Quansight that focuses on open source sustainability.
+[^3]: Quansight Labs is the public-benefit organization adjacent to Quansight that focuses on open source sustainability.
 
 ## Resources 📚
 
