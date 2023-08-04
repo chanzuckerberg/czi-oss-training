@@ -47,7 +47,12 @@ Community members who:
 
 **Learning path:**
 
-- [01-Introduction to open-source](./01-intro-to-os/README.md)
+- [Module 01 - Introduction to open-source](./01-intro-to-os/README.md)
+- Module 02 - (Participating in open source communities)(./02-participating-in-oss/README.md)
+  - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
+  - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
+  - Chapter 2.3 - [Contributing to open source: tooling and best practices](./02-participating-in-oss/03-contibuting-tips.md)
+  - Chapter 2.4 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/04-good-corporate-oss-citizen.md)
 
 ### Code-adjacent contributor 🎨
 
@@ -60,7 +65,12 @@ Community members who:
 
 **Learning path:**
 
-- [01-Introduction to open-source](./01-intro-to-os/README.md)
+- [Module 01-Introduction to open-source](./01-intro-to-os/README.md)
+- Module 02 - Participating in open source communities
+  - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
+  - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
+  - Chapter 2.3 - [Contributing to open source: tooling and best practices](./02-participating-in-oss/03-contibuting-tips.md)
+  - Chapter 2.4 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/04-good-corporate-oss-citizen.md)
 
 ### Manager/stakeholder 🤝
 
@@ -73,11 +83,16 @@ Community members who support teams of regular contributors, specifically:
 
 **Learning path:**
 
-- [01-Introduction to open-source](./01-intro-to-os/README.md)
+- [Module 01-Introduction to open-source](./01-intro-to-os/README.md)
+- Module 02 - Participating in open source communities
+  - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
+  - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
+  - Chapter 2.4 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/04-good-corporate-oss-citizen.md)
 
 ## Course outline 🗺
 
 - [Module 01 - Introduction to open-source](./01-intro-to-os/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
+- [Module 02 - Participating in open source](./02-participating-in-oss/): This module explores different ways to engage with and participate in open source communities. It also provides some best practices for contributing to open source as an individual and a corporate stakeholder.
 
 ## Contributing
 

@@ -88,7 +88,7 @@ It is important to remember that Open Research encompasses other practices descr
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 03 - Understanding OSS Governance](./01-intro-to-os.md)**
+⬅️ **[Previous Chapter: 03 - Understanding OSS Governance](./01-intro-to-os.md)** | **[Module activity: OSS power map](./power-map-activity.md)** ➡️
 
 <!-- reusable links -->
 

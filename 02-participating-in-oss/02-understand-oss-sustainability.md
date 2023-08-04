@@ -1,10 +1,10 @@
-# Chapter 02: Understand Open Source Sustainability and Life Cycle
-
 | Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-requisites   | [Module 02 - Chapter 01: Why Contribute to Open Source](./01-why-contribute-to-oss.md)                                                                                                        |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Chapter 2.1: Why Contribute to Open Source](./01-why-contribute-to-oss.md)                                              |
 
-- [Chapter 02: Understand Open Source Sustainability and Life Cycle](#chapter-02-understand-open-source-sustainability-and-life-cycle)
+# Chapter 02: Understanding Open Source Sustainability and Life Cycle
+
+- [Chapter 02: Understanding Open Source Sustainability and Life Cycle](#chapter-02-understanding-open-source-sustainability-and-life-cycle)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Sustainability ♻️](#sustainability-️)
     - [Corporate Sustainability 101](#corporate-sustainability-101)
@@ -18,6 +18,7 @@
     - [5. Wind-down](#5-wind-down)
     - [🙋 Learner Question: Which stage of the OSS Life Cycle is napari in?](#-learner-question-which-stage-of-the-oss-life-cycle-is-napari-in)
   - [Resources 📚](#resources-)
+  - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
@@ -164,6 +165,10 @@ napari is being continuously improved and maintained, and several (new and exist
 - [Roads and Bridges: The Unseen Labor Behind Our Digital Infrastructure, by Nadia Eghbal](https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/)
 - [Sustainable Open Source, by OSS Watch](http://oss-watch.ac.uk/resources/sustainableopensource)
 - [The Brundlant report][common-future]
+
+## Continue learning 🚥
+
+⬅️ **[Previous Chapter: 01 Why and how to contribute to Open Source](./01-why-contributing-to-oss.md)** | **[Next Chapter: 03 Contributing to open source](./03-contibuting-tips.md)** ➡️
 
 <!-- Reusable links -->
 

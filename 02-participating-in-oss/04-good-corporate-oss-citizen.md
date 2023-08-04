@@ -1,62 +1,66 @@
-# Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor
-
-<!-- TODO: Verify chapter links after 2.01 is merged -->
-
 | Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-requisites   | [Module 02 - Chapter 01: Why and How to Contribute to Open Source](./01-why-contribute-to-oss.md)                                                                                             |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Chapter 2.1: Why and how to contribute to Open Source](./01-why-contributing-to-oss.md)                                 |
+
+# Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor
 
 - [Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-04-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
-  - [Familiarize with Community Standards 📖](#familiarize-with-community-standards)
-    - [New contributor guidelines](#new-contributor-guidelines)
+  - [Familiarize with Community Standards 📖](#familiarize-with-community-standards-)
+    - [(New) Contributor guidelines](#new-contributor-guidelines)
     - [Communication guidelines](#communication-guidelines)
     - [Maintenance guidelines](#maintenance-guidelines)
     - [Governance](#governance)
     - [Roadmap](#roadmap)
-  - [Build Community Consensus 🤝](#build-community-consensus)
+  - [Building Community Consensus 🤝](#building-community-consensus-)
     - [Organizational Open Source Strategy](#organizational-open-source-strategy)
-    - [Steps for Large-Scoped Tasks](#steps-for-large-scoped-tasks)
     - [Considerations for Small-Scope Contributions](#considerations-for-small-scope-contributions)
-  - [Turn Private Conversations to Public Resources](#turn-private-conversations-to-public-resources)
+    - [Steps for Large-Scoped Tasks](#steps-for-large-scoped-tasks)
+  - [Turn Private Conversations into Public Resources](#turn-private-conversations-into-public-resources)
   - [Co-creation and Participating as a Corporate Sponsor](#co-creation-and-participating-as-a-corporate-sponsor)
   - [Examples of Good Corporate Sponsorship](#examples-of-good-corporate-sponsorship)
   - [Resources 📚](#resources-)
+  - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
 - Learn best practices for successful corporate sponsorship and effective collaboration with the project community
-- Understand when and how to create new open source projects, in addition to contributing to existing ones.
+- Understand when and how to create new open source projects vs when to contribute to existing ones.
 
-## Familiarize with Community Standards 📖
+## Familiarize with Community Standards 📖
 
-All open source contributions start with an understanding of project-specific community standards and processes. This first step is especially important for corporate contributors because you have additional reputation and trust to build within the project community. Taking the time to understand community standards early, and making an active effort to follow them, signals a strong respect for volunteers' time.
+All open source contributions start with understanding project-specific community standards and processes. This first step is crucial for corporate contributors as they might encounter additional challenges in building a reputation and trust within the project community (vs an individual contributor)[^1]. Taking the time to understand community standards early, and making an active effort to follow them, signals a strong respect for volunteers' time and its community.
 
-These standards are usually available in the project's documentation, under the community, developer, or contributor sections. Corporate-sponsored individual contributors should familiarize themselves with the following non-exhaustive set of guidelines.
+[^1]: While this might not always be true, many open source projects are extra cautious when engaging with corporate contributors due to a lack of understanding of their motivations or for fear of a corporate takeover.
 
-### New contributor guidelines
+These standards are usually available in the project's documentation under the community, developer, or contributor sections. Corporate-sponsored individual contributors should familiarize themselves with the following non-exhaustive set of guidelines.
 
-The journey, tasks, and tools for your first few successful contributions, including:
+> **Important**
+> Some of the most important documents to read are the project's Code of Conduct, Contributor Guidelines, Governance or Leadership Structure, and the LICENSE file. The following sections provide a glimpse of the type of information you might encounter in these documents.
 
-- End-to-end contribution workflow for the project and specific requirements like corresponding issues for all pull requests, a CHANGELOG entry for each pull request (PR), and more
+### (New) Contributor guidelines
+
+In this document you will find information regarding the journey, tasks, and tools for your first few successful contributions, including:
+
+- End-to-end contribution workflow for the project and specific requirements like corresponding issues for all pull requests, a `CHANGELOG` entry for each pull request (PR), and more
 - Guidelines for creating context-rich issues & PRs and the appropriate process to move the discussions forward, for example, by notifying a particular project team
-- Instructions for setting up local or personal development environments, documentation systems, and test infrastructure, along with project-specific helper tools like `pre-commit`
+- Instructions for setting up local or personal development environments, documentation systems, and test infrastructure, along with project-specific helper tools like `pre-commit.`
 - Style guides, i.e., project-specific preferences, for authoring code, writing documentation, and using design elements
 
 > **Note:**
-> This step can also involve signing a CLA, in which case you should check-in with your management team.
+> This step can also involve signing a CLA, in which case you should check in with your management and legal teams.
 
 ### Communication guidelines
 
-Best practices for engaging with fellow community members, including:
+Best practices for engaging with fellow community members include:
 
-- Various community forums and their primary purpose like support questions, developer discussions, etc.
+- Various community forums and their primary purpose, like support questions, developer discussions, etc.
 - Guidelines for good asynchronous communication, for example, adding relevant context, asking specific questions, using jargon-free plain language, expected time to respond, etc.
 - Code of Conduct to follow in the community spaces
 
 ### Maintenance guidelines
 
-Pathways to become active and regular contributors by engaging in project maintenance activities, including:
+Pathways to becoming active and regular contributors by engaging in project maintenance activities, including:
 
 - Issue triaging and PR reviewing guidelines, for example, using project labels or bots
 - Release procedure and cadence
@@ -69,55 +73,63 @@ Pathways to become active and regular contributors by engaging in project mainte
 Decision-making standards and workflows, including:
 
 - Guidelines for creating and discussing Enhancement Proposals
-- Recorded project leadership structure, special interest or working groups, member roles and responsibilities, and more
+- Recorded project leadership structure, particular interests or working groups, member roles and responsibilities, and more
 
 > **Tip:**
 > Learn more about open source governance in [Module 1](../01-intro-to-os/03-understand-oss-governance.md).
 
 ### Roadmap
 
-The project's current priorities and future direction, decided with input from the community.
+While having a roadmap is useful to determine priorities and the direction of the project, many projects do not have a detailed roadmap. Some projects use other methods of alignment such as Enhancement Proposals (CPython, NumPy, napari, Jupyter), while others use their issue tracker and release milestones.
 
-## Build Community Consensus 🤝
+A roadmap usually contains the project's current priorities and future direction are decided with input from the community. If the project has a roadmap, it is a good idea to go through the contents in it. Such a document can often provide valuable information about topics the community care about and the direction of the project. It can also help you identify areas where you can contribute as a corporate contributor.
 
-Corporate-backed open source contributors have the expertise and resources to work on large-scoped tasks and can have a significant impact on the project. A key component of this work is building consensus within the community on the design and implementation of these tasks at each stage of your participation: org-level open source strategy, team-level sprint planning, and day-to-day individual contributions.
+## Building Community Consensus 🤝
+
+Corporate-backed open source contributors have the expertise and resources to work on large-scoped tasks and can significantly impact the project. A vital component of this work is building consensus within the community on the design and implementation of these tasks at each stage of your participation: org-level open source strategy, team-level sprint planning, and day-to-day individual contributions.
+
+> **Note**
+> A good rule of thumb is that funding or significant investment such as in-kind donations should follow the community, not the other way around.
 
 ### Organizational Open Source Strategy
 
 Effective open source collaboration trickles down from the leadership teams. It's easier for individual contributors to build consensus within the community if:
 
 - The proposed tasks are aligned with the open source project's roadmap
-- There's transparency around the corporate interest in the task to build community trust
-- They have support to contribute to general maintenance efforts, allowing volunteers to participate in the task-specific decisions
+- There's transparency around the corporate interest in the task of building community trust
+- Corporate contributors contribute to general maintenance efforts regularly, allowing volunteers to participate in the task-specific decisions
+
+### Considerations for Small-Scope Contributions
+
+Building consensus is also essential for day-to-day contributions involving fewer stakeholders and a self-driven process. It helps you build trust within the community and make impactful contributions. Some general best practices for thoughtful contributions include:
+
+- Before complete implementations, discuss potential solutions on the issue tracker and open draft PRs for in-depth discussions when necessary
+- Actively seek code reviews or alternative feedback mechanisms for non-code contributions
+- Always consider the security, maintenance, and community implications of your work and discuss any concerns on contributor forums
 
 ### Steps for Large-Scoped Tasks
 
-A large-scoped task is one that touches several parts of the project, impacts a substantial user base, or changes community workflows. Community-governed projects usually have an Enhancement Proposal or Request for Discussion mechanism for making decisions on such tasks:
+Making decisions about small fixes and scoped features can often be made as part of a project's contribution workflow. However, when discussing large-scoped task that touch several project parts, impacts a substantial user base, or significantly changes the project's architecture, behavior governance, community workflows that streamlined process is no longer suitable. Such significant decisions require more robust decision-making processes where the interested and impacted parties can show their support, hesitations, ask questions, and align towards a path for implementation, or even reject the proposal. Community-governed projects usually have an Enhancement Proposal or Request for Discussion mechanism for such cases:
 
 <p align="center">
   <img src="images/enhancement-workflow.svg" alt="" width="70%"/>
 </p>
 
+The goal of this process is to build consensus within the community on the task's design and implementation considering the short, mid, and long-term implications of such a change. This process also helps provide a transparent and inclusive decision-making process.
+
 When working on enhancement proposals:
 
-- Write the proposal following proper guidelines with all the relevant background and details like implementation plan, alternative strategies, community impact, and more
-- Work with 1-2 community members on the draft before submitting for broader community feedback
+- Write the proposal following proper guidelines with all the relevant background and details like implementation plan, alternative strategies, community impact, anticipated challenges, etc.
+- Work with 1-2 community members on the draft before submitting for broader community feedback. This will ensure you are focusing on the right problem for the community and signals a willingness to collaborate
 - Keep an open mind for community feedback and address the questions and concerns thoughtfully
 - Make appropriate updates to your proposal based on the community feedback and request a vote only when confident
 - Note that sometimes the best strategy to incorporate feedback could be to withdraw the proposal and write a fresh one
 - Do not take a rejection personally, but understand the rationale and work with the community on a different plan
 
-This community decision-making and differing points-of-view is how we keep up the quality of our open source projects, so be patient and remember the human behind the screens even when the conversations get difficult. :)
+> **Important**
+> This community decision-making and differing points of view are how we keep up the quality of our open source projects, so be patient and remember the human behind the screens even when the conversations get difficult. 😊
 
-### Considerations for Small-Scope Contributions
-
-Building consensus is also important for day-to-day contributions, which involve fewer stakeholders and a self-driven process. It helps you build trust in the community and make better contributions. Good practices to follow here are:
-
-- Before complete implementations, discuss potential solutions on the issue tracker and open draft PRs for in-depth discussions when necessary
-- Actively seek code reviews, or alternative feedback mechanisms for non-code contributions
-- Always consider the security and community implications of your work and discuss any concerns on contributor forums
-
-## Turn Private Conversations to Public Resources
+## Turn Private Conversations into Public Resources
 
 <!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/36 -->
 
@@ -132,3 +144,7 @@ Building consensus is also important for day-to-day contributions, which involve
 ## Resources 📚
 
 - [Effective Open Source Development & Participation, TODO Group](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module4/README.md)
+
+## Continue learning 🚥
+
+⬅️ **[Previous Chapter: 04 Being a Good OS Citizen as a corporate sponsor](./04-good-corporate-oss-citizen.md)** | **[Module activity: OSS career journey](./OSS-journey-activity.md)** ➡️
