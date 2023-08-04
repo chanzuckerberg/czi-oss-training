@@ -13,11 +13,9 @@
     - [How contributions work 🎁](#how-contributions-work-)
     - [Contributions beyond code ✨](#contributions-beyond-code-)
   - [Development and maintenance considerations 💻](#development-and-maintenance-considerations-)
-  - [Legal and governance considerations](#legal-and-governance-considerations)
-  - [Tools for PM](#tools-for-pm)
+  - [Legal and governance considerations ⚖️](#legal-and-governance-considerations-️)
+  - [Tools 🛠](#tools-)
   - [Resources 📚](#resources-)
-    - [Project examples](#project-examples)
-    - [Tools 🛠](#tools-)
   - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
@@ -60,9 +58,7 @@ Open source projects also need contributions in documentation, design, marketing
 
 While some of these contributions _might_ follow a similar workflow to code contributions, others might not. For example, a contribution to the documentation of a project might follow the Pull Request workflow described above. However, community-related contributions such as organizing community meetings or mentoring new contributors follow different processes.
 
-<!-- TODO: add a link to sustainability section -->
-
-As discussed in Chapter 02, a project's sustainability requires collective actions across multiple areas; thus including and acknowledging all types of contributions is paramount for the success of an open source project. This starts with creating no-code/code-adjacent contribution pathways to adopt mechanisms to make these contributions visible and valued.
+As discussed in [Chapter 02](./02-understand-oss-sustainability.md), a project's sustainability requires collective actions across multiple areas; thus including and acknowledging all types of contributions is paramount for the success of an open source project. This starts with creating no-code/code-adjacent contribution pathways to adopt mechanisms to make these contributions visible and valued.
 
 > **Tip**
 > GitHub only makes certain types of contributions visible, while many other vital contributions are obscured or not accounted for.
@@ -82,17 +78,13 @@ However, these practices are best suited for traditional tech corporate (includi
 - Such a process assumes a dedicated team of developers (and designers) working on the project.
 - It requires a product owner and a project manager to coordinate the work an.
 
-## Legal and governance considerations
+## Legal and governance considerations ⚖️
 
-## Tools for PM
-
-## Resources 📚
-
-### Project examples
-
-### Tools 🛠
+## Tools 🛠
 
 - [All contributors bot][all-contributors]
+
+## Resources 📚
 
 ## Continue learning 🚥
 
