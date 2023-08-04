@@ -13,7 +13,9 @@
     - [How contributions work 🎁](#how-contributions-work-)
     - [Contributions beyond code ✨](#contributions-beyond-code-)
   - [Development and maintenance considerations 💻](#development-and-maintenance-considerations-)
-  - [Legal and governance considerations ⚖️](#legal-and-governance-considerations-️)
+    - [The OSS Way](#the-oss-way)
+    - [Designing in the open](#designing-in-the-open)
+  - [Working with large distributed teams 🌎](#working-with-large-distributed-teams-)
   - [Tools 🛠](#tools-)
   - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
@@ -72,13 +74,70 @@ Let's start by revising a popular product-focused software development lifecycle
 
 ![Agile software development lifecycle covering requirements gathering -> design -> implementation -> Test/QA -> Deployment -> User acceptance testing -> Delivery -> Feedback](./images/agile-swe.png)
 
-Agile has gained tremendous popularity as it enables development teams to iterate on and ship new products and features efficiently and with consistent throughput.
-However, these practices are best suited for traditional tech corporate (including startup and similar) scenarios, mainly due to the following reasons:
+The Agile methodology has gained tremendous popularity, enabling development teams to iterate on and ship new products and features efficiently and with consistent throughput.
+However, these practices are best suited for "traditional tech corporate" (including startups and some not-for-profit) due to the following assumptions/processes involved:
 
-- Such a process assumes a dedicated team of developers (and designers) working on the project.
-- It requires a product owner and a project manager to coordinate the work an.
+- Assumes a dedicated team of developers, designers, and project/product management (and other roles) is working on the project.
+- There is often a clear distinction between the development team and the product's end-users.
+- There is a project manager, and often a project owner, who is responsible for determining the scope of work, prioritizing tasks, and ensuring the team meets its deadlines.
+- Product goals are often tied to business goals and are measured by revenue, user growth, ROI, and more metrics.
+- Depending on the licensing and revenue generation model, the organization might also be responsible for providing support to end-users and have an SLA (Service License Agreement).
+- Even if using open source tools or software to build the ultimate product, the product itself may or might not be open source. Thus, the ultimate decision-maker will is the product owner; no consent or consensus is sought.
+- Due to the time and delivery expectations, this isn't easy to implement with a fully geographically-distributed team that communicates asynchronously.
 
-## Legal and governance considerations ⚖️
+### The OSS Way
+
+In contrast, open source projects are often developed and maintained by a community of volunteers and/or paid contributors. There is an overlap between community members and end-users[^1] of the project, and both are involved in the development and maintenance of the project. The community members are also responsible for the project's governance and decision-making processes.
+
+[^1]: Depending on how a project defines the boundaries of their community - and community members - users might be included in such definition of community or counted as a group of individuals interacting with the project from a more transactional or utilitarian perspective. Both are valid perspectives. However, such definitions will impact how the project is developed and maintained.
+
+In contrast to the Agile methodology, the OSS development cycle can be slower and centered around collaboration and co-ownership, as contributions can often lead to longer-term implications in terms of maintenance for the project and other projects that depend on it.
+
+The development cycle is often driven by the community's needs and priorities, and the project's goals are often tied to the community's goals and values and roughly follow the steps in the schematic below.
+
+<img src="./images/oss-development-workflow.svg">
+
+While not exhaustive, here is a list of core characteristics and differentiators of OSS development (vs. other product methodologies such as Agile or [Waterfall](./images/waterfall-swe.svg)):
+
+- The process is designed for geographically distributed teams and asynchronous communication.
+- OSS maintenance and development is based on transparency, trust, collaboration, and co-ownership.
+- Relies on distributed decision-making and consensus-seeking.
+- It's decentralized and community-driven nature requires an extra focus on transparency.
+- Contributions are peer-reviewed.
+- End-users and community members equally provide feedback, raise bugs, and request features.
+- The project's goals are tied to the community's goals and values.
+- Operate through processes designed to be resilient to organizational change and allow for self-organization and self-management.
+- While projects usually have a release cadence, deadlines are rarely set in stone, and a significant release might be delayed if there are blockers or the community needs more time to review and test the release. Equally, many releases do not include new features but are focused on bug fixes, documentation, and maintenance tasks (e.g., CI, dependencies updates, testing).
+- The development model can scale (up and down) depending on community participation and maintainers' availability.
+- Trust is built by past record of productive participation and wise decisions on smaller issues.
+- A common mantra in OSS is "Release Early, Release Often" (you can refer to the schematic above).
+  While this approach allow users and maintainers alike to benefit from new features and critical patches at a reasonable pace.
+
+### Designing in the open
+
+While talking about the OSS development cycle, it is essential to highlight the importance of designing in the open.
+
+Some best practices for designing in the open include:
+
+- Communicate early and often on the project’s preferred communication platform.
+- Anticipate feedback and proactively provide context and rationale for your design decisions.
+- Acknowledge given feedback and re-work your contribution.
+- Signal willingness to adapt your design if someone else is willing to collaborate with you.
+- Plan for modularity, even if the first designs are not modular.
+
+Following these best practices will help you build trust and get effective acceptance of your design decisions and ideas. Important things to consider when designing for acceptance are:
+
+- Design your contribution to be as modular and as straightforward to implement as possible.
+  - Small, well-scoped contributions are easier to review and to integrate.
+  - Modular contributions are easier to maintain and update.
+  - Iterative development practices promote extensibility.
+- Scope and divide as needed.
+  - If your contribution is too big, consider breaking it down into smaller, more manageable pieces. Larger changes are more likely to be completed and accepted as a series of smaller changes with concrete goals.
+  - Communicate your plans and intentions before you start working on a contribution.
+
+## Working with large distributed teams 🌎
+
+<!-- TODO -->
 
 ## Tools 🛠
 
