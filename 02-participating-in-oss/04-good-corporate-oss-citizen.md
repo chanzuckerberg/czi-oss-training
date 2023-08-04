@@ -18,7 +18,11 @@
     - [Steps for Large-Scoped Tasks](#steps-for-large-scoped-tasks)
   - [Turn Private Conversations into Public Resources](#turn-private-conversations-into-public-resources)
   - [Co-creation and Participating as a Corporate Sponsor](#co-creation-and-participating-as-a-corporate-sponsor)
-  - [Examples of Good Corporate Sponsorship](#examples-of-good-corporate-sponsorship)
+  - [Examples of Good Corporate Open Source Contributions 🖼️](#examples-of-good-corporate-open-source-contributions-️)
+    - [CPython Developer-in-Residence Program (PSF Sponsors: Google, Bloomberg, and Meta)](#cpython-developer-in-residence-program-psf-sponsors-google-bloomberg-and-meta)
+    - [Faster CPython Initiative (Microsoft)](#faster-cpython-initiative-microsoft)
+    - [Open Sourcing Memray (Bloomberg)](#open-sourcing-memray-bloomberg)
+    - [Consulting with Open Source Projects (Quansight)](#consulting-with-open-source-projects-quansight)
   - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
 
@@ -137,9 +141,54 @@ When working on enhancement proposals:
 
 <!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/17 -->
 
-## Examples of Good Corporate Sponsorship
+## Examples of Good Corporate Open Source Contributions 🖼️
 
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/42 -->
+There is no one solution for successful corporate open source partnerships. We need several innovative contribution strategies to add to the overall open source sustainability conversation. If you adhere to the best practices shared in this chapter, and generally the open source ethos, you can create a good collaboration plan for your organization.
+
+The following are some examples of corporations sponsoring open source projects, selected from within the Python community.
+
+### CPython Developer-in-Residence Program (PSF Sponsors: Google, Bloomberg, and Meta)
+
+One of the biggest success stories in the Python community is the [Python Software Foundation's (PSF)](https://www.python.org/psf-landing/) Developer in Residence (DIR)program. PSF is the non-profit organization that support the Python language and community. Corporate organizations can directly sponsor the PSF, and the PSF staff and board decide how to best use the funds to benefit the community.
+
+The DIR program employs a developer for full-time hours with competitive pay to contribute to CPython and support the volunteer Python community. This is an expensive and ambitious program, and financial sponsorship provided at a "visionary" level by Google, Bloomberg, and Meta, allows for such no-strings-attached programs to improve OSS.
+
+> The PSF and the Steering Council summarize the expected responsibilities of the DIR as follows:
+>
+> - addressing PR and issue backlog,
+> - analytical research to understand the project's volunteer hours and funding,
+> - investigation of project priorities and their tasks going forward,
+> - and working on those priorities.
+>
+> ~ [I am the new CPython Developer in Residence, by Łukasz Langa]
+
+This program has been running strong for over two years and has expanded to include a [Security DIR](https://pyfound.blogspot.com/2023/06/announcing-our-new-security-developer.html) and [Deputy CPython DIR](https://lukasz.langa.pl/40b601fc-2b24-4629-91d9-3b32c58365c6/).
+
+### Faster CPython Initiative (Microsoft)
+
+This is an ongoing initiative (sponsored by Microsoft)[^2] to speed up CPython - reference implementation of the Python Programming Language. Microsoft employs a developer team led by Guido van Rossum, the creator and a core developer of CPython to works with the Python community to ideate, prototype, and implement features that will improve Python's performance.
+
+This team includes long-term volunteer contributors to CPython and other Python libraries who understand the community workflows, priorities, and decision making. They make an active effort to contribute to maintenance tasks and work on activities that benefit the entire community.
+
+> [Michael] don't feel "overloaded" and works to take off "some of that burden". "We've kind of created a little more burden on those people. So it's only fair that we also ask what we can do to help."
+>
+> ~ [A Team at Microsoft is Helping Make Python Faster, by Jay Miller](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
+
+[2]: [Faster CPython by Guido van Rossum, at Python Language Summit 2021](https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf)
+
+### Open Sourcing Memray (Bloomberg)
+
+Bloomberg released an internally-developed tool, Memray - a memory profiler for Python, under a permissive OSI-approved open source license to share the project with the broader Python community. It's a powerful and useful library that garnered a lot of community attention, and continues to have wide adoption and community contributions. You can learn more in the [official announcement](https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/).
+
+### Consulting with Open Source Projects (Quansight)
+
+Quansight is a consulting firm that provides OSS-based solutions for commercial clients. Quansight (employs contributors and maintainers of community-driven PyData projects)[^3] and enables them to continue contributing to OSS while working on consulting projects.
+
+> Such a model includes benefits such as learning and upskilling opportunities for our team, bringing back concrete feedback and needs from users and ideas to open source projects. It also gives us the flexibility to quickly scale up our contributions to the open source projects we support when we receive direct financial support for them.
+>
+> ~ [Quansight Labs Annual Report 2022](https://a.storyblok.com/f/152463/x/20372ca74f/quansight-labs-annual-report-2022.pdf)
+
+[3]: Quansight Labs is the public-benefit organization adjacent to Quansight that focuses on open source sustainability.
 
 ## Resources 📚
 
