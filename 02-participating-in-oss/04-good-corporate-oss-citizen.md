@@ -166,7 +166,7 @@ This program has been running strong for over two years and has expanded to incl
 
 ### Faster CPython Initiative (Microsoft)
 
-This is an ongoing initiative (sponsored by Microsoft)[^2] to speed up CPython - reference implementation of the Python Programming Language. Microsoft employs a developer team led by Guido van Rossum, the creator of Python and a CPython core developer, to work with the Python community to ideate, prototype, and implement features that will improve Python's performance.
+This is an ongoing initiative sponsored by Microsoft[^2] to speed up CPython - reference implementation of the Python Programming Language. Microsoft employs a developer team led by Guido van Rossum, the creator of Python and a CPython core developer, to work with the Python community to ideate, prototype, and implement features that will improve Python's performance.
 
 This team includes long-term contributors to CPython and other Python libraries, who understand the community workflows, priorities, and decision-making. They make an active effort to contribute to maintenance tasks and work on activities that benefit the entire community.
 
@@ -186,7 +186,7 @@ Bloomberg released an internally-developed tool, Memray - a memory profiler for 
 
 ### Consulting with Open Source Projects (Quansight)
 
-Quansight is a consulting firm that provides OSS-based solutions for commercial clients. Quansight (employs several contributors and maintainers of community-driven PyData projects)[^3], enabling them to continue contributing to OSS while sharing their expertise for consulting projects.
+Quansight is a consulting firm that provides OSS-based solutions for commercial clients. Quansight employs several contributors and maintainers of community-driven PyData projects[^3], enabling them to continue contributing to OSS while sharing their expertise for consulting projects.
 
 > Such a model includes benefits such as learning and upskilling opportunities for our team, bringing back concrete feedback and needs from users and ideas to open source projects. It also gives us the flexibility to quickly scale up our contributions to the open source projects we support when we receive direct financial support for them.
 >
