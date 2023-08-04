@@ -147,4 +147,4 @@ When working on enhancement proposals:
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 04 Being a Good OS Citizen as a corporate sponsor](./04-good-corporate-oss-citizen.md)** | **[Module activity: OSS career journey](./OSS-journey-activity.md)** ➡
+⬅️ **[Previous Chapter: 04 Being a Good OS Citizen as a corporate sponsor](./04-good-corporate-oss-citizen.md)** | **[Module activity: OSS career journey](./OSS-journey-activity.md)** ➡️

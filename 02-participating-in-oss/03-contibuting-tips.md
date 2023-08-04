@@ -17,7 +17,6 @@
     - [Designing in the open](#designing-in-the-open)
   - [Working with large distributed teams 🌎](#working-with-large-distributed-teams-)
   - [Tools 🛠](#tools-)
-  - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
@@ -141,13 +140,13 @@ Following these best practices will help you build trust and get effective accep
 
 ## Tools 🛠
 
-- [All contributors bot][all-contributors]
+<!-- TODO: add list of tools for OSS development and management -->
 
-## Resources 📚
+- [All contributors bot][all-contributors]
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 02 Understand Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md)** | **[Next Chapter: 04 Being a Good OS Citizen as a corporate sponsor](./04-good-corporate-oss-citizen.md)** ➡
+⬅️ **[Previous Chapter: 02 Understand Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md)** | **[Next Chapter: 04 Being a Good OS Citizen as a corporate sponsor](./04-good-corporate-oss-citizen.md)** ➡️
 
 <!-- Reusable links -->
 
