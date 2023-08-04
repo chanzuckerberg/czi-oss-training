@@ -160,7 +160,7 @@ The DIR program employs a developer for full-time hours with competitive pay to 
 > - investigation of project priorities and their tasks going forward,
 > - and working on those priorities.
 >
-> ~ [I am the new CPython Developer in Residence, by Łukasz Langa]
+> ~ [I am the new CPython Developer in Residence, by Łukasz Langa](https://lukasz.langa.pl/a072a74b-19d7-41ff-a294-e6b1319fdb6e/)
 
 This program has been running strong for over two years and has expanded to include a [Security DIR](https://pyfound.blogspot.com/2023/06/announcing-our-new-security-developer.html) and [Deputy CPython DIR](https://lukasz.langa.pl/40b601fc-2b24-4629-91d9-3b32c58365c6/).
 
