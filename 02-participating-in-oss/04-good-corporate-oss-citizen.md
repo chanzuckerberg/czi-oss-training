@@ -1,10 +1,8 @@
-# Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor
-
-<!-- TODO: Verify chapter links after 2.01 is merged -->
-
 | Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-requisites   | [Module 02 - Chapter 01: Why and How to Contribute to Open Source](./01-why-contribute-to-oss.md)                                                                                             |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02 - Chapter 01: Why and how to contribute to Open Source](./01-why-contributing-to-oss.md)                      |
+
+# Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor
 
 - [Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-04-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
@@ -22,6 +20,7 @@
   - [Co-creation and Participating as a Corporate Sponsor](#co-creation-and-participating-as-a-corporate-sponsor)
   - [Examples of Good Corporate Sponsorship](#examples-of-good-corporate-sponsorship)
   - [Resources 📚](#resources-)
+  - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
@@ -132,3 +131,7 @@ Building consensus is also important for day-to-day contributions, which involve
 ## Resources 📚
 
 - [Effective Open Source Development & Participation, TODO Group](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module4/README.md)
+
+## Continue learning 🚥
+
+⬅️ **[Previous Chapter: 04 Being a Good OS Citizen as a corporate sponsor](./04-good-corporate-oss-citizen.md)** | **[Module activity: OSS career journey](./OSS-journey-activity.md)** ➡

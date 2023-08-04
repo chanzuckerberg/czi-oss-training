@@ -94,4 +94,4 @@ In the following chapters, we'll cover more collaboration strategies and how org
 
 ## Continue learning 🚥
 
-**[Next Chapter 02: Understand Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md)** ➡️
+**[Next Chapter: 02 Understanding Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md)** ➡️
