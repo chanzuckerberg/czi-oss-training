@@ -143,15 +143,15 @@ When working on enhancement proposals:
 
 ## Examples of Good Corporate Open Source Contributions 🖼️
 
-There is no one solution for successful corporate open source partnerships. We need several innovative contribution strategies to add to the overall open source sustainability conversation. If you adhere to the best practices shared in this chapter, and generally the open source ethos, you can create a good collaboration plan for your organization.
+There is no universal formula for successful corporate open source partnerships. We need several innovative contribution approaches to improve the overall open source sustainability journey. If you adhere to the best practices shared in this chapter, and generally practice the open source ethos, you can create a good open source plan for your organization.
 
-The following are some examples of corporations sponsoring open source projects, selected from within the Python community.
+The following are some examples of corporations being good open source citizens in their sponsorship, selected from within the Python community.
 
 ### CPython Developer-in-Residence Program (PSF Sponsors: Google, Bloomberg, and Meta)
 
-One of the biggest success stories in the Python community is the [Python Software Foundation's (PSF)](https://www.python.org/psf-landing/) Developer in Residence (DIR)program. PSF is the non-profit organization that support the Python language and community. Corporate organizations can directly sponsor the PSF, and the PSF staff and board decide how to best use the funds to benefit the community.
+One of the biggest success stories in the Python community is the [Python Software Foundation's (PSF)](https://www.python.org/psf-landing/) Developer in Residence (DIR)program. PSF is the non-profit organization that supports the Python language and community. Corporate organizations can directly sponsor the PSF, and the PSF staff members, with advice from the elected board of directors, decide the best ways to use the funds.
 
-The DIR program employs a developer for full-time hours with competitive pay to contribute to CPython and support the volunteer Python community. This is an expensive and ambitious program, and financial sponsorship provided at a "visionary" level by Google, Bloomberg, and Meta, allows for such no-strings-attached programs to improve OSS.
+The DIR program employs a developer for full-time hours with competitive pay to contribute to CPython and support the volunteer Python community. This is an expensive and ambitious program, and financial sponsorship provided at a "visionary" level by Google, Bloomberg, and Meta, allows for such no-strings-attached programs.
 
 > The PSF and the Steering Council summarize the expected responsibilities of the DIR as follows:
 >
@@ -160,29 +160,33 @@ The DIR program employs a developer for full-time hours with competitive pay to 
 > - investigation of project priorities and their tasks going forward,
 > - and working on those priorities.
 >
-> ~ [I am the new CPython Developer in Residence, by Łukasz Langa]
+> - [I am the new CPython Developer in Residence, by Łukasz Langa]
 
 This program has been running strong for over two years and has expanded to include a [Security DIR](https://pyfound.blogspot.com/2023/06/announcing-our-new-security-developer.html) and [Deputy CPython DIR](https://lukasz.langa.pl/40b601fc-2b24-4629-91d9-3b32c58365c6/).
 
 ### Faster CPython Initiative (Microsoft)
 
-This is an ongoing initiative (sponsored by Microsoft)[^2] to speed up CPython - reference implementation of the Python Programming Language. Microsoft employs a developer team led by Guido van Rossum, the creator and a core developer of CPython to works with the Python community to ideate, prototype, and implement features that will improve Python's performance.
+This is an ongoing initiative (sponsored by Microsoft)[^2] to speed up CPython - reference implementation of the Python Programming Language. Microsoft employs a developer team led by Guido van Rossum, the creator of Python and a CPython core developer, to work with the Python community to ideate, prototype, and implement features that will improve Python's performance.
 
-This team includes long-term volunteer contributors to CPython and other Python libraries who understand the community workflows, priorities, and decision making. They make an active effort to contribute to maintenance tasks and work on activities that benefit the entire community.
+This team includes long-term contributors to CPython and other Python libraries, who understand the community workflows, priorities, and decision-making. They make an active effort to contribute to maintenance tasks and work on activities that benefit the entire community.
 
-> [Michael] don't feel "overloaded" and works to take off "some of that burden". "We've kind of created a little more burden on those people. So it's only fair that we also ask what we can do to help."
+> [Michael] Droettboom says he hopes they [volunteer core devs] don't feel "overloaded" and works to take off "some of that burden". "We've kind of created a little more burden on those people. So it's only fair that we also ask what we can do to help."
 >
-> ~ [A Team at Microsoft is Helping Make Python Faster, by Jay Miller](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
+> - [A Team at Microsoft is Helping Make Python Faster, by Jay Miller](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
 
-[2]: [Faster CPython by Guido van Rossum, at Python Language Summit 2021](https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf)
+[^2]: [Faster CPython by Guido van Rossum, at Python Language Summit 2021](https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf)
 
 ### Open Sourcing Memray (Bloomberg)
 
-Bloomberg released an internally-developed tool, Memray - a memory profiler for Python, under a permissive OSI-approved open source license to share the project with the broader Python community. It's a powerful and useful library that garnered a lot of community attention, and continues to have wide adoption and community contributions. You can learn more in the [official announcement](https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/).
+Bloomberg released an internally-developed tool, Memray - a memory profiler for Python, under an OSI-approved open source license to share the project with the broader Python community. It's a powerful and useful library that garnered a lot of community attention and immediate adoption. Although Bloomberg-employees remain the primary maintainers, the team enables and supports community contributors.
+
+> We also encourage the community to help us shape the future and direction of the tool by letting us know what specific problems they are facing and how we could extend or modify our tool to solve them. In addition, we hope that contributors will help us add new reporters that adapt to problems that we have not yet considered, and that they extend the tool to work on systems that we have not initially supported.
+>
+> - [Bloomberg publishes Memray, a new open source memory profiler for Python code](https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/)
 
 ### Consulting with Open Source Projects (Quansight)
 
-Quansight is a consulting firm that provides OSS-based solutions for commercial clients. Quansight (employs contributors and maintainers of community-driven PyData projects)[^3] and enables them to continue contributing to OSS while working on consulting projects.
+Quansight is a consulting firm that provides OSS-based solutions for commercial clients. Quansight (employs several contributors and maintainers of community-driven PyData projects)[^3], enabling them to continue contributing to OSS while sharing their expertise for consulting projects.
 
 > Such a model includes benefits such as learning and upskilling opportunities for our team, bringing back concrete feedback and needs from users and ideas to open source projects. It also gives us the flexibility to quickly scale up our contributions to the open source projects we support when we receive direct financial support for them.
 >
