@@ -1,6 +1,6 @@
 | Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02 - Chapter 01: Why Contribute to Open Source](./01-why-contribute-to-oss.md)                                   |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Chapter 2.1: Why Contribute to Open Source](./01-why-contribute-to-oss.md)                                              |
 
 # Chapter 02: Understanding Open Source Sustainability and Life Cycle
 
