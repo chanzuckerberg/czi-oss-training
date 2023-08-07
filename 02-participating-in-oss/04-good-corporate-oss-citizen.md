@@ -33,7 +33,7 @@
 
 ## Familiarize with Community Standards 📖
 
-All open source contributions start with understanding project-specific community standards and processes. This first step is crucial for corporate contributors as they might encounter additional challenges in building a reputation and trust within the project community (vs an individual contributor)[^1]. Taking the time to understand community standards early, and making an active effort to follow them, signals a strong respect for volunteers' time and its community.
+All open source contributions start with understanding project-specific community standards and processes. This first step is crucial for corporate contributors as they might encounter additional challenges in building a reputation and trust within the project community (vs. an individual contributor)[^1]. Taking the time to understand community standards early, and making an active effort to follow them, signals a strong respect for volunteers' time and the community.
 
 [^1]: While this might not always be true, many open source projects are extra cautious when engaging with corporate contributors due to a lack of understanding of their motivations or for fear of a corporate takeover.
 
@@ -44,7 +44,7 @@ These standards are usually available in the project's documentation under the c
 
 ### (New) Contributor guidelines
 
-In this document you will find information regarding the journey, tasks, and tools for your first few successful contributions, including:
+In this document, you will find information regarding the journey, tasks, and tools for your first few successful contributions, including:
 
 - End-to-end contribution workflow for the project and specific requirements like corresponding issues for all pull requests, a `CHANGELOG` entry for each pull request (PR), and more
 - Guidelines for creating context-rich issues & PRs and the appropriate process to move the discussions forward, for example, by notifying a particular project team
@@ -84,16 +84,16 @@ Decision-making standards and workflows, including:
 
 ### Roadmap
 
-While having a roadmap is useful to determine priorities and the direction of the project, many projects do not have a detailed roadmap. Some projects use other methods of alignment such as Enhancement Proposals (CPython, NumPy, napari, Jupyter), while others use their issue tracker and release milestones.
+While having a roadmap is useful for determining priorities and the direction of the project, many projects do not have a detailed roadmap. Some projects use other methods of alignment, such as Enhancement Proposals (CPython, NumPy, napari, Jupyter), while others use their issue tracker and release milestones.
 
-A roadmap usually contains the project's current priorities and future direction are decided with input from the community. If the project has a roadmap, it is a good idea to go through the contents in it. Such a document can often provide valuable information about topics the community care about and the direction of the project. It can also help you identify areas where you can contribute as a corporate contributor.
+A roadmap usually contains the project's current priorities, and future direction is decided with input from the community. If the project has a roadmap, it is a good idea to go through the contents of it. Such a document can often provide valuable information about topics the community care about and the direction of the project. It can also help you identify areas where you can contribute as a corporate contributor.
 
 ## Building Community Consensus 🤝
 
 Corporate-backed open source contributors have the expertise and resources to work on large-scoped tasks and can significantly impact the project. A vital component of this work is building consensus within the community on the design and implementation of these tasks at each stage of your participation: org-level open source strategy, team-level sprint planning, and day-to-day individual contributions.
 
 > **Note**
-> A good rule of thumb is that funding or significant investment such as in-kind donations should follow the community, not the other way around.
+> A good rule of thumb is that funding or significant investment, such as in-kind donations, should follow the community, not the other way around.
 
 ### Organizational Open Source Strategy
 
@@ -113,13 +113,13 @@ Building consensus is also essential for day-to-day contributions involving fewe
 
 ### Steps for Large-Scoped Tasks
 
-Making decisions about small fixes and scoped features can often be made as part of a project's contribution workflow. However, when discussing large-scoped task that touch several project parts, impacts a substantial user base, or significantly changes the project's architecture, behavior governance, community workflows that streamlined process is no longer suitable. Such significant decisions require more robust decision-making processes where the interested and impacted parties can show their support, hesitations, ask questions, and align towards a path for implementation, or even reject the proposal. Community-governed projects usually have an Enhancement Proposal or Request for Discussion mechanism for such cases:
+Making decisions about small fixes and scoped features can often be made as part of a project's contribution workflow. However, when discussing large-scoped task that touches several project parts, impacts a substantial user base, or significantly changes the project's architecture, behavior governance, and community workflows, that streamlined process is no longer suitable. Such significant decisions require more robust decision-making processes where the interested and impacted parties can show their support, hesitations, ask questions, and align towards a path for implementation, or even reject the proposal. Community-governed projects usually have an Enhancement Proposal or Request for Discussion mechanism for such cases:
 
 <p align="center">
   <img src="images/enhancement-workflow.svg" alt="" width="70%"/>
 </p>
 
-The goal of this process is to build consensus within the community on the task's design and implementation considering the short, mid, and long-term implications of such a change. This process also helps provide a transparent and inclusive decision-making process.
+The goal of this process is to build consensus within the community on the task's design and implementation, considering the short, mid, and long-term implications of such a change. This process also helps provide a transparent and inclusive decision-making process.
 
 When working on enhancement proposals:
 
@@ -143,15 +143,15 @@ When working on enhancement proposals:
 
 ## Examples of Good Corporate Open Source Contributions 🖼️
 
-There is no universal formula for successful corporate open source partnerships. We need several innovative contribution approaches to improve the overall open source sustainability journey. If you adhere to the best practices shared in this chapter, and generally practice the open source ethos, you can create a good open source plan for your organization.
+There is no universal formula for successful corporate open source partnerships. We need several innovative contribution approaches to improve the overall open source sustainability journey. If you adhere to the best practices shared in this chapter and generally practice the open source ethos, you can create a good open source plan for your organization.
 
 The following are some examples of corporations being good open source citizens in their sponsorship, selected from within the Python community.
 
 ### CPython Developer-in-Residence Program (PSF Sponsors: Google, Bloomberg, and Meta)
 
-One of the biggest success stories in the Python community is the [Python Software Foundation's (PSF)](https://www.python.org/psf-landing/) Developer in Residence (DIR)program. PSF is the non-profit organization that supports the Python language and community. Corporate organizations can directly sponsor the PSF, and the PSF staff members, with advice from the elected board of directors, decide the best ways to use the funds.
+One of the biggest success stories in the Python community is the [Python Software Foundation's (PSF)](https://www.python.org/psf-landing/) Developer in Residence (DIR)program. PSF is a non-profit organization that supports the Python language and community. Corporate organizations can directly sponsor the PSF, and the PSF staff members, with advice from the elected board of directors, decide the best ways to use the funds.
 
-The DIR program employs a developer for full-time hours with competitive pay to contribute to CPython and support the volunteer Python community. This is an expensive and ambitious program, and financial sponsorship provided at a "visionary" level by Google, Bloomberg, and Meta, allows for such no-strings-attached programs.
+The DIR program employs a developer for full-time hours with competitive pay to contribute to CPython and support the volunteer Python community. This is an expensive and ambitious program, and financial sponsorship provided at a "visionary" level by Google, Bloomberg, and Meta allows for such no-strings-attached programs.
 
 > The PSF and the Steering Council summarize the expected responsibilities of the DIR as follows:
 >
@@ -166,11 +166,11 @@ This program has been running strong for over two years and has expanded to incl
 
 ### Faster CPython Initiative (Microsoft)
 
-This is an ongoing initiative sponsored by Microsoft[^2] to speed up CPython - reference implementation of the Python Programming Language. Microsoft employs a developer team led by Guido van Rossum, the creator of Python and a CPython core developer, to work with the Python community to ideate, prototype, and implement features that will improve Python's performance.
+This is an ongoing initiative sponsored by Microsoft[^2] to speed up CPython - the reference implementation of the Python Programming Language. Microsoft employs a developer team led by Guido van Rossum, the creator of Python and a CPython core developer, to work with the Python community to ideate, prototype, and implement features that will improve Python's performance.
 
-This team includes long-term contributors to CPython and other Python libraries, who understand the community workflows, priorities, and decision-making. They make an active effort to contribute to maintenance tasks and work on activities that benefit the entire community.
+This team includes long-term contributors to CPython and other Python libraries who understand the community workflows, priorities, and decision-making. They make an active effort to contribute to maintenance tasks and work on activities that benefit the entire community.
 
-> [Michael] Droettboom says he hopes they [volunteer core devs] don't feel "overloaded" and works to take off "some of that burden". "We've kind of created a little more burden on those people. So it's only fair that we also ask what we can do to help."
+> [Michael] Droettboom says he hopes they [volunteer core devs] don't feel "overloaded" and works to take off "some of that burden." "We've kind of created a little more burden on those people. So it's only fair that we also ask what we can do to help."
 >
 > ~ [A Team at Microsoft is Helping Make Python Faster, by Jay Miller](https://devblogs.microsoft.com/python/python-311-faster-cpython-team/)
 
@@ -178,9 +178,9 @@ This team includes long-term contributors to CPython and other Python libraries,
 
 ### Open Sourcing Memray (Bloomberg)
 
-Bloomberg released an internally-developed tool, Memray - a memory profiler for Python, under an OSI-approved open source license to share the project with the broader Python community. It's a powerful and useful library that garnered a lot of community attention and immediate adoption. Although Bloomberg-employees remain the primary maintainers, the team enables and supports community contributors.
+Bloomberg released an internally-developed tool, Memray - a memory profiler for Python, under an OSI-approved open source license to share the project with the broader Python community. It's a powerful and useful library that garnered a lot of community attention and immediate adoption. Although Bloomberg employees remain the primary maintainers, the team enables and supports community contributors.
 
-> We also encourage the community to help us shape the future and direction of the tool by letting us know what specific problems they are facing and how we could extend or modify our tool to solve them. In addition, we hope that contributors will help us add new reporters that adapt to problems that we have not yet considered, and that they extend the tool to work on systems that we have not initially supported.
+> We also encourage the community to help us shape the future and direction of the tool by letting us know what specific problems they are facing and how we could extend or modify our tool to solve them. In addition, we hope that contributors will help us add new reporters that adapt to problems that we have not yet considered and that they extend the tool to work on systems that we have not initially supported.
 >
 > ~ [Bloomberg publishes Memray, a new open source memory profiler for Python code](https://www.bloomberg.com/company/stories/bloomberg-memray-open-source-profiler-python-code/)
 
