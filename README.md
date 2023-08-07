@@ -48,7 +48,7 @@ Community members who:
 **Learning path:**
 
 - [Module 01 - Introduction to open-source](./01-intro-to-os/README.md)
-- Module 02 - (Participating in open source communities)(./02-participating-in-oss/README.md)
+- Module 02 - [Participating in open source communities](02-participating-in-oss/README.md)
   - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
   - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
   - Chapter 2.3 - [Contributing to open source: tooling and best practices](./02-participating-in-oss/03-contibuting-tips.md)
@@ -66,7 +66,7 @@ Community members who:
 **Learning path:**
 
 - [Module 01-Introduction to open-source](./01-intro-to-os/README.md)
-- Module 02 - Participating in open source communities
+- Module 02 - [Participating in open source communities](02-participating-in-oss/README.md)
   - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
   - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
   - Chapter 2.3 - [Contributing to open source: tooling and best practices](./02-participating-in-oss/03-contibuting-tips.md)
