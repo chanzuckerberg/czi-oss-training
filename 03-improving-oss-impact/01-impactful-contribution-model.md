@@ -1,6 +1,6 @@
-| Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-) |
-| ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02: Participating in Open Source](../02-participating-in-oss/)                                                   |
+| Learner personas | - [manager/stakeholder](../README.md#managerstakeholder-)                                                                                               |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02: Participating in Open Source Communities](../02-participating-in-oss/) |
 
 # Chapter 01: What is an impactful OSS contribution model?
 
