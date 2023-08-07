@@ -16,6 +16,7 @@
     - [The OSS Way](#the-oss-way)
     - [Designing in the open](#designing-in-the-open)
   - [Working with large distributed teams 🌎](#working-with-large-distributed-teams-)
+    - [So, how do you engage and work with an OSS community?](#so-how-do-you-engage-and-work-with-an-oss-community)
   - [Tools 🛠](#tools-)
   - [Continue learning 🚥](#continue-learning-)
 
@@ -131,12 +132,34 @@ Following these best practices will help you build trust and get effective accep
   - Modular contributions are easier to maintain and update.
   - Iterative development practices promote extensibility.
 - Scope and divide as needed.
-  - If your contribution is too big, consider breaking it into smaller, more manageable pieces. More extensive changes are likely to be completed and accepted as smaller changes with concrete goals.
+  - If your contribution is too extensive (i.e., touches many parts of the codebase, implies a major refactor), consider breaking it into smaller, more manageable pieces. More extensive changes will likely be completed and accepted as smaller changes with concrete goals.
   - Communicate your plans and intentions before you start working on a contribution.
 
 ## Working with large distributed teams 🌎
 
-<!-- TODO -->
+From earlier content in this training, it is hopefully clear that the dynamics of OSS projects and communities are different from those of purely corporate or internal development teams.
+While the concept of community might be something we are all familiar with, it is essential to consider the following aspects of OSS communities:
+
+1. Not two communities are the same.
+2. Communities do not belong to or work for a single entity (for example, they do not work for a single company).
+
+### So, how do you engage and work with an OSS community?
+
+Before jumping into contributing to or working with a community, you might want to consider the following:
+
+1. **What can you offer?** Depending on your (individual, team, or organization) capacity, you might be able to contribute in different ways, for example, through sponsorship, in-kind contributions, or making direct contributions through your teams or individuals.
+2. **Determine your time commitment.** How much time can you dedicate to the project? Is it a one-off contribution or a long-term commitment?
+3. **How much do you know about the community?** Spend time researching how the community communicates (e.g., identify their platforms and lurk there a bit to get a sense of their communication standards). Also, try to understand the community's governance model and decision-making processes.
+
+You can start engaging with the community once that initial research phase is completed. Here are some tips to get you started:
+
+1. **Introduce yourself.** If you are new to the community, introduce yourself and your intentions. This will help the community understand your motivations and how you can contribute. Once you have identified what you can offer and how long for, communicate that to the community. Suppose you are aiming for long-term engagements with the project. In that case, it is best to liaise with their decision-makers and maintainers to understand how you can contribute and identify any pressing needs you might not be aware of. Significant pieces of work might need doing but might not be logged in a Roadmap or issue tracker due to a lack of capacity or knowledge.
+1. **Communicate what you are working on.** Avoid working on something for the community "until it is perfect/completed/ready to showcase"; instead, signal your intent early on and align with the maintainers on the best ways to collaborate. This will avoid wasting time and effort on something that might not be aligned with the community's goals or needs.
+1. **Give back.** Besides straightforward code contributions, consider other ways in which you can help ease the burden of sustainers or how you could strengthen the social infrastructure of the project.
+1. **Plan an exit strategy.** Communities, as any ecosystem, are not static and are constantly evolving (the same applies to corporations, non-profits, and all types of organizations). This might mean that you might need to leave the community at some point. Aim to leave the community in better shape than when you joined it. Some actions you can take when exiting a community are:
+   1. Identify a successor or a group of successors as early as possible.
+   2. Inform the community in case there is anything they need to plan on their end. Communicate what your handover looks like and revisit expectations with your successor around communication and engagement with the community.
+   3. Introduce this successor to the community and help them get up to speed.
 
 ## Tools 🛠
 
