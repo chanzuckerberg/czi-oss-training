@@ -12,20 +12,22 @@
   - [Contribution tips and best practices 🔖](#contribution-tips-and-best-practices-)
     - [How contributions work 🎁](#how-contributions-work-)
     - [Contributions beyond code ✨](#contributions-beyond-code-)
+    - [Getting the most of the issue trackers 🎟](#getting-the-most-of-the-issue-trackers-)
   - [Development and maintenance considerations 💻](#development-and-maintenance-considerations-)
-    - [The OSS Way](#the-oss-way)
-    - [Designing in the open](#designing-in-the-open)
+    - [The OSS Way 🌱](#the-oss-way-)
+    - [Designing in the open 🤔](#designing-in-the-open-)
   - [Working with large distributed teams 🌎](#working-with-large-distributed-teams-)
-    - [So, how do you engage and work with an OSS community?](#so-how-do-you-engage-and-work-with-an-oss-community)
+    - [So, how do you engage and work with an OSS community? 🤝](#so-how-do-you-engage-and-work-with-an-oss-community-)
   - [Tools 🛠](#tools-)
+    - [Community](#community)
+    - [Licensing and compliance](#licensing-and-compliance)
+    - [Project management and metrics](#project-management-and-metrics)
   - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
-<!-- TODO: update as content is added -->
-
 - Learn more about how to best approach open source contributions
-- Learn about valuable tools and practices for open source contributions and project management
+- Learn about valuable tools and practices for open source contributions and engagement
 
 ## Contribution tips and best practices 🔖
 
@@ -68,6 +70,31 @@ As discussed in [Chapter 02](./02-understand-oss-sustainability.md), project sus
 
 👉🏽 The Turing Way has a [dedicated section on their contribution guidelines for recognizing contributions using the "all contributors" bot][turing-contributions].
 
+### Getting the most of the issue trackers 🎟
+
+An issue tracker (often called a bug tracker, issues list or issues queue) have multiple purposes:
+
+- It is a place to report bugs and request new features.
+- A place to monitor pending tasks and allow for collaborative discussions and peer reviews.
+- A place to track the progress of a project and its milestones.
+
+As you can see, issue trackers are fundamental tools for OSS development and maintenance, and they are often the first point of contact for new contributors.
+Here are a number of actionable tips for meaningful OSS participation via issue trackers:
+
+1. Scan the issue tracker for existing issues and pull requests before opening a new one. If there is already an open issue, supplement this with your findings (more details below).
+2. If there is not an issue, aim to provide enough information for the triagers or maintainers to triage and assess your issue. Make sure to cover: **what** (the issue or requested feature, the behavior you are observing vs. the expected behavior), **why** (the impact), and **how** (add reproduction steps or a hint to a solution if you already know it).
+3. Give your issue a meaningful title.
+4. If the project has issue templates, **use them**. This will make it easier for maintainers to triage your issue and can substantially reduce the back-and-forth search for information on both parties. If you do not have the information requested or cannot determine how to get it yourself, note what you have attempted to do in order to get the information.
+5. Be kind and thoughtful. At the end of the day, OSS is, but people all the way down[^1]; take a minute to thank the maintainers for their work and be patient with them. They are often volunteers and have limited time to dedicate to the project. If they request more information (i.e., logs, OS system and dependencies versions, etc.), try to provide them.
+6. You can also contribute by giving feedback or adding more information to existing issues through:
+   1. Documenting issues that are missing elements to reproduce the problem, such as code samples.
+   2. Suggest reformulating the title and description to make them more explicit about the problem to be solved.
+   3. Linking to related issues or discussions while briefly describing how they are related, for instance, "See also `#xyz` for a similar attempt at this" or "See also `#xyz` where the same thing happened in another platform." These additions provide additional context and help the discussion.
+   4. Summarizing long discussions on issues to help new and existing contributors quickly understand the background, current status, and course of action for the issue. [^2]
+
+[^1]: You might find Virginia Shea's often-cited [The Core Rules of Netiquette](http://www.albion.com/netiquette/corerules.html) to be a useful resource if you are unfamiliar with the rules of engagement in internet communications.
+[^2]: Taken from nebari contribution guidelines <https://www.nebari.dev/docs/community/file-issues>
+
 ## Development and maintenance considerations 💻
 
 Let's start by revising a popular product-focused software development lifecycle: the Agile lifecycle.
@@ -85,11 +112,11 @@ However, these practices are best suited for "traditional tech corporate" (inclu
 - Even if using open source tools or software to build the ultimate product, the product itself may or might not be open source. Thus, the ultimate decision-maker is the product owner; no consent or consensus is sought.
 - Due to the time and delivery expectations, this isn't easy to implement with a fully geographically-distributed team that communicates asynchronously.
 
-### The OSS Way
+### The OSS Way 🌱
 
-In contrast, open source projects are often developed and maintained by a community of volunteers and/or paid contributors. There is an overlap between community members and end-users[^1] of the project, and both are involved in the development and maintenance of the project. The community members are also responsible for the project's governance and decision-making processes.
+In contrast, open source projects are often developed and maintained by a community of volunteers and/or paid contributors. There is an overlap between community members and end-users[^3] of the project, and both are involved in the development and maintenance of the project. The community members are also responsible for the project's governance and decision-making processes.
 
-[^1]: Depending on how a project defines the boundaries of their community - and community members - users might be included in such definition of community or counted as a group of individuals interacting with the project from a more transactional or utilitarian perspective. Both are valid perspectives. However, such definitions will impact how the project is developed and maintained.
+[^3]: Depending on how a project defines the boundaries of their community - and community members - users might be included in such definition of community or counted as a group of individuals interacting with the project from a more transactional or utilitarian perspective. Both are valid perspectives. However, such definitions will impact how the project is developed and maintained.
 
 In contrast to the Agile methodology, the OSS development cycle can be slower and centered around collaboration and co-ownership, as contributions can often lead to longer-term implications in terms of maintenance for the project and other projects that depend on it.
 
@@ -113,7 +140,7 @@ While not exhaustive, here is a list of core characteristics and differentiators
 - A common mantra in OSS is "Release Early, Release Often" (refer to the schematic above).
   While this approach allows users and maintainers alike to benefit from new features and critical patches at a reasonable pace.
 
-### Designing in the open
+### Designing in the open 🤔
 
 While discussing the OSS development cycle, it is essential to highlight the importance of designing in the open.
 
@@ -138,12 +165,16 @@ Following these best practices will help you build trust and get effective accep
 ## Working with large distributed teams 🌎
 
 From earlier content in this training, it is hopefully clear that the dynamics of OSS projects and communities are different from those of purely corporate or internal development teams.
+We define community as:
+
+> A group of people united by a common identity and collective purpose and who collaborate by sharing ideas, knowledge, and resources.
+
 While the concept of community might be something we are all familiar with, it is essential to consider the following aspects of OSS communities:
 
 1. Not two communities are the same.
 2. Communities do not belong to or work for a single entity (for example, they do not work for a single company).
 
-### So, how do you engage and work with an OSS community?
+### So, how do you engage and work with an OSS community? 🤝
 
 Before jumping into contributing to or working with a community, you might want to consider the following:
 
@@ -163,9 +194,28 @@ You can start engaging with the community once that initial research phase is co
 
 ## Tools 🛠
 
-<!-- TODO: add list of tools for OSS development and management -->
+This section contains a list of helpful tools and projects that you might find helpful when contributing to open source projects.
 
-- [All contributors bot][all-contributors]
+### Community
+
+- [All contributors bot][all-contributors]: enables you to track and acknowledge contributions beyond code.
+- [Welcome bot](https://github.com/apps/welcome): a GitHub App that welcomes new users to your repository with a custom message.
+- [MVG - Minimum Viable Governance](https://github.com/github/MVG): (beta) a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems.
+
+### Licensing and compliance
+
+- [CLA assistant](https://github.com/cla-assistant/cla-assistant): CLA assistant is a GitHub App that enables contributors to sign CLAs from within a Pull Request.
+- [LicenseFinder](https://github.com/pivotal-legacy/LicenseFinder): find licenses for your project's dependencies.
+- [OSS attribution builder](https://github.com/amzn/oss-attribution-builder): the OSS Attribution Builder is a website that helps teams create attribution documents (notices, "open source screens", credits, etc.) commonly found in software products.
+- [OSS review toolkit](https://github.com/heremaps/oss-review-toolkit):enables highly automated and customizable Open Source compliance check for the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
+- [TLDR legal](https://www.tldrlegal.com/): summarizes software licenses in plain English.
+
+### Project management and metrics
+
+- [Issue/PR/Discussion Metrics](https://github.com/github/issue-metrics): a GitHub Action that searches for pull requests/issues/discussions in a repository or organization and measures several available metrics like time to close and time to first response. It calculates the metrics and writes the metrics to a Markdown file. The issues/pull requests/discussions can be filtered by using a search query.
+- [GitHub Settings](https://github.com/probot/settings): uses a `.github/config.yml` as the source of truth, and any changes to that file in the default branch will update GitHub
+- [pre-commit](https://pre-commit.com/): a framework for managing and maintaining multi-language pre-commit hooks, enabling you to maintain a consistent code style across your project.
+- [devstats](https://github.com/cncf/devstats): a tool set to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes.
 
 ## Continue learning 🚥
 
