@@ -16,8 +16,13 @@
     - [Organizational Open Source Strategy](#organizational-open-source-strategy)
     - [Considerations for Small-Scope Contributions](#considerations-for-small-scope-contributions)
     - [Steps for Large-Scoped Tasks](#steps-for-large-scoped-tasks)
-  - [Turn Private Conversations into Public Resources](#turn-private-conversations-into-public-resources)
-  - [Co-creation and Participating as a Corporate Sponsor](#co-creation-and-participating-as-a-corporate-sponsor)
+  - [Turn Private Conversations into Public Resources 💬](#turn-private-conversations-into-public-resources-)
+    - [Pre-requisites and assumptions 🧰](#pre-requisites-and-assumptions-)
+    - [The Process 📜](#the-process-)
+      - [Setup](#setup)
+      - [Consent and credit](#consent-and-credit)
+      - [Loop back with participants](#loop-back-with-participants)
+      - [Share with the community](#share-with-the-community)
   - [Examples of Good Corporate Open Source Contributions 🖼️](#examples-of-good-corporate-open-source-contributions-️)
     - [CPython Developer-in-Residence Program (PSF Sponsors: Google, Bloomberg, and Meta)](#cpython-developer-in-residence-program-psf-sponsors-google-bloomberg-and-meta)
     - [Faster CPython Initiative (Microsoft)](#faster-cpython-initiative-microsoft)
@@ -133,13 +138,58 @@ When working on enhancement proposals:
 > **Important**
 > This community decision-making and differing points of view are how we keep up the quality of our open source projects, so be patient and remember the human behind the screens even when the conversations get difficult. 😊
 
-## Turn Private Conversations into Public Resources
+## Turn Private Conversations into Public Resources 💬
 
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/36 -->
+If you and your team are participating in OSS as a corporate sponsor, you might have already identified ways in which OSS development differs from some of your internal practices (for a refresher, check [Chapter 2.03](./03-contibuting-tips.md)).
 
-## Co-creation and Participating as a Corporate Sponsor
+You might encounter that one of the earliest points of friction is the difference in how internal vs. community consent-based communications happen, and it can be tricky to identify the right balance between the two.
 
-<!-- TODO: https://github.com/Quansight-Labs/czi-oss-training/issues/17 -->
+This section provides some guidelines as well as a checklist for you and your team to practice and improve your communication skills in the open.
+
+### Pre-requisites and assumptions 🧰
+
+Before continuing, ensure the following assumptions are applicable to your team. Some might not be applicable to your team, and that's ok. The goal is to identify the ones that are applicable and adjust the ones that are not.
+
+- [ ] Your private conversations are transcribed (or can be) or documented (perhaps through internal agenda documents).
+- [ ] You are starting from a place of trust. If you are just approaching the project and thus building trust, or if you have, unfortunately, broken this trust, then you'll need to address this lack of trust. The proposed process will help you strengthen trust, but it will not fix it alone.
+- [ ] You know and understand your own community's guidelines (or why there aren't any).
+
+### The Process 📜
+
+We break the process of making conversations public into smaller subsections depending on the tasks involved. Each of these steps has a set of guidelines and a checklist to help you and your team practice and improve your communication skills in the open.
+
+> **Important**
+> All these steps can be done **after** the conversation/call. However, we recommend you prepare and communicate your intention **before** the conversation/call. This will help you and your team be more intentional about the conversation and the notes you take.
+
+#### Setup
+
+- [ ] Create a shareable, linkable record of the conversation or meeting. This can be a Google Doc, a Hackmd file, or an Etherpad link. Once the document is created, you can transcribe/add the notes and actions from your conversation.
+- [ ] Ensure you have a record of everyone that attended or participated in the discussion. We recommend capturing the individual's name and GitHub/GitLab username. This will help you identify who said what and who to tag in the conversation.
+- [ ] Tell people what you are going to do. This can be done in a variety of ways, but the goal is to keep everyone aligned. If the private conversation you want to make public is specific to a subset of the community (i.e., people who attended specific events), tell them first, then tell the rest of the community.
+
+#### Consent and credit
+
+> **Important**
+> This is a crucial step to build trust with those that participated in the conversation.
+> If you have decided that the conversation will be shared, make it explicit and get individuals' consent. The next steps assume you've done this.
+
+- [ ] Grab a copy of the [Template: Asking for consent](./templates/ask_for_consent.md) and fill it out with the relevant information. The goal of this is to explain what you are planning to do, ask for their consent, allow them to review the draft document, and explain what is expected of them.
+- [ ] Send the email to everyone who participated in the conversation.
+- [ ] Record responses as they come in.
+
+#### Loop back with participants
+
+- [ ] Share the resource with everyone who participated in the conversation. This can be done by sharing the link to the document. At this point, you want to focus on: adequate credit and provide a precise deadline for any feedback.
+  > **Warning**
+  > Some people might want to change their credit preferences at this stage. Be prepared to accommodate these changes.
+- [ ] Incorporate any suggestions or feedback.
+
+#### Share with the community
+
+Before you publish and share your resource with the world:
+
+- [ ] Give all the contributors a heads-up that this will be published soon.
+- [ ] Publish and share with the rest of the community.
 
 ## Examples of Good Corporate Open Source Contributions 🖼️
 
@@ -197,6 +247,7 @@ Quansight is a consulting firm that provides OSS-based solutions for commercial 
 ## Resources 📚
 
 - [Effective Open Source Development & Participation, TODO Group](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module4/README.md)
+- [Telling people before you begin to build trust](https://rjionline.org/news/telling-people-before-you-begin-builds-trust-telling-people-only-after-youre-done-erodes-it/)
 
 ## Continue learning 🚥
 
