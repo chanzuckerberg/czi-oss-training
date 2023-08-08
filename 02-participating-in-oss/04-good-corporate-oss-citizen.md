@@ -158,12 +158,14 @@ Before continuing, ensure the following assumptions are applicable to your team.
 
 We break the process of making conversations public into smaller subsections depending on the tasks involved. Each of these steps has a set of guidelines and a checklist to help you and your team practice and improve your communication skills in the open.
 
+This process is designed to incorporate various types of private conversations including everyday chat on internal forums, emails threads, online/video meetings, and more. You can scope the process to match the scale and purpose of your private discussion.
+
 > **Important**
 > All these steps can be done **after** the conversation/call. However, we recommend you prepare and communicate your intention **before** the conversation/call. This will help you and your team be more intentional about the conversation and the notes you take.
 
 #### Setup
 
-- [ ] Create a shareable, linkable record of the conversation or meeting. This can be a Google Doc, a Hackmd file, or an Etherpad link. Once the document is created, you can transcribe/add the notes and actions from your conversation.
+- [ ] Create a shareable, linkable record of the conversation or meeting and share it only with members involved. This can be a Google Doc, a Hackmd file, or an Etherpad link. Once the document is created, you can transcribe/add the notes and actions from your conversation.
 - [ ] Ensure you have a record of everyone that attended or participated in the discussion. We recommend capturing the individual's name and GitHub/GitLab username. This will help you identify who said what and who to tag in the conversation.
 - [ ] Tell people what you are going to do. This can be done in a variety of ways, but the goal is to keep everyone aligned. If the private conversation you want to make public is specific to a subset of the community (i.e., people who attended specific events), tell them first, then tell the rest of the community.
 
@@ -174,12 +176,13 @@ We break the process of making conversations public into smaller subsections dep
 > If you have decided that the conversation will be shared, make it explicit and get individuals' consent. The next steps assume you've done this.
 
 - [ ] Grab a copy of the [Template: Asking for consent](./templates/ask_for_consent.md) and fill it out with the relevant information. The goal of this is to explain what you are planning to do, ask for their consent, allow them to review the draft document, and explain what is expected of them.
-- [ ] Send the email to everyone who participated in the conversation.
+- [ ] Send the message to everyone who participated in the conversation.
 - [ ] Record responses as they come in.
 
 #### Loop back with participants
 
-- [ ] Share the resource with everyone who participated in the conversation. This can be done by sharing the link to the document. At this point, you want to focus on: adequate credit and provide a precise deadline for any feedback.
+- [ ] Update the document based on participants' consent responses by anonymizing some people, or omitting some content, or both.
+- [ ] Share the resource with everyone who participated in the conversation. At this point, you want to focus on: adequate credit and provide a precise deadline for any feedback. You can use the [Template: Loop back](./templates/loop_back.md) to share a link to the updated document.
   > **Warning**
   > Some people might want to change their credit preferences at this stage. Be prepared to accommodate these changes.
 - [ ] Incorporate any suggestions or feedback.
@@ -190,6 +193,33 @@ Before you publish and share your resource with the world:
 
 - [ ] Give all the contributors a heads-up that this will be published soon.
 - [ ] Publish and share with the rest of the community.
+
+### Tips for transparent communication 💡
+
+You can adopt one or more of the transparent workflows mentioned in this section to manage your team's open source contributions.
+
+Corporate organization usually have strict policies for public communication for security, liability, intellectually property, and public relation reasons. This is why we have a corporate-friendly [process](#the-process-) described above. If you want to have a greater impact and establish a strong open source practice, it is worth considering an organizational discussion to relax some policies for the scope of your open source work. Taking it a step further, you can set up an Open Source Program Office (OSPO) that creates and enforces guidelines for your open source participation that work for both corporate security and open source communities.
+
+> **Important**
+> Ensure that each of the following stakeholders are comfortable with the open workflow before implementing it:
+> * your organization (leadership/management)
+> * contributing team members
+> * open source project community members
+> You can use a variation of the [consent seeking approach](#consent-and-credit) mentioned above for this.
+
+* **Project management:**
+  * Use tools familiar to the community like a public GitLab or [GitHub project board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) for tracking and managing your organization's OSS contributions.
+  * Set up new public versions of your internal project management tool and share it with the broader community. This allows your team to feel comfortable using the tool, while also providing community members some visibility into your open source work.
+  * Make the OSS-specific parts of your internal project management tool (like a single Kanban board) open to the public and share it with the community.
+* **Synchronous meetings:**
+  * Open the OSS-contribution-related meetings to the project's wider contributor community. You can have separate, additional, internal meetings to discuss confidential topics.
+  * Take meeting notes on a public platform like HackMD workspace or public Google Doc that is shared with the community. If the meeting is private, you can omit any confidential topics from the notes and share the rest by default.
+  * The project community might already have preferred public meeting & note-taking platforms that you can adopt for your team's OSS contribution meetings.
+  * You can also discuss with the community to join some existing community meetings and expand their scope to include topics that your team is interested in.
+* **Asynchronous discussions:**
+  * Gently nudge your team members to cross-post any privately shared and relevant insights, observations, or quick discussions on the OSS project's issue tracker. They can add comments to an existing issue or open new ones.
+  * Onboard your team to the community's preferred contributor discussion forum. Your team can use the existing channels (and follow the [community guidelines](#communication-guidelines)) for project-related communication. Alternatively, you can discuss with the community and create a new public channel on the forum only for your team to collaborate.
+  * Set up automation to "bridge" communication between a community-space and the internal communication tool that your team uses. For example, a configurable bot can cross-post comments between a private Slack channel and public Discourse forum.
 
 ## Examples of Good Corporate Open Source Contributions 🖼️
 

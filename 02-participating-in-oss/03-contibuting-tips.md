@@ -171,7 +171,7 @@ We define community as:
 
 While the concept of community might be something we are all familiar with, it is essential to consider the following aspects of OSS communities:
 
-1. Not two communities are the same.
+1. No two communities are the same.
 2. Communities do not belong to or work for a single entity (for example, they do not work for a single company).
 
 ### So, how do you engage and work with an OSS community? 🤝
@@ -207,13 +207,13 @@ This section contains a list of helpful tools and projects that you might find h
 - [CLA assistant](https://github.com/cla-assistant/cla-assistant): CLA assistant is a GitHub App that enables contributors to sign CLAs from within a Pull Request.
 - [LicenseFinder](https://github.com/pivotal-legacy/LicenseFinder): find licenses for your project's dependencies.
 - [OSS attribution builder](https://github.com/amzn/oss-attribution-builder): the OSS Attribution Builder is a website that helps teams create attribution documents (notices, "open source screens", credits, etc.) commonly found in software products.
-- [OSS review toolkit](https://github.com/heremaps/oss-review-toolkit):enables highly automated and customizable Open Source compliance check for the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
+- [OSS review toolkit](https://github.com/heremaps/oss-review-toolkit): enables highly automated and customizable Open Source compliance checks for the source code and dependencies of a project. It does so by scanning the project, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
 - [TLDR legal](https://www.tldrlegal.com/): summarizes software licenses in plain English.
 
 ### Project management and metrics
 
 - [Issue/PR/Discussion Metrics](https://github.com/github/issue-metrics): a GitHub Action that searches for pull requests/issues/discussions in a repository or organization and measures several available metrics like time to close and time to first response. It calculates the metrics and writes the metrics to a Markdown file. The issues/pull requests/discussions can be filtered by using a search query.
-- [GitHub Settings](https://github.com/probot/settings): uses a `.github/config.yml` as the source of truth, and any changes to that file in the default branch will update GitHub
+- [GitHub Settings](https://github.com/probot/settings): uses a `.github/config.yml` as the source of truth, and any changes to that file in the default branch will update GitHub.
 - [pre-commit](https://pre-commit.com/): a framework for managing and maintaining multi-language pre-commit hooks, enabling you to maintain a consistent code style across your project.
 - [devstats](https://github.com/cncf/devstats): a tool set to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes.
 
