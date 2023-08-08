@@ -23,6 +23,7 @@
       - [Consent and credit](#consent-and-credit)
       - [Loop back with participants](#loop-back-with-participants)
       - [Share with the community](#share-with-the-community)
+    - [Tips for transparent communication 💡](#tips-for-transparent-communication-)
   - [Examples of Good Corporate Open Source Contributions 🖼️](#examples-of-good-corporate-open-source-contributions-️)
     - [CPython Developer-in-Residence Program (PSF Sponsors: Google, Bloomberg, and Meta)](#cpython-developer-in-residence-program-psf-sponsors-google-bloomberg-and-meta)
     - [Faster CPython Initiative (Microsoft)](#faster-cpython-initiative-microsoft)
