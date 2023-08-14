@@ -6,6 +6,7 @@
 
 - [Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-04-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
+  - [What does it mean for an organization to contribute to open source? 🤔](#what-does-it-mean-for-an-organization-to-contribute-to-open-source-)
   - [Familiarize with Community Standards 📖](#familiarize-with-community-standards-)
     - [(New) Contributor guidelines](#new-contributor-guidelines)
     - [Communication guidelines](#communication-guidelines)
@@ -36,6 +37,17 @@
 
 - Learn best practices for successful corporate sponsorship and effective collaboration with the project community
 - Understand when and how to create new open source projects vs when to contribute to existing ones.
+
+## What does it mean for an organization to contribute to open source? 🤔
+
+In this chapter, we will explore what it means for an organization to contribute to open source and how to build a contribution model that is impactful for both the organization and the open source project.
+
+Historically, the relationship between some open source projects and organizations that use OSS has been shaky.
+This is partly due to how organizations build business relationships, which are not always aligned with or work for open source projects and communities, so some organizations struggle to find productive and impactful ways to contribute to open source. Another source of friction arises when the organization's needs and motivations to participate in open source are not aligned with or communicated to the project and their community. In those cases, the organization can often be perceived as self-serving, and it might struggle to establish trust within the open-source community.
+
+However, some success cases exist in which organizations and open source projects have established fruitful and long-term relationships. We will provide some [examples of impactful corporate engagements later on in this chapter](#examples-of-good-corporate-open-source-contributions-️).
+
+A common contribution pattern adopted by organizations is to play employees to have a substantial amount of their contractual time to participating in open source projects. While this might seem a low-friction approach it is important that said employees familiarize themselves with the contribution processes and norms within that project and its community.
 
 ## Familiarize with Community Standards 📖
 
@@ -203,24 +215,25 @@ Corporate organization usually have strict policies for public communication for
 
 > **Important**
 > Ensure that each of the following stakeholders are comfortable with the open workflow before implementing it:
-> * your organization (leadership/management)
-> * contributing team members
-> * open source project community members
-> You can use a variation of the [consent seeking approach](#consent-and-credit) mentioned above for this.
+>
+> - your organization (leadership/management)
+> - contributing team members
+> - open source project community members
+>   You can use a variation of the [consent seeking approach](#consent-and-credit) mentioned above for this.
 
-* **Project management:**
-  * Use tools familiar to the community like a public GitLab or [GitHub project board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) for tracking and managing your organization's OSS contributions.
-  * Set up new public versions of your internal project management tool and share it with the broader community. This allows your team to feel comfortable using the tool, while also providing community members some visibility into your open source work.
-  * Make the OSS-specific parts of your internal project management tool (like a single Kanban board) open to the public and share it with the community.
-* **Synchronous meetings:**
-  * Open the OSS-contribution-related meetings to the project's wider contributor community. You can have separate, additional, internal meetings to discuss confidential topics.
-  * Take meeting notes on a public platform like HackMD workspace or public Google Doc that is shared with the community. If the meeting is private, you can omit any confidential topics from the notes and share the rest by default.
-  * The project community might already have preferred public meeting & note-taking platforms that you can adopt for your team's OSS contribution meetings.
-  * You can also discuss with the community to join some existing community meetings and expand their scope to include topics that your team is interested in.
-* **Asynchronous discussions:**
-  * Gently nudge your team members to cross-post any privately shared and relevant insights, observations, or quick discussions on the OSS project's issue tracker. They can add comments to an existing issue or open new ones.
-  * Onboard your team to the community's preferred contributor discussion forum. Your team can use the existing channels (and follow the [community guidelines](#communication-guidelines)) for project-related communication. Alternatively, you can discuss with the community and create a new public channel on the forum only for your team to collaborate.
-  * Set up automation to "bridge" communication between a community-space and the internal communication tool that your team uses. For example, a configurable bot can cross-post comments between a private Slack channel and public Discourse forum.
+- **Project management:**
+  - Use tools familiar to the community like a public GitLab or [GitHub project board](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects) for tracking and managing your organization's OSS contributions.
+  - Set up new public versions of your internal project management tool and share it with the broader community. This allows your team to feel comfortable using the tool, while also providing community members some visibility into your open source work.
+  - Make the OSS-specific parts of your internal project management tool (like a single Kanban board) open to the public and share it with the community.
+- **Synchronous meetings:**
+  - Open the OSS-contribution-related meetings to the project's wider contributor community. You can have separate, additional, internal meetings to discuss confidential topics.
+  - Take meeting notes on a public platform like HackMD workspace or public Google Doc that is shared with the community. If the meeting is private, you can omit any confidential topics from the notes and share the rest by default.
+  - The project community might already have preferred public meeting & note-taking platforms that you can adopt for your team's OSS contribution meetings.
+  - You can also discuss with the community to join some existing community meetings and expand their scope to include topics that your team is interested in.
+- **Asynchronous discussions:**
+  - Gently nudge your team members to cross-post any privately shared and relevant insights, observations, or quick discussions on the OSS project's issue tracker. They can add comments to an existing issue or open new ones.
+  - Onboard your team to the community's preferred contributor discussion forum. Your team can use the existing channels (and follow the [community guidelines](#communication-guidelines)) for project-related communication. Alternatively, you can discuss with the community and create a new public channel on the forum only for your team to collaborate.
+  - Set up automation to "bridge" communication between a community-space and the internal communication tool that your team uses. For example, a configurable bot can cross-post comments between a private Slack channel and public Discourse forum.
 
 ## Examples of Good Corporate Open Source Contributions 🖼️
 
