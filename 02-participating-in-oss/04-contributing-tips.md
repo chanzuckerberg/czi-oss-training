@@ -219,7 +219,7 @@ This section contains a list of helpful tools and projects that you might find h
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 02 Understand Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md)** | **[Next Chapter: 04 Being a Good OS Citizen as a corporate sponsor](./04-good-corporate-oss-citizen.md)** ➡️
+⬅️ **[Previous Chapter: 03 Being a Good OS Citizen as a corporate sponsor](./03-good-corporate-oss-citizen.md)** | **[Module activity: OSS Journey](./OSS-journey-activity.md)** ➡️
 
 <!-- Reusable links -->
 
