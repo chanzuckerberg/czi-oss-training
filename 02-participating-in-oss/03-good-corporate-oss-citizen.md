@@ -2,11 +2,11 @@
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Chapter 2.1: Why and how to contribute to Open Source](./01-why-contributing-to-oss.md)                                 |
 
-# Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor
+# Chapter 03: Being a Good Open Source Citizen as a Corporate Contributor
 
-- [Chapter 04: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-04-being-a-good-open-source-citizen-as-a-corporate-contributor)
+- [Chapter 03: Being a Good Open Source Citizen as a Corporate Contributor](#chapter-03-being-a-good-open-source-citizen-as-a-corporate-contributor)
   - [Learning Objectives 🧠](#learning-objectives-)
-  - [What does it mean for an organization to contribute to open source? 🤔](#what-does-it-mean-for-an-organization-to-contribute-to-open-source-)
+  - [What does it mean for an organization to be a good open source citizen? 🤔](#what-does-it-mean-for-an-organization-to-be-a-good-open-source-citizen-)
   - [Familiarize with Community Standards 📖](#familiarize-with-community-standards-)
     - [(New) Contributor guidelines](#new-contributor-guidelines)
     - [Communication guidelines](#communication-guidelines)
@@ -18,8 +18,8 @@
     - [Considerations for Small-Scope Contributions](#considerations-for-small-scope-contributions)
     - [Steps for Large-Scoped Tasks](#steps-for-large-scoped-tasks)
   - [Turn Private Conversations into Public Resources 💬](#turn-private-conversations-into-public-resources-)
-    - [Pre-requisites and assumptions 🧰](#pre-requisites-and-assumptions-)
-    - [The Process 📜](#the-process-)
+    - [Pre-requisites and assumptions](#pre-requisites-and-assumptions)
+    - [The Process](#the-process)
       - [Setup](#setup)
       - [Consent and credit](#consent-and-credit)
       - [Loop back with participants](#loop-back-with-participants)
@@ -38,7 +38,7 @@
 - Learn best practices for successful corporate sponsorship and effective collaboration with the project community
 - Understand when and how to create new open source projects vs when to contribute to existing ones.
 
-## What does it mean for an organization to contribute to open source? 🤔
+## What does it mean for an organization to be a good open source citizen? 🤔
 
 In this chapter, we will explore what it means for an organization to contribute to open source and how to build a contribution model that is impactful for both the organization and the open source project.
 
@@ -47,9 +47,19 @@ This is partly due to how organizations build business relationships, which are 
 
 However, some success cases exist in which organizations and open source projects have established fruitful and long-term relationships. We will provide some [examples of impactful corporate engagements later in this chapter](#examples-of-good-corporate-open-source-contributions-️).
 
-A typical contribution pattern adopted by organizations is to give employees a substantial amount of their contractual time to participate in open source projects. While this might seem a low-friction approach, it is essential that said employees familiarize themselves with the contribution processes and norms within that project and its community.
-
 > **Note** > [Chapter 2.4.](../02-participating-in-oss/04-contributing-tips.md) covers many contribution best practices that apply to both individual and corporate contributors.
+
+A typical contribution pattern adopted by organizations is to give employees a substantial amount of their contractual time to participate in open source projects.
+We have highlighted multiple times in this guide that every project is different, so whenever you decide to contribute to a new project, you will need to familiarize yourself with the project and its community standards.
+Some actions you can take to get acquainted with these processes are:
+
+- **Join the community:** Each community has unique participation modes and channels. A project's documentation often details the community's communication channels and how to join them.
+- **Observe:** Once you join the community channels, spend time soaking in information about the project and its culture, norms, and expectations.
+- **Start small:** Start with small contributions, such as fixing typos in the documentation, and work your way up to more complex contributions.
+- **Include the community early and often:** When you are ready to start contributing substantially, discuss it with the community first. This will help you understand if your contribution is aligned with the project's goals and roadmap and will help you build trust with the community. As you continue to participate in the project, keep the community informed about your progress and any changes in your plans.
+  > **Note**
+  > Multiple sections in this guide cover different areas of consensus-building and community alignment: [Chapter 2.04 - Designing in the open](./04-contributing-tips.md#designing-in-the-open-), [Building community consensus](#building-community-consensus-), [Turning private conversations into public resources](#turn-private-conversations-into-public-resources-).
+- **Contribute upstream:** This critical contribution expands your impact beyond a single project and benefits the broader ecosystem.
 
 ## Familiarize with Community Standards 📖
 
@@ -161,7 +171,7 @@ You might encounter that one of the earliest points of friction is the differenc
 
 This section provides guidelines and a checklist for you and your team to practice and improve your communication skills in the open.
 
-### Pre-requisites and assumptions 🧰
+### Pre-requisites and assumptions
 
 Before continuing, ensure the following assumptions apply to your team. Some might not apply to your team, and that's ok. The goal is to identify the applicable ones and adjust the ones that are not.
 
@@ -169,7 +179,7 @@ Before continuing, ensure the following assumptions apply to your team. Some mig
 - [ ] You are starting from a place of trust. If you are approaching the project and thus building trust, or if you have, unfortunately, broken this trust, then you'll need to address this lack of trust. The proposed process will help you strengthen trust but will not fix it alone.
 - [ ] You know and understand your community's guidelines (or why none exist).
 
-### The Process 📜
+### The Process
 
 We break the process of making conversations public into smaller subsections depending on the tasks involved. Each step has a set of guidelines and a checklist to help you and your team practice and improve your communication skills in the open.
 

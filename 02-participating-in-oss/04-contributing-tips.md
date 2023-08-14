@@ -2,11 +2,11 @@
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Chapter 2.1: Why and how to contribute to Open Source](./01-why-contributing-to-oss.md) <br>- [Chapter 2.2: Understand Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md) |
 
-# Chapter 03: Contributing to open source
+# Chapter 04: Contributing to open source
 
 ## Table of Contents 🗂️
 
-- [Chapter 03: Contributing to open source](#chapter-03-contributing-to-open-source)
+- [Chapter 04: Contributing to open source](#chapter-04-contributing-to-open-source)
   - [Table of Contents 🗂️](#table-of-contents-️)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Contribution tips and best practices 🔖](#contribution-tips-and-best-practices-)
