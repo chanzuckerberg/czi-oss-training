@@ -1,4 +1,4 @@
-# Module 02 - Participating in Open Source Communities
+# Module 03 - Enhancing your OSS contribution impact
 
 ## Chapters in this module 🗃
 

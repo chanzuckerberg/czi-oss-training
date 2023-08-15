@@ -11,6 +11,8 @@
 
 ## Learning Objectives 🧠
 
+<!-- TODO -->
+
 ## Resources 📚
 
 ## Continue learning 🚥

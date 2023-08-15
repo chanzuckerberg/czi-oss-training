@@ -40,17 +40,19 @@
 
 ## What does it mean for an organization to be a good open source citizen? 🤔
 
-In this chapter, we will explore what it means for an organization to contribute to open source and how to build a contribution model that is impactful for both the organization and the open source project.
+In this chapter, we will explore what it means for an organization to contribute to open source and how to participate in open source projects in a fruitful way for both the organization and the open source project.
+
+> **Important** > [Module 03](../03-improving-oss-impact/README.md) will provide more insights into how an organization can maximize its impact on open source projects and how to best manage its organization-wide open source strategy.
 
 Historically, the relationship between some open source projects and organizations that use OSS has been shaky.
 This is partly due to how organizations build business relationships, which are not always aligned with or work for open source projects and communities, so some organizations struggle to find productive and impactful ways to contribute to open source. Another source of friction arises when the organization's needs and motivations to participate in open source are not aligned with or communicated to the project and their community. In those cases, the organization can often be perceived as self-serving, and it might struggle to establish trust within the open-source community.
 
 However, some success cases exist in which organizations and open source projects have established fruitful and long-term relationships. We will provide some [examples of impactful corporate engagements later in this chapter](#examples-of-good-corporate-open-source-contributions-️).
 
-> **Note** > [Chapter 2.4.](../02-participating-in-oss/04-contributing-tips.md) covers many contribution best practices that apply to both individual and corporate contributors.
+> **Note** > [Chapter 2.4.](../02-participating-in-oss/04-contributing-tips.md) introduces several contribution best practices that apply to both individual and corporate contributors.
 
 A typical contribution pattern adopted by organizations is to give employees a substantial amount of their contractual time to participate in open source projects.
-We have highlighted multiple times in this guide that every project is different, so whenever you decide to contribute to a new project, you will need to familiarize yourself with the project and its community standards.
+We have highlighted multiple times in this guide that every project is different, so whenever you decide to contribute to a new project, you must familiarize yourself with the project and its community standards.
 Some actions you can take to get acquainted with these processes are:
 
 - **Join the community:** Each community has unique participation modes and channels. A project's documentation often details the community's communication channels and how to join them.
@@ -63,7 +65,7 @@ Some actions you can take to get acquainted with these processes are:
 
 ## Familiarize with Community Standards 📖
 
-All open source contributions start with understanding project-specific community standards and processes. This first step is crucial for corporate contributors, who might encounter additional challenges in building a reputation and trust within the project community (vs. an individual contributor)[^1]. Taking the time to understand community standards early and actively follow them signals a strong respect for volunteers' time and the community.
+All open source contributions start with understanding project-specific community standards and processes. This first step is crucial for corporate contributors, who might encounter additional challenges in building a reputation and trust within the project community (vs. an individual contributor)[^1]. Understanding community standards early and actively following them signals a strong respect for volunteers' time and the community.
 
 [^1]: While this might not always be true, many open source projects are extra cautious when engaging with corporate contributors due to a lack of understanding of their motivations or for fear of a corporate takeover.
 
@@ -274,7 +276,7 @@ This program has been running strong for over two years and has expanded to incl
 
 This is an ongoing initiative sponsored by Microsoft[^2] to speed up CPython - the reference implementation of the Python Programming Language. Microsoft employs a developer team led by Guido van Rossum, the creator of Python and a CPython core developer, to work with the Python community to ideate, prototype, and implement features that will improve Python's performance.
 
-This team includes long-term contributors to CPython and other Python libraries who understand the community workflows, priorities, and decision-making. They actively contribute to maintenance tasks and work on activities that benefit the entire community.
+This team includes long-term contributors to CPython and other Python libraries who understand the community workflows, priorities, and decision-making. They actively contribute to maintenance tasks and work on activities that benefit the community.
 
 > [Michael] Droettboom says he hopes they [volunteer core devs] don't feel "overloaded" and works to take off "some of that burden." "We've kind of created a little more burden on those people. So it's only fair that we also ask what we can do to help."
 >
@@ -294,7 +296,7 @@ Bloomberg released an internally-developed tool, Memray - a memory profiler for 
 
 Quansight is a consulting firm that provides OSS-based solutions for commercial clients. Quansight employs several contributors and maintainers of community-driven PyData projects[^3], enabling them to continue contributing to OSS while sharing their expertise for consulting projects.
 
-> Such a model includes benefits such as learning and upskilling opportunities for our team, bringing back concrete user feedback and needs and ideas to open source projects. It also gives us the flexibility to quickly scale up our contributions to the open source projects we support when we receive direct financial support for them.
+> Such a model includes benefits such as learning and upskilling opportunities for our team, bringing back concrete user feedback, needs, and ideas to open source projects. It also gives us the flexibility to quickly scale up our contributions to the open source projects we support when we receive direct financial support (for the projects).
 >
 > ~ [Quansight Labs Annual Report 2022](https://a.storyblok.com/f/152463/x/20372ca74f/quansight-labs-annual-report-2022.pdf)
 
