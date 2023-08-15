@@ -1,8 +1,8 @@
-# OSS Journey Activity
-
 | Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-)                                                             |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/)<br>- [Chapter 01: Why and how to contribute to Open Source](./01-why-contributing-to-oss.md) <br>- [Chapter: 02 - How to be a good corporate citizen?](./02-good-corporate-oss-citizen.md) |
+
+# OSS Journey Activity
 
 This module has covered some main benefits of contributing to open source for individuals and organizations. This activity aims to help you reflect on and strategically improve your journey with open source.
 

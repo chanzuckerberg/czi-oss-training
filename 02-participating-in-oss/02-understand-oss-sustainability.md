@@ -168,7 +168,7 @@ napari is being continuously improved and maintained, and several (new and exist
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 01 Why and how to contribute to Open Source](./01-why-contributing-to-oss.md)** | **[Next Chapter: 03 Contributing to open source](./03-contibuting-tips.md)** ➡️
+⬅️ **[Previous Chapter: 01 Why and how to contribute to Open Source](./01-why-contributing-to-oss.md)** | **[Next Chapter: 03 04 Being a Good OS Citizen as a corporate sponsor](./03-good-corporate-oss-citizen.md)** ➡️
 
 <!-- Reusable links -->
 
