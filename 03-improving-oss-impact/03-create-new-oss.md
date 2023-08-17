@@ -8,8 +8,8 @@
   - [Learning Objectives 🧠](#learning-objectives-)
   - [New OSS Project Motivations ⚡️](#new-oss-project-motivations-️)
   - [Preliminary Considerations 🧱](#preliminary-considerations-)
-  - [OSS Development and Maintenance 💻](#oss-development-and-maintenance-)
-  - [Community Growth 🌱](#community-growth-)
+  - [OSS Development and Maintenance 🏗️](#oss-development-and-maintenance-️)
+  - [Community Engagement 🌱](#community-engagement-)
   - [Exit Strategy 🏛️](#exit-strategy-️)
   - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
@@ -23,9 +23,7 @@
 New tools that innovate on brand new solutions, address critical gaps in current tools, and provide competitive alternatives to existing libraries, help the open source ecosystem grow. As we’ll discuss in this section, there are many situations where contributing new open source projects is the best corporate open source partnership approach. At the same time, new projects can also be detrimental to the corporation and the community if not developed sustainably.
 
 > **Note**
-
 > The chapter focuses on corporate sponsors creating fresh OSS projects, but you can use it as a reference for transitioning internal software into an open source project.
-
 > Moreover, most of the practices shared here can help you contribute new supporting, adjacent, or incubated projects to open source communities/organizations you’re already supporting.
 
 Analyze the following prompts before creating a new OSS solution:
@@ -51,17 +49,39 @@ The following sections detail some important stages of developing a new open sou
 - **Stakeholder Review:** Garner input from key stakeholders, including the leadership, legal and compliance, software security, and marketing teams, to ensures the project aligns with the company's strategic vision and regulatory policies.
 - **Project management:** Create initial project repositories, set up a documentation framework, and create concrete tasks corresponding to the roadmap milestones in your preferred project management tool.
 
-## OSS Development and Maintenance 💻
+## OSS Development and Maintenance 🏗️
 
-## Community Growth 🌱
+- **OSS Development Practices:** Follow the [OSS development workflow] during all development stages to set the project up for a context-rich and collaborative environment that welcomes new contributors. Encourage code reviews, pull requests, and iterative development cycles that allow contributors to share ideas and insights.
+- **Messaging and Brand:** Craft a consistent messaging strategy that highlights the project's unique value proposition, and design brand guidelines that reflect the project's identity. These can align with the organization’s overarching brand and messaging framework or stand independently.
+- **Documentation:** Create comprehensive documentation for:
+
+  - Users to quickly onboard to the project and understand it’s value, features, and necessary background
+  - Contributors to work on various enhancements, maintenance, sustainance activities.
+
+  Regularly update and refine documentation to reflect latest changes and improvements.
+
+- **Maintenance:** Dedicate resources to maintenance efforts like security updates, dependency upgrades, extensive test infrastructure, stable CI/CD workflows, reviewing issue & PR backlogs, smooth release process, regular release cadence, and more. Document the maintenance processes for transparency and future maintainers.
+- **Upstream Contributions:** Collaborate with upstream projects by contributing improvements and fixes that can benefit more projects in the ecosystem.
+
+## Community Engagement 🌱
+
+- **Code of Conduct (CoC):** Establish a robust CoC and enforcement strategy to ensure an inclusive, respectful, and welcoming community. You can adopt some open source community created CoC policies and create a small committee to handle reports.[^3]
+  [^3]: If possible, make sure the CoC committee members get formal training to handle reports effectively.
+- **Governance:** Implement (and documented) a governance structure with guidelines for decision-making and project leadership roles and responsibilities.
+- **Communication Channels:** Set up spaces for community collaboration and aim to have separate channels for user support and contributor discussions, as well as regular community (video) meetings. Actively engage on community spaces, foster community interaction, and seek feedback to improve the spaces and workflows.
+- **Advocacy:** Share your project with the broader ecosystem through various channels, including blog posts, social media, and relevant community events. Highlight the project’s value proposition and success stories to attract new users and contributors.
+- **Partnerships:** Form partnerships with related projects, organizations, or industry groups. Collaborative efforts increase the project's exposure and fosters cross-community collaboration.
 
 ## Exit Strategy 🏛️
+
+<!-- TODO -->
 
 ## Resources 📚
 
 - [Open Source Project Creation Overview, TODO Group](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module7/README.md)
 - [A Guide to Outbound Open Source Software, TODO Group](https://todogroup.org/guides/outbound-oss/#how-to-contribute-to-oss-projects)
 - [How to launch an open source project, Red Hat](https://www.redhat.com/en/resources/how-to-launch-an-open-source-project-overview)
-- [Developing a strategy for your open source project](https://www.redhat.com/en/resources/developing-strategy-open-source-project)
+- [Developing a strategy for your open source project, Red Hat](https://www.redhat.com/en/resources/developing-strategy-open-source-project)
+- [Winding Down an Open Source Project, Linux Foundation](https://www.linuxfoundation.org/resources/open-source-guides/winding-down-an-open-source-project)
 
 ## Continue learning 🚥
