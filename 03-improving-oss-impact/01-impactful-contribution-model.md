@@ -10,12 +10,14 @@
     - [🙋🏽‍♀️ Learner checkpoint](#️-learner-checkpoint)
     - [Defining an open source strategy](#defining-an-open-source-strategy)
     - [Components of an open source strategy](#components-of-an-open-source-strategy)
+  - [Measuring your strategy and programs impact 📈](#measuring-your-strategy-and-programs-impact-)
   - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
-<!-- TODO -->
+- Identify some evolving organizational needs of business or organizations regarding their open source strategy
+- Get a high level overview on how to define success metrics for open source programs
 
 ## Where to start? Defining your open source goals 🎯
 
@@ -86,21 +88,27 @@ At the minimum, your strategy should contain the following:
 1. Guiding principles
    1. your organization's approach to open source and the purpose behind your strategy
    2. What does success look like for your organization, and how does open source contribute to this success?
-2. Expectations for:
+2. Key stakeholders (or key groups and individuals for your open source strategy)
+   1. by team (i.e. legal, marketing, Imaging Tech)
+   2. by organization (i.e. Science)
+   3. by role (i.e. Engineering Director)
+3. Expectations for:
    1. how people should **consume** open source software. This covers items such as licensing, acceptance, vetting, or exception policies, overall stance towards open source development
    2. how people should contribute to open source and projects or ecosystems critical to your organization's goals
    3. how people should develop and release open source projects
    4. open source practices people should observe
-3. Strategy for:
+4. Strategy for:
    1. building open source platforms and tools
    2. building with open source
-4. Policies and other guidelines relevant to OSS, such as
+5. Policies and other guidelines relevant to OSS, such as
    1. Data and supply chain security
    2. Open Source license compliance (including CLA's signing)
    3. Branding and IP guidelines
    4. Starting a new open source project or opening source code
    5. Community standards and repository quality/structure
    6. Community interaction
+
+## Measuring your strategy and programs impact 📈
 
 ## Resources 📚
 
