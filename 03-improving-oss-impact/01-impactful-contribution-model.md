@@ -10,16 +10,21 @@
     - [🙋🏽‍♀️ Learner checkpoint](#️-learner-checkpoint)
     - [Defining an open source strategy](#defining-an-open-source-strategy)
     - [Components of an open source strategy](#components-of-an-open-source-strategy)
-  - [Measuring your strategy and program impact 📈](#measuring-your-strategy-and-program-impact-)
+  - [Guiding principles for open source strategies and contributions 🧭](#guiding-principles-for-open-source-strategies-and-contributions-)
     - [1. Engagement starts early](#1-engagement-starts-early)
-    - [2. Decision rests within the community](#2-decision-rests-within-the-community)
+    - [2. The community comes first](#2-the-community-comes-first)
+    - [3. Focus on transparency](#3-focus-on-transparency)
+    - [4. Align with community standards](#4-align-with-community-standards)
+    - [5. End gracefully](#5-end-gracefully)
+  - [Implementing and measuring OSS strategies and programs 🌱](#implementing-and-measuring-oss-strategies-and-programs-)
+    - [Strategy implementation](#strategy-implementation)
   - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
 
 ## Learning Objectives 🧠
 
 - Identify some evolving organizational needs of businesses or organizations regarding their open source strategy
-- Get a high-level overview on how to define success metrics for open source programs
+- Get a high-level overview of how to define success metrics for open source programs
 
 ## Where to start? Defining your open source goals 🎯
 
@@ -80,7 +85,7 @@ The following sections will help you define or clarify your open source strategy
 
 4. **Design an implementation plan.**
 
-   Once you have identified some goals and strategies, the next step will be to develop an implementation plan. Some questions you should ask at this point are:
+   Once you have identified some goals and strategies, developing an implementation plan will be next. Some questions you should ask at this point are:
 
    - Which open source projects do we use internally?
    - Which projects should we target for contributions and participation?
@@ -89,12 +94,13 @@ The following sections will help you define or clarify your open source strategy
    - What contribution processes or guidelines do we need?
    - What training must we provide?
    - How will we determine success?
-   - Do we have the relevant expertise or need to hire for it?
+   - Do we have the relevant expertise, or do we need to hire for it?
 
 5. **Implement your open source strategy.**
    Depending on where your organization is within its open source journey, it might be best to embrace a phased approach to strategy implementation, starting by focusing on its short-to-medium-term goals and reevaluating and adjusting over time.
 
-   <!-- TODO: continue here -->
+   > **Note**
+   > The section [Implementing and measuring OSS strategies and programs](#implementing-and-measuring-oss-strategies-and-programs-️) in this chapter provides more insight into this step.
 
 ### Components of an open source strategy
 
@@ -102,14 +108,14 @@ Your organization's strategy will be the reference or source of truth for open p
 
 At the minimum, your strategy should contain the following:
 
-1. **Guiding principles**
+1. **Core principles**
    1. your organization's approach to open source and the purpose behind your strategy
-   2. What does success look like for your organization, and how does open source contribute to this success?
+   2. what does success look like for your organization, and how does open source contribute to this success?
 2. **Key stakeholders (or key groups and individuals for your open source strategy)**
    1. by team (i.e., legal, marketing, Imaging Tech)
    2. by organization (i.e., Science)
-   3. by role (i.e. Engineering Director)
-3. **Governance:** standardized governance is critical to streamlining and optimizing processes. It also helps get everyone on the same page and provides the foundation for measuring progress toward your goals and reducing risk.
+   3. by role (i.e., Engineering Director)
+3. **Governance:** Standardized governance is critical to streamlining and optimizing processes. It also helps get everyone on the same page and provides the foundation for measuring progress toward your goals and reducing risk.
 4. **Expectations for:**
    1. how people should **consume** open source software. This covers items such as licensing, acceptance, vetting, or exception policies, overall stance towards open source development
    2. how people should contribute to open source and projects or ecosystems critical to your organization's goals
@@ -126,11 +132,11 @@ At the minimum, your strategy should contain the following:
    5. Community standards and repository quality/structure
    6. Community interaction
 
-## Measuring your strategy and program impact 📈
+## Guiding principles for open source strategies and contributions 🧭
 
-In [Module 02](../02-participating-in-oss/README.md) we covered a number of guidelines and recommendations in open source communities and projects as a corporate and individual contributor.
+In [Module 02](../02-participating-in-oss/README.md), we covered several guidelines and recommendations in open source communities and projects as corporate and individual contributors.
 
-Many of those guidelines can be grouped under the following principles for impactful open source participation.
+Many of those guidelines can be coded into principles for impactful open source participation, the same principles that should inform and guide your open source strategy:
 
 ### 1. Engagement starts early
 
@@ -138,21 +144,95 @@ Engage with the community early in the process of contribution. Build trust, and
 
 ✨ Suggested tactics for this principle:
 
-- Ask questions.
+- Ask questions and remain curious; many community guidelines and expectations are not explicitly documented.
 - Before making direct contributions, join the discussion, listen, and ask for feedback.
-- Be transparent about your motivations and where you are coming from (i.e. the organization you are working for).
+- Be transparent about your motivations and where you are coming from (i.e., the organization you work for).
 - Start contributing to community needs already identified.
 
-### 2. Decision rests within the community
+### 2. The community comes first
 
-This principle revolves around putting the community first, balancing interests, and seeking alignment. OSS is all about building in communities and Consensus rest with the community, as does the timeline.
+This principle involves putting the community first, balancing interests, and seeking alignment. OSS is all about building in communities; as such, consensus rests with the community, as does the timeline. Individual interests influence the direction of a project and its community. However, the ultimate decision lies within the collective. Be mindful of this and act accordingly.
 
-1. Learn first: when entering a new community or project aim
+✨ Suggested tactics for this principle:
+
+- Focus on the contribution and its impact on the community.
+- Keep your organization's priorities in mind, but be prepared for the community to have different priorities.
+- Don't use your employer, organization, title, or other status signals to influence decisions.
+- Avoid imposing or expecting timelines, for example, pushing for changes to be incorporated to meet one of your organization's OKRs.
+- When discussing and making decisions that may impact the project internally, make sure to follow the guidelines in [Turn Private Conversations into Public Resources](../02-participating-in-oss/03-good-corporate-oss-citizen.md#turn-private-conversations-into-public-resources-).
+- Be mindful of how much you put on and remove the maintainers' plate.
+  > **Note**
+  > At Quansight Labs, we guide ourselves through the principle of "when mixing paid and volunteer contributors/maintainers, it is our responsibility as paid maintainers to make the lives of the volunteers easier."
+- Be respectful and considerate; the community is a powerful (and your best) ally.
+
+### 3. Focus on transparency
+
+Your work on the project should be transparent. This starts by being transparent about your level of commitment to the project (what can you contribute with and in which capacity) as well as your motivations or goals.
+
+You also most probably can't speak officially for your whole organization, but some people will still perceive you as a speaker or representative of your organization. Handle that with care and transparency.
+
+✨ Suggested tactics for this principle:
+
+- We wear many hats when interacting with communities (our own, our company). It is essential to be explicit about which virtual persona you are in each moment ([for example, using your personal or corporate email](https://www.juliaferraioli.com/blog/2022/your-git-email-matters/)).
+- Make it explicit in your interactions, especially when joining a community in which capacity you can contribute.
+
+### 4. Align with community standards
+
+Impactful and respectful participation aligns with community standards. This ensures all stakeholders adhere to community-established ways of working and rules of engagement. For example, a community's Code of Conduct is a pledge to all its members that no abusive or exclusionary behavior will be tolerated. Failing to follow such guidelines can have significant implications for individual contributors and employers.
+
+✨ Suggested tactics for this principle:
+
+- Make sure to understand a project's community standards.
+- Assume positive intent.
+- Remember significant context (such as non-verbal cues) can go missing when using communication channels such as email, issue trackers, and Slack messages. Err on providing as much context as needed and favor clear, friendly communication.
+
+### 5. End gracefully
+
+How we end an open source journey is as important as how we start it. How you close an engagement with a project should also follow the above principles.
+
+Especially if you have taken over responsibility, for example, by acting as a maintainer or are in a leadership position, it's crucial to step down gracefully, be transparent, and be respectful.
+
+✨ Suggested tactics for this principle:
+
+- Communicate any substantial changes to your contribution capabilities as early as possible.
+- Ensure everything is well documented and share your exit plan.
+
+## Implementing and measuring OSS strategies and programs 🌱
+
+### Strategy implementation
+
+Any type of culture change is complex, and embracing a strategy for open source participation within an organization is no exception. It is important to remember that this is a journey and that it will take time to see the results of your efforts.
+
+It is often tempting to focus on individual levels: individual contributor, a type of/or single contribution or donation, a project, an event, or a team within an organization and measure success based on those. However, it is essential to remember that open source is all about community and collaboration and that the success of your open source strategy will be measured by its impact on the community and the ecosystem.
+
+Focusing on individual levels can often lead to a sense of self-efficacy and removing red tape. However, it can also miss a significant component and sometimes a barrier to impact and change - culture.
+Individuals, organizations, and open source projects operate within and belong to [complex sociotechnical systems](https://business.leeds.ac.uk/research-stc/doc/socio-technical-systems-theory). Those systems, in turn, comprise processes, people, infrastructure, technology, metrics and goals, and culture. Any given complex sociotechnical system can only be improved if both the social and technical aspects are treated as interdependent and aligned.
+
+To improve your organization's open source impact, you must focus on the technical and social aspects required to accelerate and sustain that impact.
+
+[The Center for Open Science has adopted a strategy for culture change][cos] that can be used as inspiration when adopting or improving your organization's open source strategy and practices.
+
+![Strategy for Culture Change](./images/theory-of-change.png)
+
+This strategy requires five progressive levels of intervention:
+
+1. **Infrastructure**: This includes the tools and processes that enable individuals to use and contribute to open source. For example, adopting and using open source software and practices and creating open source platforms and tools.
+2. **User experience**: Including processes, training, and tools that facilitate the participation of individuals in open source projects and communities. For example, providing employees with time to contribute to open source projects vital for their job or license guidance.
+3. **Community**: At this level, we are trying to make the desired behaviors visible, similar to how we'd expect any contribution to adhere to open source community standards. For example, adopting transparent communication patterns, attending community events, establishing communities of practice, or establishing an open source champion program.
+4. **Incentives**: This level addresses the reward system. For example, providing recognition for open source contributions (including maintenance tasks and no-code contributions), providing opportunities for career advancement, and aligning success metrics with the [principles for impactful open source contributions](#guiding-principles-for-open-source-strategies-and-contributions-).
+5. **Policy**: This level addresses alignment between an organization's goals and its open source strategy. For example, governance and IP, open source use and adoption, and security policies.
+
+Successful normative, incentive, and policy interventions require adequate infrastructure and processes that provide an easy transition from how teams and individuals behave and participate in open source today. In turn, enacting cultural changes requires policies and incentive mechanisms that support and reward the desired behaviors.
 
 ## Resources 📚
 
 - [Open source policies examples by TODO group](https://github.com/todogroup/policies)
+- [Center for Open Science - Strategy for Culture Change][cos]
 
 ## Continue learning 🚥
 
 **[Next Chapter: 02 - Understanding and building leadership in an OSS community](./02-building-oss-leadership.md)** ➡️
+
+<!-- Reusable links -->
+
+[cos]: https://www.cos.io/blog/strategy-for-culture-change
