@@ -46,7 +46,7 @@ In 1983, the United Nations convened a commission to investigate worldwide the e
 Which recognizes the need for balance between economy and ecosystem sustainability.
 Since then, many organizations have adopted strategies for corporate sustainability. Such strategies drive internal policies and processes around natural resource usage, diversity and inclusion, and fair treatment of employees and external actions, such as the sustainability of their entire supply chain operations and the corporation's impact on the Earth.
 
-A sustainability plan impacts every aspect of an organization's operation and how it engages with, engages with, and impacts external groups. Opening the door for new collaborations, partnerships, innovation, and growth opportunities.
+A sustainability plan impacts every aspect of an organization's operation and how it engages with and impacts external groups. Opening the door for new collaborations, partnerships, innovation, and growth opportunities.
 Ultimately, corporate sustainability is a long-term strategy that aims to create value for all stakeholders, including the corporation itself, its employees, customers or users, and the broader community, and [many studies have shown that such a strategy is beneficial for the corporation's bottom line](https://sloanreview.mit.edu/article/sustainability-lessons-from-the-front-lines).
 So well-planned and executed corporate sustainability plans can be a significant investment with opportunities for high returns.
 
@@ -168,7 +168,7 @@ napari is being continuously improved and maintained, and several (new and exist
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 01 Why and how to contribute to Open Source](./01-why-contributing-to-oss.md)** | **[Next Chapter: 03 04 Being a Good OS Citizen as a corporate sponsor](./03-good-corporate-oss-citizen.md)** ➡️
+⬅️ **[Previous Chapter: 01 Why and how to contribute to Open Source](./01-why-contributing-to-oss.md)** | **[Next Chapter: 03 Being a Good OS Citizen as a corporate sponsor](./03-good-corporate-oss-citizen.md)** ➡️
 
 <!-- Reusable links -->
 

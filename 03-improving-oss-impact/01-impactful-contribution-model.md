@@ -18,6 +18,7 @@
     - [5. End gracefully](#5-end-gracefully)
   - [Implementing and measuring OSS strategies and programs 🌱](#implementing-and-measuring-oss-strategies-and-programs-)
     - [Strategy implementation](#strategy-implementation)
+    - [Measuring success](#measuring-success)
   - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
 
@@ -218,11 +219,16 @@ This strategy requires five progressive levels of intervention:
 
 1. **Infrastructure**: This includes the tools and processes that enable individuals to use and contribute to open source. For example, adopting and using open source software and practices and creating open source platforms and tools.
 2. **User experience**: Including processes, training, and tools that facilitate the participation of individuals in open source projects and communities. For example, providing employees with time to contribute to open source projects vital for their job or license guidance.
-3. **Community**: At this level, we are trying to make the desired behaviors visible, similar to how we'd expect any contribution to adhere to open source community standards. For example, adopting transparent communication patterns, attending community events, establishing communities of practice, or establishing an open source champion program.
+3. **Community**: At this level, we are trying to make the desired behaviors visible, similar to how we'd expect any contribution to adhere to open source community standards. For example, adopting transparent communication patterns, attending community events, establishing communities of practice, fostering internal collaboration, or establishing an open source champion program.
 4. **Incentives**: This level addresses the reward system. For example, providing recognition for open source contributions (including maintenance tasks and no-code contributions), providing opportunities for career advancement, and aligning success metrics with the [principles for impactful open source contributions](#guiding-principles-for-open-source-strategies-and-contributions-).
 5. **Policy**: This level addresses alignment between an organization's goals and its open source strategy. For example, governance and IP, open source use and adoption, and security policies.
 
 Successful normative, incentive, and policy interventions require adequate infrastructure and processes that provide an easy transition from how teams and individuals behave and participate in open source today. In turn, enacting cultural changes requires policies and incentive mechanisms that support and reward the desired behaviors.
+
+### Measuring success
+
+> **Important**
+> To date, there aren't any canonical set of metrics that are characteristic of open source project health.
 
 ## Resources 📚
 
