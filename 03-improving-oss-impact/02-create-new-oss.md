@@ -2,9 +2,9 @@
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02: Participating in Open Source](../02-participating-in-oss/)                                                   |
 
-# Chapter 03: Create New OSS Project
+# Chapter 02: Creating a New OSS Project
 
-- [Chapter 03: Create New OSS Project](#chapter-03-create-new-oss-project)
+- [Chapter 02: Creating a New OSS Project](#chapter-02-creating-a-new-oss-project)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [New OSS Project Motivations ⚡️](#new-oss-project-motivations-️)
   - [Preliminary Considerations 🧱](#preliminary-considerations-)
@@ -85,4 +85,4 @@ The following sections detail some crucial stages of developing a new open sourc
 
 ## Continue learning 🚥
 
-<!-- TODO -->
+⬅️ **[Previous Chapter: 01 Creating and impactful open source strategy](./01-impactful-contribution-model.md)** | **[Next Chapter: 03 Effective upstream contributions](./03-effective-upstream-contributions.md)** ➡️

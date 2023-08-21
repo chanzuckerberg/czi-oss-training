@@ -25,6 +25,7 @@
 ## Learning Objectives 🧠
 
 - Identify some evolving organizational needs of businesses or organizations regarding their open source strategy
+- Revisit and summarize the principles for impactful open source participation (as a corporate contributor)
 - Get a high-level overview of how to define success metrics for open source programs
 
 ## Where to start? Defining your open source goals 🎯
@@ -275,11 +276,12 @@ An excellent way to demonstrate business impact is through valuable metrics and 
 
 - **Metrics** are measurements (recorded observations) - in and of themselves, there is no judgment to make.
 - **Observations** are **not** unbiased - decisions made (i.e., what to observe, what to leave out, how to observe) bias the outcomes, regardless of the intention. When deciding what to measure, you **must** record these decisions and **clarify** the assumptions and motivations for observing and measuring.
+- **KPIs** are a specific kind of metrics that measure the pulse points that correlate to a process, program, or product being considered to be **successful**.
 
 So how do you choose better metrics? Better metrics are **useful** metrics.
 This approach can help guide you through the creation of metrics:
 
-![Identify objectives - define observable aspects -  establish a baseline - define your desired trend - determine signal phenomena](./images/useful-metrics.svg)
+![Identify objectives - define observable aspects - establish a baseline - define your desired trend - determine signal phenomena](./images/useful-metrics.svg)
 
 1. **Identify objectives**: You need to understand what you want and care about. Available data != valuable metrics.
 2. **Define observable aspects**: You need to understand **how what you want** (your objective) **actually works**. Sometimes what you are interested in doesn’t match the data you can collect. In these cases, you can use proxy variables to circumscribe what you are trying to measure.
@@ -293,6 +295,14 @@ But remember: metrics for open source should always reflect the goals of **both*
 
 🔗 For an excellent resource on best practices for conducting rigorous, ethical, respectful research that maintains the integrity of the open source ecosystem under consideration, read [Beyond the repository: Best practices for open source ecosystem researchers. Amanda Casari, Julia Ferraioli, and Juniper Lovato][beyond-repo]
 
+When linking or defining what success looks like for your interest groups you can map out what they care about to identify additional metrics which ill help with explaining your vision of success.
+
+| Stakeholder | Why is this stakeholder important to you? | How does this stakeholder define success? | How often does this stakeholder measure our progress? | Signals to explore for KPIs. |
+| ----------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ---------------------------- |
+
+> **Warning**
+> How often and when to measure KPIs depends on how quickly you expect to see results, or rather how quickly the things you are measuring change.
+
 ## Resources 📚
 
 - [Open source policies examples by TODO group](https://github.com/todogroup/policies)
@@ -302,7 +312,7 @@ But remember: metrics for open source should always reflect the goals of **both*
 
 ## Continue learning 🚥
 
-**[Next Chapter: 02 - Understanding and building leadership in an OSS community](./02-building-oss-leadership.md)** ➡️
+**[Next Chapter: 02 - Creating a New OSS Project](./02-create-new-oss.md)** ➡️
 
 <!-- Reusable links -->
 
