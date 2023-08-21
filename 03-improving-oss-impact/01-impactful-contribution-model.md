@@ -2,9 +2,9 @@
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02: Participating in Open Source Communities](../02-participating-in-oss/) |
 
-# Chapter 01: What is an impactful OSS contribution model?
+# Chapter 01: Creating and impactful open source strategy
 
-- [Chapter 01: What is an impactful OSS contribution model?](#chapter-01-what-is-an-impactful-oss-contribution-model)
+- [Chapter 01: Creating and impactful open source strategy](#chapter-01-creating-and-impactful-open-source-strategy)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Where to start? Defining your open source goals 🎯](#where-to-start-defining-your-open-source-goals-)
     - [🙋🏽‍♀️ Learner checkpoint](#️-learner-checkpoint)
@@ -29,9 +29,9 @@
 
 ## Where to start? Defining your open source goals 🎯
 
-The previous Modules have introduced you to the world of open source and different ways to participate in OSS. [Module 02](../02-participating-in-oss/README.md) has also highlighted some motivations individuals and organizations have to participate in open source communities and some practical recommendations on how to get started and align with the community along the way.
+The previous Modules have introduced you to the world of open source and different ways to participate in OSS. In particular, [Module 02](../02-participating-in-oss/README.md) highlighted some motivations individuals and organizations have to participate in open source communities and some practical recommendations on how to get started and align with the community along the way.
 
-As you have gathered from the previous modules, building good, long-lasting relationships with the ecosystem can be extremely valuable for your organization and employees. This chapter will introduce several guidelines for overcoming challenges when participating in open source communities.
+As you have gathered from the previous modules, building good, long-lasting relationships with the ecosystem can be extremely valuable for your organization and employees. This chapter will introduce several guidelines for overcoming challenges when participating in open source communities and setting and organizational open source strategy.
 
 ### 🙋🏽‍♀️ Learner checkpoint
 
@@ -53,7 +53,8 @@ Having a clear and documented open source strategy can:
 - explain and clarify your organization's approach to open source in general
 - clarify where and why your organization invests in community-driven projects, external R&D, and when to focus on internal efforts and value differentiation
 
-The following sections will help you define or clarify your open source strategy.
+Where to start? 🤔
+The following steps will help you define or clarify your open source strategy.
 
 1. **Understand the why of your organization.**
 
@@ -112,10 +113,20 @@ At the minimum, your strategy should contain the following:
 1. **Core principles**
    1. your organization's approach to open source and the purpose behind your strategy
    2. what does success look like for your organization, and how does open source contribute to this success?
-2. **Key stakeholders (or key groups and individuals for your open source strategy)**
+2. **Key stakeholders (or key groups and individuals for your open source strategy):** Identifying your stakeholders allow you to answer the question "How do we know which all to focus and for whom (is this strategy)?"
+
    1. by team (i.e., legal, marketing, Imaging Tech)
    2. by organization (i.e., Science)
    3. by role (i.e., Engineering Director)
+
+   Other useful questions to ask when identifying your stakeholders are:
+
+   - who does this program include?
+   - who does this program exclude?
+   - who benefits from this?
+   - who might be impacted by this program?
+   - what other work or areas within our organization would this program touch or change?
+
 3. **Governance:** Standardized governance is critical to streamlining and optimizing processes. It also helps get everyone on the same page and provides the foundation for measuring progress toward your goals and reducing risk.
 4. **Expectations for:**
    1. how people should **consume** open source software. This covers items such as licensing, acceptance, vetting, or exception policies, overall stance towards open source development
@@ -179,7 +190,7 @@ You also most probably can't speak officially for your whole organization, but s
 
 ### 4. Align with community standards
 
-Impactful and respectful participation aligns with community standards. This ensures all stakeholders adhere to community-established ways of working and rules of engagement. For example, a community's Code of Conduct is a pledge to all its members that no abusive or exclusionary behavior will be tolerated. Failing to follow such guidelines can have significant implications for individual contributors and employers.
+Impactful and respectful participation aligns with community standards. This ensures all involved parties adhere to community-established ways of working and rules of engagement. For example, a community's Code of Conduct is a pledge to all its members that no abusive or exclusionary behavior will be tolerated. Failing to follow such guidelines can have significant implications for individual contributors and employers.
 
 ✨ Suggested tactics for this principle:
 
@@ -227,8 +238,58 @@ Successful normative, incentive, and policy interventions require adequate infra
 
 ### Measuring success
 
+> **Warning**
+> To date, there aren't any canonical set of metrics that are characteristic of open source project health. Or a one-size-fits-all approach to measure contribution impact and success. However, there are some approaches that can be used as a starting point to measure the impact of your open source strategy and programs.
+
+In the [Components of an open source strategy section](#components-of-an-open-source-strategy) above you'll notice a dedicated section to identifying your interested groups (a.k.a. stakeholders). Formally identifying, documenting, and regularly reviewing your interested groups helps you define and clarify:
+
+- expectations
+- needs
+- shared outcomes
+- potential future work
+- how these groups define success
+
+Understanding how your interested groups define success is essential to measuring
+and reporting the impact of your open source strategy and programs in a way that is meaningful to them.
+
 > **Important**
-> To date, there aren't any canonical set of metrics that are characteristic of open source project health.
+> A general suggestion when measuring investment or impact in open source is **avoid estimating ROI (return on investment)** for your open source efforts.
+
+While useful in many contexts and scenarios, ROI is a very specific economic model used to relate _profits_ to _capital invested_. ROI is not a good fit for measuring the impact of open source contributions and programs as most investments in open source do not readily simplify to standardized monetary equivalents.
+
+Instead, you can focus on the **business impact** of your program as a whole. For example, you can use and input-output model of **Investment** : **Impact**.
+
+![Schematic of an input-output model of Investment:Impact where Impact provides continuous feedback into the open source programs and initiatives.](./images/input-output-impact.png)
+
+In this model, you identify and track your investments:
+
+- direct project funding
+- event sponsorships
+- employee contribution programs
+- participation in boards and foundations
+
+You then can identify and track the impacts of those investments in a way that aligns with how your interested groups define success.
+A good way to demonstrate business impact is through useful metrics and KPIs (Key Performance Indicators).
+
+⚠️ Some important considerations to be aware of:
+
+- **Metrics** are measurements (recorded observations) - in and of themselves, there is no judgement to make.
+- **Observations** are **not** unbiased - decisions made (i.e., what to observe, what to leave out, how to observe) bias the outcomes, regardless of the intention. When making decisions about what to measure, you **must** record these decisions and **clarify** the assumptions and motivations for observing and measuring.
+
+So how do you choose better metrics? Better metrics are **useful** metrics.
+This approach can help guide you through the creation of metrics:
+
+![Identify objectives - define observable aspects -  establish a baseline - define your desired trend - determine signal phenomena](./images/useful-metrics.svg)
+
+1. **Identify objectives**: You need to understand what you want and what you care about. Available data != useful metrics.
+2. **Define observable aspects**: You need to understand **how what you want** (your objective) **actually works**. Sometimes what you are interested in doesn’t match up to the data that you can collect. In these cases, you can use proxy variables, which can kind of circumscribe what you are actually trying to measure.
+3. **Establish a baseline for EACH aspect you will measure**: You cannot measure progress or regression without understanding where you are starting from.
+4. **Define your desired trend for EACH aspect:** You need to know where you want to go (i.e. more of -> increasing, less of -> decreasing, about the same -> steady state).
+5. **Determine your signal phenomena for EACH aspect**: You need to know what changes to expect over time and when they will impact you.
+   1. Does your aspect capture events before the impact shows in other metrics? It is a leading signal.
+   2. Does your aspect capture events after the impact shows in other metrics? It is a lagging signal.
+
+But remember: metrics for open source should reflect the goals of **both** the project and the community at all times.
 
 ## Resources 📚
 
