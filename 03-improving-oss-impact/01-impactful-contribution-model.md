@@ -113,13 +113,13 @@ At the minimum, your strategy should contain the following:
 1. **Core principles**
    1. your organization's approach to open source and the purpose behind your strategy
    2. what does success look like for your organization, and how does open source contribute to this success?
-2. **Key stakeholders (or key groups and individuals for your open source strategy):** Identifying your stakeholders allow you to answer the question "How do we know which all to focus and for whom (is this strategy)?"
+2. **Key stakeholders (or key groups and individuals for your open source strategy):** Identifying your stakeholders allow you to answer the question, "How do we know which all to focus on and for whom (is this strategy)?"
 
    1. by team (i.e., legal, marketing, Imaging Tech)
-   2. by organization (i.e., Science)
+   2. by the organization (i.e., Science)
    3. by role (i.e., Engineering Director)
 
-   Other useful questions to ask when identifying your stakeholders are:
+   Other practical questions to ask when identifying your stakeholders are:
 
    - who does this program include?
    - who does this program exclude?
@@ -218,7 +218,7 @@ Any type of culture change is complex, and embracing a strategy for open source 
 It is often tempting to focus on individual levels: individual contributor, a type of/or single contribution or donation, a project, an event, or a team within an organization and measure success based on those. However, it is essential to remember that open source is all about community and collaboration and that the success of your open source strategy will be measured by its impact on the community and the ecosystem.
 
 Focusing on individual levels can often lead to a sense of self-efficacy and removing red tape. However, it can also miss a significant component and sometimes a barrier to impact and change - culture.
-Individuals, organizations, and open source projects operate within and belong to [complex sociotechnical systems](https://business.leeds.ac.uk/research-stc/doc/socio-technical-systems-theory). Those systems, in turn, comprise processes, people, infrastructure, technology, metrics and goals, and culture. Any given complex sociotechnical system can only be improved if both the social and technical aspects are treated as interdependent and aligned.
+Individuals, organizations, and open source projects operate within and belong to [complex sociotechnical systems](https://business.leeds.ac.uk/research-stc/doc/socio-technical-systems-theory). Those systems, in turn, comprise processes, people, infrastructure, technology, metrics and goals, and culture. Any given complex sociotechnical system can only be improved if the social and technical aspects are treated as interdependent and aligned.
 
 To improve your organization's open source impact, you must focus on the technical and social aspects required to accelerate and sustain that impact.
 
@@ -239,9 +239,9 @@ Successful normative, incentive, and policy interventions require adequate infra
 ### Measuring success
 
 > **Warning**
-> To date, there aren't any canonical set of metrics that are characteristic of open source project health. Or a one-size-fits-all approach to measure contribution impact and success. However, there are some approaches that can be used as a starting point to measure the impact of your open source strategy and programs.
+> To date, no canonical set of metrics is characteristic of open source project health. There is no one-size-fits-all approach to measure open source contribution impact and success. However, some approaches can be used as a starting point to measure the impact of your open source strategy and programs.
 
-In the [Components of an open source strategy section](#components-of-an-open-source-strategy) above you'll notice a dedicated section to identifying your interested groups (a.k.a. stakeholders). Formally identifying, documenting, and regularly reviewing your interested groups helps you define and clarify:
+In the [Components of an open source strategy section](#components-of-an-open-source-strategy) above, you'll notice a dedicated section to identifying your interested groups (a.k.a. stakeholders). Formally identifying, documenting, and regularly reviewing your interested groups helps you define and clarify the following:
 
 - expectations
 - needs
@@ -255,9 +255,9 @@ and reporting the impact of your open source strategy and programs in a way that
 > **Important**
 > A general suggestion when measuring investment or impact in open source is **avoid estimating ROI (return on investment)** for your open source efforts.
 
-While useful in many contexts and scenarios, ROI is a very specific economic model used to relate _profits_ to _capital invested_. ROI is not a good fit for measuring the impact of open source contributions and programs as most investments in open source do not readily simplify to standardized monetary equivalents.
+While useful in many contexts and scenarios, ROI is a specific economic model that relates _profits_ to _capital invested_. ROI is not a good fit for measuring the impact of open source contributions and programs as most investments in open source do not readily simplify to standardized monetary equivalents.
 
-Instead, you can focus on the **business impact** of your program as a whole. For example, you can use and input-output model of **Investment** : **Impact**.
+Instead, you can focus on the **business impact** of your program. For example, you can use an input-output model of **Investment** : **Impact**.
 
 ![Schematic of an input-output model of Investment:Impact where Impact provides continuous feedback into the open source programs and initiatives.](./images/input-output-impact.png)
 
@@ -269,32 +269,36 @@ In this model, you identify and track your investments:
 - participation in boards and foundations
 
 You then can identify and track the impacts of those investments in a way that aligns with how your interested groups define success.
-A good way to demonstrate business impact is through useful metrics and KPIs (Key Performance Indicators).
+An excellent way to demonstrate business impact is through valuable metrics and KPIs (Key Performance Indicators).
 
-⚠️ Some important considerations to be aware of:
+⚠️ Some crucial considerations to be aware of:
 
-- **Metrics** are measurements (recorded observations) - in and of themselves, there is no judgement to make.
-- **Observations** are **not** unbiased - decisions made (i.e., what to observe, what to leave out, how to observe) bias the outcomes, regardless of the intention. When making decisions about what to measure, you **must** record these decisions and **clarify** the assumptions and motivations for observing and measuring.
+- **Metrics** are measurements (recorded observations) - in and of themselves, there is no judgment to make.
+- **Observations** are **not** unbiased - decisions made (i.e., what to observe, what to leave out, how to observe) bias the outcomes, regardless of the intention. When deciding what to measure, you **must** record these decisions and **clarify** the assumptions and motivations for observing and measuring.
 
 So how do you choose better metrics? Better metrics are **useful** metrics.
 This approach can help guide you through the creation of metrics:
 
 ![Identify objectives - define observable aspects -  establish a baseline - define your desired trend - determine signal phenomena](./images/useful-metrics.svg)
 
-1. **Identify objectives**: You need to understand what you want and what you care about. Available data != useful metrics.
-2. **Define observable aspects**: You need to understand **how what you want** (your objective) **actually works**. Sometimes what you are interested in doesn’t match up to the data that you can collect. In these cases, you can use proxy variables, which can kind of circumscribe what you are actually trying to measure.
-3. **Establish a baseline for EACH aspect you will measure**: You cannot measure progress or regression without understanding where you are starting from.
-4. **Define your desired trend for EACH aspect:** You need to know where you want to go (i.e. more of -> increasing, less of -> decreasing, about the same -> steady state).
+1. **Identify objectives**: You need to understand what you want and care about. Available data != valuable metrics.
+2. **Define observable aspects**: You need to understand **how what you want** (your objective) **actually works**. Sometimes what you are interested in doesn’t match the data you can collect. In these cases, you can use proxy variables to circumscribe what you are trying to measure.
+3. **Establish a baseline for EACH aspect you will measure**: You cannot measure progress or regression without understanding where you start.
+4. **Define your desired trend for EACH aspect:** You need to know where you want to go (i.e., more of -> increasing, less of -> decreasing, about the same -> steady state).
 5. **Determine your signal phenomena for EACH aspect**: You need to know what changes to expect over time and when they will impact you.
    1. Does your aspect capture events before the impact shows in other metrics? It is a leading signal.
    2. Does your aspect capture events after the impact shows in other metrics? It is a lagging signal.
 
-But remember: metrics for open source should reflect the goals of **both** the project and the community at all times.
+But remember: metrics for open source should always reflect the goals of **both** the project and the community.
+
+🔗 For an excellent resource on best practices for conducting rigorous, ethical, respectful research that maintains the integrity of the open source ecosystem under consideration, read [Beyond the repository: Best practices for open source ecosystem researchers. Amanda Casari, Julia Ferraioli, and Juniper Lovato][beyond-repo]
 
 ## Resources 📚
 
 - [Open source policies examples by TODO group](https://github.com/todogroup/policies)
 - [Center for Open Science - Strategy for Culture Change][cos]
+- [Metrics, spikes, and uncertainty: Open source contribution during a global pandemic.](http://bit.ly/google-opensource-2020-metrics)
+- [Beyond the repository: Best practices for open source ecosystem researchers. Amanda Casari, Julia Ferraioli, and Juniper Lovato][beyond-repo]
 
 ## Continue learning 🚥
 
@@ -303,3 +307,4 @@ But remember: metrics for open source should reflect the goals of **both** the p
 <!-- Reusable links -->
 
 [cos]: https://www.cos.io/blog/strategy-for-culture-change
+[beyond-repo]: https://queue.acm.org/detail.cfm?id=3595879
