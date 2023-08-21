@@ -134,7 +134,7 @@ At the minimum, your strategy should contain the following:
    2. how people should contribute to open source and projects or ecosystems critical to your organization's goals
    3. how people should develop and release open source projects
    4. open source practices people should observe
-5. **Strategy for:**
+5. **Organization-wide strategy and processes for:**
    1. building open source platforms and tools
    2. building with open source
 6. **Policies and other guidelines relevant to OSS, such as:**
