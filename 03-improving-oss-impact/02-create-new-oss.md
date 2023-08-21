@@ -80,12 +80,20 @@ Community is the beating heart of open source software. The following activities
 
 ## Exit Strategy 🏛️
 
-Finally, you need to gracefully reduce your contributions in the open source project. This is not a plan for failure, but a path to building a project and community that can thrive independently, and eventually making space for newer projects. The following points describes some elements of non-disruptive wind-down to guide your planning and expectations.
+Finally, you need to gracefully reduce your contributions in the open source project. This is not a plan for failure, but a path to building a project and community that can thrive independently, and eventually making space for newer projects. The following points describes some elements of a non-disruptive wind-down to guide your planning and expectations.
 
-- **Exit Conditions:** Determine when you will begin minimizing contributions. You can define some project [metrics](../03-improving-oss-impact/01-impactful-contribution-model.md#measuring-success) that indicate maturity (or stagnation), and trigger the exit phase.
+- **Exit Conditions:** Determine when you will begin minimizing contributions. You can define some project [metrics](../03-improving-oss-impact/01-impactful-contribution-model.md#measuring-success) that indicate maturity, and trigger the exit phase.
 - **Communication:** You need to share your desire to slow down with the project community and upstream & downstream collaborators, and incorporate their input and feedback in your transition.
 - **Knowledge sharing:** Work with the community to identify and fill any gaps in the project and community documentation.
 - **Transfer leadership:** As initial authors, your team likely holds some leadership positions in the project, and you may need to find and mentor successors from the community to take on these leadership roles. You can recognize past contributors by creating an "Emeritus" group in the project governance, and support individuals you wish to continue contributing as volunteers.
+
+If the project and community show signs of stagnation, or if you can no longer invest in development efforts when the project is still dependent on your contributions, or both, you can work with the community to evaluate one of the following strong exit strategies for the project:
+
+- **Transfer:** You can transfer the project to a community organization, federation, or non-profit that's interested in and has the resources for continued development and maintenance of the project. This process will also require communication and knowledge sharing mentioned previously for a smooth transition.
+- **Archive:** You can archive project such that your community can still use released versions of the project, inspect the repositories, or even revive the project in the future. Again, give your community time to adapt by communicating your decision early.
+
+> **Note:**
+> If absolutely necessary due to company policies or other strict requirements, you can shut down the project and delete the project repositories, past releases, and web properties. You should try to archive first because the project resources are valuable to the OSS community and can provide useful lessons for future projects.
 
 ## Resources 📚
 
