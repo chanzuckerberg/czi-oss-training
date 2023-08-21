@@ -9,8 +9,8 @@
   - [Understand Upstream and Downstream Projects ↕️](#understand-upstream-and-downstream-projects-️)
   - [Why Contribute to Upstream Projects? 💭](#why-contribute-to-upstream-projects-)
   - [Upstream Engagement Strategy 🌳](#upstream-engagement-strategy-)
-    - [**Critical projects**](#critical-projects)
-    - [**Supporting projects**](#supporting-projects)
+    - [Critical projects](#critical-projects)
+    - [](#)
   - [Collaborate with Downstream Projects 🌿](#collaborate-with-downstream-projects-)
   - [🙋🏽‍♀️ Learner Question: Identify the "critical upstream" projects for napari](#️-learner-question-identify-the-critical-upstream-projects-for-napari)
   - [Resources 📚](#resources-)
@@ -58,7 +58,7 @@ The strategy for your upstream contributions will depend on your specific upstre
 
 You can define levels of your upstream participation based on how significant the upstream project is to your project and outline contribution activities based on the upstream project's needs and health. You can start with the two levels described below and add more as required.
 
-### **Critical projects**
+### Critical projects
 
 These are upstream libraries that provide fundamental features for your project, and their stability and sustainability are crucial for the stability of your project. These projects should be the primary focus of your upstream strategy, and your collaboration activities can include the following:
 
@@ -71,7 +71,9 @@ These are upstream libraries that provide fundamental features for your project,
 
 Ideally, you must test your project against active development branches, release candidates (RCs) of upstream projects, and regularly upgrade to the latest versions. This way, you can detect any breaking changes with enough time to report back upstream and make necessary updates to your project. You can also evaluate aligning your project’s release cadence with upstream releases.
 
-### **Supporting projects**
+###
+
+Supporting projects
 
 These tools enhance your project's user and developer experience, but their instability won’t be catastrophic. These projects should be on your radar but don’t require active contributions[^1]. Your upstream strategy can include contributing back when relevant and actively reporting any issues as a user.
 
@@ -97,3 +99,5 @@ This is for your team to answer, and you can start at [napari's dependency graph
 ## Continue learning 🚥
 
 <!-- TODO: Add CZI OSS Map Activity -->
+
+⬅️ **[Previous Chapter: 02 Creating a New OSS Project](./02-create-new-oss.md)** | **[Module activity:](./)** ➡️
