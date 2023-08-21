@@ -2,9 +2,9 @@
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02: Participating in Open Source Communities](../02-participating-in-oss/) |
 
-# Chapter 01: Creating and impactful open source strategy
+# Chapter 01: Creating an impactful open source strategy
 
-- [Chapter 01: Creating and impactful open source strategy](#chapter-01-creating-and-impactful-open-source-strategy)
+- [Chapter 01: Creating an impactful open source strategy](#chapter-01-creating-an-impactful-open-source-strategy)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Where to start? Defining your open source goals 🎯](#where-to-start-defining-your-open-source-goals-)
     - [🙋🏽‍♀️ Learner checkpoint](#️-learner-checkpoint)
@@ -32,7 +32,7 @@
 
 The previous Modules have introduced you to the world of open source and different ways to participate in OSS. In particular, [Module 02](../02-participating-in-oss/README.md) highlighted some motivations individuals and organizations have to participate in open source communities and some practical recommendations on how to get started and align with the community along the way.
 
-As you have gathered from the previous modules, building good, long-lasting relationships with the ecosystem can be extremely valuable for your organization and employees. This chapter will introduce several guidelines for overcoming challenges when participating in open source communities and setting and organizational open source strategy.
+As you have gathered from the previous modules, building good, long-lasting relationships with the ecosystem can be extremely valuable for your organization and employees. This chapter will introduce several guidelines for overcoming challenges when participating in open source communities and setting-up an organizational open source strategy.
 
 ### 🙋🏽‍♀️ Learner checkpoint
 
@@ -80,7 +80,7 @@ The following steps will help you define or clarify your open source strategy.
    Some questions you should be asking at this point are:
 
    - Where does the organization use open source?
-   - What of our goals heavily rely on open source?
+   - Which of our goals heavily rely on open source?
    - Where are we in our open source journey? (consumer, participant, contributor, leader)
 
 3. **Decide on and document your open source strategy.**
@@ -173,14 +173,14 @@ This principle involves putting the community first, balancing interests, and se
 - Don't use your employer, organization, title, or other status signals to influence decisions.
 - Avoid imposing or expecting timelines, for example, pushing for changes to be incorporated to meet one of your organization's OKRs.
 - When discussing and making decisions that may impact the project internally, make sure to follow the guidelines in [Turn Private Conversations into Public Resources](../02-participating-in-oss/03-good-corporate-oss-citizen.md#turn-private-conversations-into-public-resources-).
-- Be mindful of how much you put on and remove the maintainers' plate.
+- Be mindful of how much you put on and remove from the maintainers' plate.
   > **Note**
   > At Quansight Labs, we guide ourselves through the principle of "when mixing paid and volunteer contributors/maintainers, it is our responsibility as paid maintainers to make the lives of the volunteers easier."
 - Be respectful and considerate; the community is a powerful (and your best) ally.
 
 ### 3. Focus on transparency
 
-Your work on the project should be transparent. This starts by being transparent about your level of commitment to the project (what can you contribute with and in which capacity) as well as your motivations or goals.
+Your work on the project should be transparent. This starts by being transparent about your level of commitment to the project (what can you contribute and in which capacity) as well as your motivations or goals.
 
 You also most probably can't speak officially for your whole organization, but some people will still perceive you as a speaker or representative of your organization. Handle that with care and transparency.
 
@@ -295,7 +295,7 @@ But remember: metrics for open source should always reflect the goals of **both*
 
 🔗 For an excellent resource on best practices for conducting rigorous, ethical, respectful research that maintains the integrity of the open source ecosystem under consideration, read [Beyond the repository: Best practices for open source ecosystem researchers. Amanda Casari, Julia Ferraioli, and Juniper Lovato][beyond-repo]
 
-When linking or defining what success looks like for your interest groups you can map out what they care about to identify additional metrics which ill help with explaining your vision of success.
+When linking or defining what success looks like for your interest groups you can map out what they care about to identify additional metrics which will help with explaining your vision of success.
 
 | Stakeholder | Why is this stakeholder important to you? | How does this stakeholder define success? | How often does this stakeholder measure our progress? | Signals to explore for KPIs. |
 | ----------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | ---------------------------- |
