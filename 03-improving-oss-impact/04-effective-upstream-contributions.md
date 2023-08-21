@@ -9,8 +9,10 @@
   - [Understand Upstream and Downstream Projects ↕️](#understand-upstream-and-downstream-projects-️)
   - [Why Contribute to Upstream Projects? 💭](#why-contribute-to-upstream-projects-)
   - [Upstream Engagement Strategy 🌳](#upstream-engagement-strategy-)
+    - [**Critical projects**](#critical-projects)
+    - [**Supporting projects**](#supporting-projects)
   - [Collaborate with Downstream Projects 🌿](#collaborate-with-downstream-projects-)
-  - [🙋🏽‍♀️ Learner Question:](#️learner-question)
+  - [🙋🏽‍♀️ Learner Question: Identify some "critical upstream" projects for napari?](#️learner-question-identify-some-critical-upstream-projects-for-napari)
   - [Resources 📚](#resources-)
   - [Continue learning 🚥](#continue-learning-)
 
@@ -47,9 +49,45 @@ The flow of features and contributions between projects helps keep our overall e
 
 ## Upstream Engagement Strategy 🌳
 
+The dependency graph for a modern open source (or corporate) project can be enormous, reaching depths of the programming language and the operating system, and breadth-wise touching several linters, CI/CD workflow tools, and more. Hence “upstream contribution” typically corresponds to supporting the immediate and core dependencies of your project.
+
+The strategy for your upstream contributions will depend on your specific upstream reliance, community health, and available resources. In this section, we’ll highlight some elements of good upstream participation to guide you in creating this strategy.
+
+> **Note**
+> To reiterate, the cardinal rule of thumb in to think “upstream first” in your open source development journey.
+
+You can define levels to your upstream participation based on how significant the upstream project is to your project, and outline contribution activities based on the upstream project's needs and health. You can start with the two levels described below and add more as required.
+
+### **Critical projects**
+
+These are upstream libraries that provide fundamental features for your project, and their stability and sustainability is crucial for the stability of your project. These projects should be the primary focus of your upstream strategy, and your collaboration activities can include:
+
+- **Active contribution:** As a power user of the upstream project, you are in an excellent position to report issues early, share ideas for and contribute new features, and improve the upstream documentation.
+- **Maintenance support:** You can particularly contribute to _issues & PRs triage_ - triage involves small scoped tasks in very high volumes, which makes it a straightforward yet impactful way to help maintainers; and _user questions_ - your insights as an immediate and direct users can be useful to fellow users of the upstream project, as well as help you develop your expertise in the upstream project which will aid in your downstream development.
+- **Community participation:** Join upstream community spaces to keep up with upcoming changes that may influence your project. You can also share your valuable perspective as a downstream user in community discussions like project roadmap and enhancement conversations.
+
+> **Important**
+> Make sure to follow the contribution and community guidelines for upstream projects, which can vary between different projects.
+
+Ideally, you must test your project against active development branches and release candidates (RCs) of upstream projects, and regularly upgrade to the latest versions of these projects. This way you can detect any breaking changes with enough time to report back to upstream and make necessary updates in your project. You can also evaluate aligning your project’s release cadence with upstream releases.
+
+### **Supporting projects**
+
+These are tools that enhance the user and developer experience of your project, but their instability won’t be catastrophic. These projects should be on your radar but don’t require active contributions[^1]. Your upstream strategy can include contributing back when relevant and actively reporting any issues as a user.
+
+[^1]: If some projects are in a risky and low-maintenance state, and you have the resources to contribute, you should consider supporting them more actively.
+
 ## Collaborate with Downstream Projects 🌿
 
-## 🙋🏽‍♀️ Learner Question:
+Interfacing with downstream projects is an extension of your collaboration strategy. Avid and enthusiastic downstream projects are valuable to your community because they make your project better, advocate for your project , and increase your project adoption and impact. Therefore, it's your responsibility to provide them with the support that you expect from projects that are upstream to you, including:
+
+- **Answer questions:** Downstream projects are first-line users who will have many good questions and identify several issues in your project. You can work with them to build a knowledge base, improve your project documentation, and gather their feedback to enhance the project.
+- **Communicate changes:** Even minor changes have the potential to cause severe challenges downstream, so involve downstream project in development discussions and proactively share your release notes, release candidates, and more. They can help you thoroughly test your RCs before wide releases.
+- **Encourage contributions and community participation:** Encourage and support downstream projects to become regular contributors and active community members. You can invite them to special communication channels and meetings, and eagerly seek their feedback in major project decisions.
+
+## 🙋🏽‍♀️ Learner Question: Identify some "critical upstream" projects for napari?
+
+This is for your team to answer and you can start at [napari's dependency graph on GitHub](https://github.com/napari/napari/network/dependencies).
 
 ## Resources 📚
 
@@ -57,3 +95,5 @@ The flow of features and contributions between projects helps keep our overall e
 - [Understanding Upstream Open Source Projects, TODO Group](https://github.com/todogroup/ospo-career-path/blob/main/OSPO-101/module6/README.md)
 
 ## Continue learning 🚥
+
+<!-- TODO: Add CZI OSS Map Activity -->
