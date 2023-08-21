@@ -23,15 +23,15 @@
 
 ## Understand Upstream and Downstream Projects ↕️
 
-In the open source ecosystem, the terms "upstream" and "downstream" refer to the relationship between different projects that build upon or contribute to each other. They describe the flow of code, changes, and contributions in a software ecosystem. When a project builds on a different project’s functionality, the former become downstream of the latter, as described in the following figure:
+In the open source ecosystem, the terms "upstream" and "downstream" refer to the relationship between different projects that build upon or contribute to each other. They describe the flow of code, changes, and contributions in a software ecosystem. When a project builds on a different project’s functionality, the former becomes downstream of the latter, as described in the following figure:
 
 <p align="center">
   <img src="./images/oss-upstream-downstream.svg" width="50%" alt="Upstream and downstream OSS" />
 </p>
 
-Let’s consider pandas. Several PyData libraries like Dask and GeoPandas use pandas data structures (Series and DataFrame) and functions to provide more complex features, hence they are downstream of pandas. pandas itself is partially written in Python, so the CPython project is upstream of pandas. The upstream/downstream terminology is not isolated to core library features. pandas uses Sphinx to generate it’s documentation and pytest for it's test infrastructure, so these libraries are also upstream of pandas.
+Let’s consider pandas. Several PyData libraries like Dask and GeoPandas use pandas data structures (Series and DataFrame) and functions to provide more complex features; hence they are downstream of pandas. pandas itself is partially written in Python, so the CPython project is upstream of pandas. The upstream/downstream terminology is not isolated to core library features. pandas uses Sphinx to generate its documentation and pytest for its test infrastructure, so these libraries are also upstream of pandas.
 
-Related software development terms are “dependency” and “dependents” — they refer to the same relationship, but in more practical terms. A “dependency graph” is a structure used to map this relationship, where each project is a node and they are connected with directed arrows that start at the project providing features(dependents) and end in the project using the feature (dependent). The above figure depicts a dependency graph.
+Related software development terms are “dependency” and “dependents” — they refer to the same relationship, but in more practical terms. A “dependency graph” is a structure used to map this relationship, where each project is a node, and they are connected with directed arrows that start at the project providing features (dependents) and end in the project using the feature (dependent). The above figure depicts a dependency graph.
 
 However, not all dependencies are upstream projects (and vice-verse for dependents and downstream projects). Dependencies can be directly mapped to the project’s codebase and include all the external tools required for the project to be developed, packaged, and executed. Upstream projects are a subset of dependencies central to the core value of your project. They are external tools that your project uses heavily and potentially extends. For an example to demonstrate the difference between upstream and dependencies, consider a project that has tests to ensure _downstream_ project stability, this makes the downstream project a dependency of your project.
 
@@ -43,13 +43,13 @@ However, not all dependencies are upstream projects (and vice-verse for dependen
 The flow of features and contributions between projects helps keep our overall ecosystem healthy. Not only open source projects, but also corporate proprietary projects that rely on OSS, should aim to contribute back to the upstream projects for the following non-exhaustive set of reasons:
 
 - **Good OSS Citizenship:** Collaborating with upstream projects in the ecosystem displays a good OSS partnership and improves community trust in your contributions.
-- **Evaluate ideas with community experts:** Bug fix or feature implementation contributed to an upstream project (instead of fixing downstream) can be reviewed and improved by a larger community. You can also catch any unintended consequences in other parts of the upstream codebase or in other related projects by working with the community.
+- **Evaluate ideas with community experts:** Bug fixes or feature implementation contributed to an upstream project (instead of fixing downstream) can be reviewed and improved by a larger community. You can also catch any unintended consequences in other parts of the upstream codebase or in other related projects by working with the community.
 - **Avoid duplicated effort:** A fix or feature relevant to the upstream project, especially one that benefits more projects, may already be in development/discussion. An “upstream first” approach, where you coordinate with upstream projects before implementing your solution, will help you start or participate in community conversations early and avoid duplicating work.
-- **Project stability**: Contributing relevant features upstream keeps your project clean. Your codebase will have a clear scope and you can minimize any cascading effects caused by implementing work-arounds for upstream issue.
+- **Project stability**: Contributing relevant features upstream keeps your project clean. Your codebase will have a clear scope, and you can minimize any cascading effects caused by implementing workarounds for the upstream issue.
 
 ## Upstream Engagement Strategy 🌳
 
-The dependency graph for a modern open source (or corporate) project can be enormous, reaching depths of the programming language and the operating system, and breadth-wise touching several linters, CI/CD workflow tools, and more. Hence “upstream contribution” typically corresponds to supporting the immediate and core dependencies of your project.
+The dependency graph for a modern open source (or corporate) project can be enormous, reaching depths of the programming language and the operating system, and breadth-wise touching several linters, CI/CD workflow tools, and more. Hence, “upstream contribution” typically corresponds to supporting the immediate and core dependencies of your project.
 
 The strategy for your upstream contributions will depend on your specific upstream reliance, community health, and available resources. In this section, we’ll highlight some elements of good upstream participation to guide you in creating this strategy.
 
@@ -63,13 +63,13 @@ You can define levels to your upstream participation based on how significant th
 These are upstream libraries that provide fundamental features for your project, and their stability and sustainability is crucial for the stability of your project. These projects should be the primary focus of your upstream strategy, and your collaboration activities can include:
 
 - **Active contribution:** As a power user of the upstream project, you are in an excellent position to report issues early, share ideas for and contribute new features, and improve the upstream documentation.
-- **Maintenance support:** You can particularly contribute to _issues & PRs triage_ - triage involves small scoped tasks in very high volumes, which makes it a straightforward yet impactful way to help maintainers; and _user questions_ - your insights as an immediate and direct users can be useful to fellow users of the upstream project, as well as help you develop your expertise in the upstream project which will aid in your downstream development.
+- **Maintenance support:** You can particularly contribute to _issues & PRs triage_ - triage involves small scoped tasks in very high volumes, which makes it a straightforward yet impactful way to help maintainers; and _user questions_ - your insights as an immediate and direct user can be useful to fellow users of the upstream project, as well as help you develop your expertise in the upstream project which will aid in your downstream development.
 - **Community participation:** Join upstream community spaces to keep up with upcoming changes that may influence your project. You can also share your valuable perspective as a downstream user in community discussions like project roadmap and enhancement conversations.
 
 > **Important**
 > Make sure to follow the contribution and community guidelines for upstream projects, which can vary between different projects.
 
-Ideally, you must test your project against active development branches and release candidates (RCs) of upstream projects, and regularly upgrade to the latest versions of these projects. This way you can detect any breaking changes with enough time to report back to upstream and make necessary updates in your project. You can also evaluate aligning your project’s release cadence with upstream releases.
+Ideally, you must test your project against active development branches and release candidates (RCs) of upstream projects, and regularly upgrade to the latest versions of these projects. This way, you can detect any breaking changes with enough time to report back to upstream and make necessary updates in your project. You can also evaluate aligning your project’s release cadence with upstream releases.
 
 ### **Supporting projects**
 
@@ -79,7 +79,7 @@ These are tools that enhance the user and developer experience of your project, 
 
 ## Collaborate with Downstream Projects 🌿
 
-Interfacing with downstream projects is an extension of your collaboration strategy. Avid and enthusiastic downstream projects are valuable to your community because they make your project better, advocate for your project , and increase your project adoption and impact. Therefore, it's your responsibility to provide them with the support that you expect from projects that are upstream to you, including:
+Interfacing with downstream projects is an extension of your collaboration strategy. Enthusiastic downstream projects are valuable to your community because they improve your project, advocate for your project, and increase your project adoption and impact. Therefore, it's your responsibility to provide them with the support that you expect from projects that are upstream to you, including:
 
 - **Answer questions:** Downstream projects are first-line users who will have many good questions and identify several issues in your project. You can work with them to build a knowledge base, improve your project documentation, and gather their feedback to enhance the project.
 - **Communicate changes:** Even minor changes have the potential to cause severe challenges downstream, so involve downstream project in development discussions and proactively share your release notes, release candidates, and more. They can help you thoroughly test your RCs before wide releases.
@@ -87,7 +87,7 @@ Interfacing with downstream projects is an extension of your collaboration strat
 
 ## 🙋🏽‍♀️ Learner Question: Identify some "critical upstream" projects for napari?
 
-This is for your team to answer and you can start at [napari's dependency graph on GitHub](https://github.com/napari/napari/network/dependencies).
+This is for your team to answer, and you can start at [napari's dependency graph on GitHub](https://github.com/napari/napari/network/dependencies).
 
 ## Resources 📚
 
