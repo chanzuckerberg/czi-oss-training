@@ -20,7 +20,9 @@
 
 In the open source ecosystem, the terms "upstream" and "downstream" refer to the relationship between different projects that build upon or contribute to each other. They describe the flow of code, changes, and contributions in a software ecosystem. When a project builds on a different project’s functionality, the former become downstream of the latter, as described in the following figure:
 
-![Upstream and downstream OSS](images/oss-upstream-downstream.svg)
+<p align="center">
+  <img src="./images/oss-upstream-downstream.svg" width="50%" alt="Upstream and downstream OSS" />
+</p>
 
 Let’s consider pandas. Several PyData libraries like Dask and GeoPandas use pandas data structures (Series and DataFrame) and functions to provide more complex features, hence they are downstream of pandas. pandas itself is partially written in Python, so the CPython project is upstream of pandas. The upstream/downstream terminology is not isolated to core library features. pandas uses Sphinx to generate it’s documentation and pytest for it's test infrastructure, so these libraries are also upstream of pandas.
 
