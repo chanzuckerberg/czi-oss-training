@@ -85,7 +85,7 @@ Interfacing with downstream projects is an extension of your collaboration strat
 - **Communicate changes:** Even minor changes have the potential to cause severe challenges downstream, so involve downstream project in development discussions and proactively share your release notes, release candidates, and more. They can help you thoroughly test your RCs before wide releases.
 - **Encourage contributions and community participation:** Encourage and support downstream projects to become regular contributors and active community members. You can invite them to special communication channels and meetings, and eagerly seek their feedback in major project decisions.
 
-## 🙋🏽‍♀️ Learner Question: Identify some "critical upstream" projects for napari?
+## 🙋🏽‍♀️ Learner Question: Identify the "critical upstream" projects for napari
 
 This is for your team to answer, and you can start at [napari's dependency graph on GitHub](https://github.com/napari/napari/network/dependencies).
 
