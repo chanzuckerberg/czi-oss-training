@@ -201,6 +201,7 @@ This section contains a list of helpful tools and projects that you might find h
 - [All contributors bot][all-contributors]: enables you to track and acknowledge contributions beyond code.
 - [Welcome bot](https://github.com/apps/welcome): a GitHub App that welcomes new users to your repository with a custom message.
 - [MVG - Minimum Viable Governance](https://github.com/github/MVG): (beta) a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems.
+- [GitHub Open Source Guide](https://opensource.guide/): a set of guides on establishing open source projects and managing communities.
 
 ### Licensing and compliance
 
