@@ -48,11 +48,18 @@ Community members who:
 **Learning path:**
 
 - [Module 01 - Introduction to open-source](./01-intro-to-os/README.md)
+  - Chapter 1.1 - [Introduction to Open Source](./01-intro-to-os/01-intro-to-os.md)
+  - Chapter 1.2 - [Types of Open Source Software](./01-intro-to-os/02-types-of-oss.md)
+  - Chapter 1.3 - [Understanding OSS Governance](./01-intro-to-os/03-understand-oss-governance.md)
+  - Chapter 1.4 - [How Does OSS Relate To The Open Research Movement?](./01-intro-to-os/04-oss-and-open-science.md)
 - [Module 02 - Participating in open source communities](02-participating-in-oss/README.md)
   - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
   - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
   - Chapter 2.3 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/04-good-corporate-oss-citizen.md)
   - Chapter 2.4 - [Contributing to open source: tooling and best practices](./03-improving-oss-impact/)
+- [Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md)
+  - Chapter 3.1 - [Creating a New OSS Project](./03-improving-oss-impact/01-create-new-oss.md)
+  - Chapter 3.2 - [Effective upstream contributions](./03-improving-oss-impact/02-effective-upstream-contributions.md)
 
 ### Code-adjacent contributor 🎨
 
@@ -65,12 +72,19 @@ Community members who:
 
 **Learning path:**
 
-- [Module 01-Introduction to open-source](./01-intro-to-os/README.md)
+- [Module 01 - Introduction to open-source](./01-intro-to-os/README.md)
+  - Chapter 1.1 - [Introduction to Open Source](./01-intro-to-os/01-intro-to-os.md)
+  - Chapter 1.2 - [Types of Open Source Software](./01-intro-to-os/02-types-of-oss.md)
+  - Chapter 1.3 - [Understanding OSS Governance](./01-intro-to-os/03-understand-oss-governance.md)
+  - Chapter 1.4 - [How Does OSS Relate To The Open Research Movement?](./01-intro-to-os/04-oss-and-open-science.md)
 - [Module 02 - Participating in open source communities](02-participating-in-oss/README.md)
   - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
   - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
   - Chapter 2.3 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/04-good-corporate-oss-citizen.md)
   - Chapter 2.4 - [Contributing to open source: tooling and best practices](./03-improving-oss-impact/)
+- [Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md)
+  - Chapter 3.1 - [Creating a New OSS Project](./03-improving-oss-impact/01-create-new-oss.md)
+  - Chapter 3.2 - [Effective upstream contributions](./03-improving-oss-impact/02-effective-upstream-contributions.md)
 
 ### Manager/stakeholder 🤝
 
@@ -83,17 +97,26 @@ Community members who support teams of regular contributors, specifically:
 
 **Learning path:**
 
-- [Module 01-Introduction to open-source](./01-intro-to-os/README.md)
-- Module 02 - Participating in open source communities
+- [Module 01 - Introduction to open-source](./01-intro-to-os/README.md)
+  - Chapter 1.1 - [Introduction to Open Source](./01-intro-to-os/01-intro-to-os.md)
+  - Chapter 1.2 - [Types of Open Source Software](./01-intro-to-os/02-types-of-oss.md)
+  - Chapter 1.3 - [Understanding OSS Governance](./01-intro-to-os/03-understand-oss-governance.md)
+  - Chapter 1.4 - [How Does OSS Relate To The Open Research Movement?](./01-intro-to-os/04-oss-and-open-science.md)
+- [Module 02 - Participating in open source communities](02-participating-in-oss/README.md)
   - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
   - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
   - Chapter 2.3 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/03-good-corporate-oss-citizen.md)
+- [Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md)
+  - Chapter 3.1 - [Creating a New OSS Project](./03-improving-oss-impact/01-create-new-oss.md)
+  - Chapter 3.2 - [Effective upstream contributions](./03-improving-oss-impact/02-effective-upstream-contributions.md)
+  - Chapter 3.3 - [Creating an impactful open source strategy](./03-improving-oss-impact/03-impactful-contribution-model.md)
 
 ## Course outline 🗺
 
 - [Module 01 - Introduction to open-source](./01-intro-to-os/README.md): Provides a brief introduction to open-source, its ethos, and its benefits.
 - [Module 02 - Participating in open source](./02-participating-in-oss/): This module explores different ways to engage with and participate in open source communities. It also provides some best practices for contributing to open source as an individual and a corporate stakeholder.
 - [Module 03 - Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md): This last chapter builds on the principles and learnings from the previous chapters and includes some best practices to further your open source contributions' impact and strategy.
+- Each module contains a module activity to help you apply the learnings from the module to your open source project and your professional development.
 
 ## Contributing
 

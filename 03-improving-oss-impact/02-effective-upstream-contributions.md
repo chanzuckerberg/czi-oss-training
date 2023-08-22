@@ -98,6 +98,4 @@ This is for your team to answer, and you can start at [napari's dependency graph
 
 ## Continue learning 🚥
 
-<!-- TODO: Add CZI OSS Map Activity -->
-
-⬅️ **[Previous Chapter: 02 Creating a New OSS Project](./02-create-new-oss.md)** | **[Module activity:](./)** ➡️
+⬅️ **[Previous Chapter: 01 Creating a New OSS Project](./01-create-new-oss.md)** | **[Next Chapter: 03 Creating and impactful open source strategy](./03-impactful-contribution-model.md)** ➡️
