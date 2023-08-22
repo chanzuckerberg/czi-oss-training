@@ -53,6 +53,9 @@ Community members who:
   - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
   - Chapter 2.3 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/04-good-corporate-oss-citizen.md)
   - Chapter 2.4 - [Contributing to open source: tooling and best practices](./03-improving-oss-impact/)
+- [Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md)
+  - Chapter 3.1 - [Creating a New OSS Project](./03-improving-oss-impact/01-create-new-oss.md)
+  - Chapter 3.2 - [Effective upstream contributions](./03-improving-oss-impact/02-effective-upstream-contributions.md)
 
 ### Code-adjacent contributor 🎨
 
@@ -71,6 +74,9 @@ Community members who:
   - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
   - Chapter 2.3 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/04-good-corporate-oss-citizen.md)
   - Chapter 2.4 - [Contributing to open source: tooling and best practices](./03-improving-oss-impact/)
+- [Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md)
+  - Chapter 3.1 - [Creating a New OSS Project](./03-improving-oss-impact/01-create-new-oss.md)
+  - Chapter 3.2 - [Effective upstream contributions](./03-improving-oss-impact/02-effective-upstream-contributions.md)
 
 ### Manager/stakeholder 🤝
 
@@ -88,6 +94,10 @@ Community members who support teams of regular contributors, specifically:
   - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
   - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
   - Chapter 2.3 - [Being a good open source citizen as a corporate contributor](./02-participating-in-oss/03-good-corporate-oss-citizen.md)
+- [Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md)
+  - Chapter 3.1 - [Creating a New OSS Project](./03-improving-oss-impact/01-create-new-oss.md)
+  - Chapter 3.2 - [Effective upstream contributions](./03-improving-oss-impact/02-effective-upstream-contributions.md)
+  - Chapter 3.3 - [Creating an impactful open source strategy](./03-improving-oss-impact/03-impactful-contribution-model.md)
 
 ## Course outline 🗺
 

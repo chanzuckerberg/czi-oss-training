@@ -105,7 +105,7 @@ If the project shows signs of stagnation, or you need to reduce investment when 
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 01 Creating and impactful open source strategy](./01-impactful-contribution-model.md)** | **[Next Chapter: 03 Effective upstream contributions](./03-effective-upstream-contributions.md)** ➡️
+**[Next Chapter: 02 Effective upstream contributions](./02-effective-upstream-contributions.md)** ➡️
 
 <!-- reusable links -->
 

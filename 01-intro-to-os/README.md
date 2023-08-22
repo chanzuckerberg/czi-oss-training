@@ -8,3 +8,7 @@ This module gives an introduction to Open Source, its history and ethos. As well
 - [1.2 - Types of Open Source Software](./02-types-of-oss.md) - explores the different types of Open Source projects and licenses.
 - [1.3 - Understanding OSS Governance](./03-understand-oss-governance.md) - explores the different types of Open Source governance models.
 - [1.4 - How Does OSS Relate To The Open Research Movement?](./04-oss-and-open-science.md) - explores the relationship between Open Source and Open Research.
+
+## Module activity 🙇🏻‍♀️
+
+- [Open source power map](./power-map-activity.md) - a hands-on activity to help you identify key stakeholders and resources in an open source project.

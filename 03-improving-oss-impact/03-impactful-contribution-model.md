@@ -312,7 +312,7 @@ When linking or defining what success looks like for your interest groups you ca
 
 ## Continue learning 🚥
 
-**[Next Chapter: 02 - Creating a New OSS Project](./02-create-new-oss.md)** ➡️
+⬅ **[Previous Chapter: 02 - Creating a New OSS Project](./02-create-new-oss.md)** ➡️
 
 <!-- Reusable links -->
 
