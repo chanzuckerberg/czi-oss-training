@@ -39,10 +39,10 @@ The following sections detail some crucial stages of developing a new open sourc
 
 ## Preliminary Considerations 🧱
 
-Once you've decided to create a new OSS project, you can begin discussing the following details and aligning members of your team, organization stakeholders, and the open source community.
+Once you've decided to create a new OSS project, you can begin discussing the following details and aligning team members, organization stakeholders, and the open source community.
 
 - **Open Source Values:** Discuss and document some principles for your corporate open source partnership, like building for interoperability, [transparent communication](../02-participating-in-oss/03-good-corporate-oss-citizen.md/#tips-for-transparent-communication-💡), and more.
-- **User Workflows:** As in any software development project, think about potential users, their workflows, needs, and pain points. Additionally, consider the open source alignment and expectations of individuals and corporate users of your project.
+- **User Workflows:** As in any software development project, consider potential users, their workflows, needs, and pain points. Additionally, consider the open source alignment and expectations of individuals and corporate users of your project.
 - **Project Roadmap:** Define a well-structured roadmap that balances organization and open source community goals. Outline the project's milestones, features, and anticipated releases, and offer a direction for the project's evolution.
 - **Preliminary Governance:** Discuss potential open source governance strategies, like including corporate stakeholders in project leadership, having a community-focused advisory board, targeting to join a community organization or federation in the future, and more, as all these considerations will influence the initial development practices.
 - **Licenses and CLAs:** Select an appropriate [OSI-approved open source license](../01-intro-to-os/02-types-of-oss.md/#oss-licenses-🧑‍⚖️) to dictate how the project can be used and distributed based on organizational policy, open source values, and motivations [^1]. Corporations must also establish Contributor License Agreements (CLAs) to govern contributions, ensuring that all contributors grant the necessary permissions for their contributions to be included in the project.
@@ -52,19 +52,19 @@ Once you've decided to create a new OSS project, you can begin discussing the fo
 
 ## OSS Development and Maintenance 🏗️
 
-Project development and maintenance starts right after the preliminary set up phase and continues for years till the eventual project wind-down. The following OSS development guidelines apply through most of your OSS life cycle and will take different forms as your project matures.
+Project development and maintenance start right after the preliminary setup phase and continues for years till the eventual project wind-down. The following OSS development guidelines apply through most of your OSS life cycle and will take different forms as your project matures.
 
 - **OSS Development Practices:** Follow the [OSS development workflow](../02-participating-in-oss/04-contributing-tips.md/#the-oss-way-🌱) during all development stages to set the project up for a context-rich and collaborative environment that welcomes new contributors. Encourage code reviews, pull requests, and iterative development cycles that allow contributors to share ideas and insights.
 - **Documentation:** Create comprehensive documentation for:
 
   - Users to quickly onboard to the project and understand its value, features, and necessary background.
-  - Contributors to work on various enhancements, maintenance, and sustainance activities.
+  - Contributors to work on various enhancements, maintenance, and sustenance activities.
 
   Regularly update and refine documentation to reflect the latest changes and improvements.
 
 - **Maintenance:** Dedicate resources to maintenance efforts like security updates, dependency upgrades, extensive test infrastructure, stable CI/CD workflows, triaging issue & PR backlogs, smooth release process, regular release cadence, and more.
 - **Upstream Contributions:** Collaborate with upstream projects by contributing improvements and fixes that can benefit more projects in the ecosystem.[^2]
-  [^2]: The next chapter cover upstream contributions in detail.
+  [^2]: The next chapter covers upstream contributions in detail.
 
 ## Community Engagement 🌱
 
@@ -80,20 +80,20 @@ Community is the beating heart of open source software. The following activities
 
 ## Exit Strategy 🏛️
 
-Finally, you need to gracefully reduce your contributions to the open source project. This is not a plan for failure, but a path to building a project and community that can thrive independently, and eventually making space for newer projects. The following points outline some elements of a non-disruptive exit, to guide your planning and expectations.
+Finally, it would be best to gracefully reduce your contributions to the open source project. This is not a plan for failure but a path to building a project and community that can thrive independently and eventually make space for newer projects. The following points outline some elements of a non-disruptive exit to guide your planning and expectations.
 
-- **Exit Conditions:** Determine when you will begin winding-down. You can define some [project metrics](../03-improving-oss-impact/01-impactful-contribution-model.md#measuring-success) that indicate maturity and trigger the exit phase.
-- **Communication:** You need to share your desire to slow down with the project community and upstream & downstream collaborators, and incorporate their input and feedback in your transition.
+- **Exit Conditions:** Determine when you will begin winding down. You can define some [project metrics](../03-improving-oss-impact/01-impactful-contribution-model.md#measuring-success) that indicate maturity and trigger the exit phase.
+- **Communication:** You must share your desire to slow down with the project community and upstream & downstream collaborators and incorporate their input and feedback in your transition.
 - **Knowledge sharing:** Work with the community to identify and fill any gaps in the project (and community) documentation.
-- **Onboard leaders:** As initial authors, your team likely holds some leadership positions in the project, and you may need to find and mentor successors from the community to take on leadership roles. You can recognize past contributors by creating an "Emeritus" group in the project governance, and support team members who wish to continue contributing as volunteers.
+- **Onboard leaders:** As initial authors, your team likely holds some leadership positions in the project, and you may need to find and mentor successors from the community to take on leadership roles. You can recognize past contributors by creating an "Emeritus" group in the project governance and support team members who wish to continue contributing as volunteers.
 
-If the project show signs of stagnation, or you need to reduce investment when the project is still young, you can work with the community to evaluate one of the following strong exit strategies:
+If the project shows signs of stagnation, or you need to reduce investment when the project is still young, you can work with the community to evaluate one of the following robust exit strategies:
 
-- **Transfer:** You can transfer the project to a community organization, federation, or non-profit that's interested in and has the resources for continued development and maintenance of the project. This process will also require communication and knowledge sharing mentioned previously for a smooth transition.
-- **Archive:** You can archive the project such that your community can still use released versions of the project, inspect the repositories, or even revive the project in the future. Again, give your community time to adapt by communicating your decision early.
+- **Transfer:** You can transfer the project to a community organization, federation, or non-profit interested in and has the resources for continued development and maintenance. This process will also require communication and knowledge sharing mentioned previously, for a smooth transition.
+- **Archive:** You can archive the project such that your community can still use released versions, inspect the repositories, or even revive the project. Again, give your community time to adapt by communicating your decision early.
 
 > **Note**
-> If absolutely necessary due to company policies or other strict requirements, you can shut down the project and delete the project repositories, past releases, and web properties. You should try to archive first because the project resources are still valuable to the OSS community and can provide useful lessons for future projects.
+> If absolutely necessary, due to company policies or other strict requirements, you can shut down the project and delete the project repositories, past releases, and web properties. It would help if you tried to archive first because the project resources are still valuable to the OSS community and can provide useful lessons for future projects.
 
 ## Resources 📚
 
