@@ -13,6 +13,7 @@ This repository contains the training materials for the CZI Imaging Tech team fo
     - [Pre-commit hooks 🧹](#pre-commit-hooks-)
   - [Code of Conduct](#code-of-conduct)
   - [License 📄](#license-)
+  - [Reporting security issues](#reporting-security-issues)
 
 ## Format and structure 🔖
 
@@ -147,3 +148,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+
+## Reporting security issues
+
+If you believe you have found a security issue,
+please responsibly disclose by contacting us at <security@chanzuckerberg.com>.
