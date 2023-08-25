@@ -309,4 +309,4 @@ Quansight is a consulting firm that provides OSS-based solutions for commercial 
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 02 Understanding Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md)** | **[Next Chapter: 04 Contributing to open source](./01-why-contributing-to-oss.md)** ➡️
+⬅️ **[Previous Chapter: 02 Understanding Open Source Sustainability and Life Cycle](./02-understand-oss-sustainability.md)** | **[Next Chapter: 04 Contributing to open source](./04-contributing-tips.md)** ➡️

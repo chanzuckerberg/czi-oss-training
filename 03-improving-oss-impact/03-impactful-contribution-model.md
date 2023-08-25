@@ -2,9 +2,9 @@
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02: Participating in Open Source Communities](../02-participating-in-oss/) |
 
-# Chapter 01: Creating an impactful open source strategy
+# Chapter 03: Creating an impactful open source strategy
 
-- [Chapter 01: Creating an impactful open source strategy](#chapter-01-creating-an-impactful-open-source-strategy)
+- [Chapter 03: Creating an impactful open source strategy](#chapter-03-creating-an-impactful-open-source-strategy)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Where to start? Defining your open source goals 🎯](#where-to-start-defining-your-open-source-goals-)
     - [🙋🏽‍♀️ Learner checkpoint](#️-learner-checkpoint)
@@ -312,7 +312,7 @@ When linking or defining what success looks like for your interest groups you ca
 
 ## Continue learning 🚥
 
-⬅ **[Previous Chapter: 02 - Creating a New OSS Project](./02-create-new-oss.md)** ➡️
+⬅ **[Previous Chapter: 02 - Effective upstream and downstream collaboration](./02-effective-upstream-contributions.md)** ➡️
 
 <!-- Reusable links -->
 
