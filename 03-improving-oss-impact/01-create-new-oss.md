@@ -2,9 +2,9 @@
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02: Participating in Open Source](../02-participating-in-oss/)                                                   |
 
-# Chapter 02: Creating a New OSS Project
+# Chapter 01: Creating a New OSS Project
 
-- [Chapter 02: Creating a New OSS Project](#chapter-02-creating-a-new-oss-project)
+- [Chapter 01: Creating a New OSS Project](#chapter-01-creating-a-new-oss-project)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [New OSS Project Motivations ⚡️](#new-oss-project-motivations-️)
   - [Preliminary Considerations 🧱](#preliminary-considerations-)
@@ -105,7 +105,7 @@ If the project shows signs of stagnation, or you need to reduce investment when 
 
 ## Continue learning 🚥
 
-**[Next Chapter: 02 Effective upstream contributions](./02-effective-upstream-contributions.md)** ➡️
+**[Next Chapter: 02 Effective upstream and downstream collaboration](./02-effective-upstream-contributions.md)** ➡️
 
 <!-- reusable links -->
 

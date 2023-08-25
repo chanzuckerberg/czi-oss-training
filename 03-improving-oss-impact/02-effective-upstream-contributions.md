@@ -2,9 +2,9 @@
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Pre-requisites   | - [Module 01: Introduction to Open Source](../01-intro-to-os/) <br>- [Module 02: Participating in Open Source](../02-participating-in-oss/)                                                   |
 
-# Chapter 04: Effective upstream and downstream collaboration
+# Chapter 02: Effective upstream and downstream collaboration
 
-- [Chapter 04: Effective upstream and downstream collaboration](#chapter-04-effective-upstream-and-downstream-collaboration)
+- [Chapter 02: Effective upstream and downstream collaboration](#chapter-02-effective-upstream-and-downstream-collaboration)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Understand Upstream and Downstream Projects ↕️](#understand-upstream-and-downstream-projects-️)
   - [Why Contribute to Upstream Projects? 💭](#why-contribute-to-upstream-projects-)
@@ -98,4 +98,4 @@ This is for your team to answer, and you can start at [napari's dependency graph
 
 ## Continue learning 🚥
 
-⬅️ **[Previous Chapter: 01 Creating a New OSS Project](./01-create-new-oss.md)** | **[Next Chapter: 03 Creating and impactful open source strategy](./03-impactful-contribution-model.md)** ➡️
+⬅️ **[Previous Chapter: 01 Creating a New OSS Project](./01-create-new-oss.md)** | **[Next Chapter: 03 Creating an impactful open source strategy](./03-impactful-contribution-model.md)** ➡️
