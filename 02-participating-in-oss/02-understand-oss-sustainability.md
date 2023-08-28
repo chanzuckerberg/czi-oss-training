@@ -173,4 +173,4 @@ napari is being continuously improved and maintained, and several (new and exist
 <!-- Reusable links -->
 
 [roads-and-bridges]: https://www.fordfoundation.org/work/learning/research-reports/roads-and-bridges-the-unseen-labor-behind-our-digital-infrastructure/
-[common-future]: https://en.wikipedia.org/wiki/our_common_future
+[common-future]: https://en.wikipedia.org/wiki/Our_Common_Future
