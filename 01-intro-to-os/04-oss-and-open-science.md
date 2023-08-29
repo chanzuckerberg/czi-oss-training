@@ -50,7 +50,7 @@ The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license
 </figcaption>
 </figure>
 
-Open Scolarship[^2] builds on the principles and practices of Open Research but extends to other aspects of research such as:
+Open Scholarship[^2] builds on the principles and practices of Open Research but extends to other aspects of research such as:
 
 - **Open educational resources:** Making educational resources such as course materials, textbooks, and other learning materials publicly available and accessible.
 - **Equity, diversity, inclusion:** Ensuring scholarship is open and accessible to everyone without barriers based on gender, background, disability status, sexual orientation, etc.
