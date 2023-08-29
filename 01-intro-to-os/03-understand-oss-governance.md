@@ -87,7 +87,7 @@ Examples of this governance model are the [Kubernetes project with "Special Inte
 ### A note on terminology
 
 The terms above, like "core team", "elected council", etc., are not formal but a best approximation for describing and understanding governance models.
-The spirit behind each model and their difference are more important.
+The spirit behind each model and their differences are more important.
 Moreover, every project implements governance differently and will have project-specific nuances.
 
 For instance, the NumPy project has a "steering council".
@@ -135,7 +135,7 @@ There is a saying in the Python community: "Python is the second-best language f
   <img src="./images/python-developer-survey-usage.png" alt="Horizontal bar graph of Python usage in 2022 and 2021. Most to least: Data analysis at 51%/51%, Web development 43%/45%, Machine learning 36%/36%, DevOps, Programming of web parsers, Educational purposes, Software testing, Software prototyping, Desktop development, Network programming, Computer graphics, Game development, Embedded development, Mobile development, Multimedia applications development, Other 6%/7%." width="50%"/>
 </p>
 
-Likewise, a vibrant community of people use Python for scientific research and industry data science. They use Python for data analysis, data visualization, machine learning, high-performance computing, and more. We have foundational projects like NumPy at the core of numerical computing, domain-specific projects like AstroPy, and technique-specific projects like scikit-image, as described in this figure from [Array programming with Python](https://www.nature.com/articles/s41586-020-2649-2):
+Likewise, a vibrant community of people use Python for scientific research and industry data science. They use Python for data analysis, data visualization, machine learning, high-performance computing, and more. We have foundational projects like NumPy at the core of numerical computing, domain-specific projects like Astropy, and technique-specific projects like scikit-image, as described in this figure from [Array programming with Python](https://www.nature.com/articles/s41586-020-2649-2):
 
 <p align="center">
   <img src="./images/scientific-python-ecosystem.webp" alt="Foundation: NumPy (alongside Python and IPython/Jupyter), SciPy, and matplotlib. This branches into technique-specific: scikit-learn (machine learning), pandas & statsmodels (Statistics), scikit-image (image processing), NetworkX (network analysis). This, in turn, branches into domain-specific: Astropy (Astronomy), Biopython (Biology), QuantEcon (Economics), and more. This finally branches into application-specific: SunPy, PyWavelets, MDAnalysis, yt, and more." width="75%"/>

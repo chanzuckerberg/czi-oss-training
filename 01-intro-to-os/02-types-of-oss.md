@@ -106,7 +106,7 @@ It's important to understand the governance model when you contribute to any OSS
 - **Founder-leader** — individual (or group) who authored the project make decisions
 - **Self-appointed council or board** — the community appoints a group (from within the community) to make decisions
 - **Electoral** — community elects certain members for specific roles in the project
-- **Corporate-backed** — decisions are made by a company that has majority stake in the project
+- **Corporate-backed** — decisions are made by a company that has a majority stake in the project
 - **Foundation-backed** — a non-profit organization is set up (or engaged with) to make decisions
 
 We'll learn more about governance models in the next chapter!
@@ -117,7 +117,7 @@ Understanding why an OSS project was created (and is maintained) can help you un
 
 ### Academic
 
-There are several open source projects, especially in the PyData ecosystem, that were created by a research team for their research workflows. The primary motivation for these teams to open source their software is to share it with other teams and reduce duplicate work. While some of these projects can organically gain traction and become [community-driven][community-driven] over time, there are many more that get abandoned after the research project is complete. These projects rarely have the funding or bandwidth to invest in community engagement and sustainability strategies. You will often find them informally following the do-ocracy or founder-leader governance approaches, and adopting with permissive licenses.
+There are several open source projects, especially in the PyData ecosystem, that were created by a research team for their research workflows. The primary motivation for these teams to open source their software is to share it with other teams and reduce duplicate work. While some of these projects can organically gain traction and become [community-driven][community-driven] over time, there are many more that get abandoned after the research project is complete. These projects rarely have the funding or bandwidth to invest in community engagement and sustainability strategies. You will often find them informally following the do-ocracy or founder-leader governance approaches, and adopting permissive licenses.
 
 ### Company-backed
 
@@ -134,7 +134,7 @@ Typically, these OSS projects are critical to a paid (and/or proprietary) produc
 
 These are projects created (almost entirely) by individuals to solve a problem that they had or simply to build something interesting. The author(s) open sources their hobby projects to share it with other people who might also may also find it helpful and interesting.
 
-Many these projects are deemed complete after an initial burst of activity and the creator (or other users who become contributors) only focus on minimal maintenance like security updates or bug fixes. Generally, these project don't have any formal governance models and the project creator(s) makes all the major decisions. They also tend to have permissive licenses to allow for no-strings-attached-sharing.
+Many of these projects are deemed complete after an initial burst of activity and the creator (or other users who become contributors) only focus on minimal maintenance like security updates or bug fixes. Generally, these projects don't have any formal governance models and the project creator(s) makes all the major decisions. They also tend to have permissive licenses to allow for no-strings-attached-sharing.
 
 If these projects gain popularity, they sometimes grow into [community-driven][community-driven] or turn into a [company-backed][company-backed] projects.
 
