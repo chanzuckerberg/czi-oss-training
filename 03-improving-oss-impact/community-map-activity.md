@@ -1,4 +1,4 @@
-# Power Map Activity
+# Community Map Activity
 
 | Learner personas | - [code contributor](../README.md#code-contributor-)<br> - [code-adjacent contributor](../README.md#code-adjacent-contributor-)<br> - [manager/stakeholder](../README.md#managerstakeholder-)                                                                                                                                           |
 | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9,7 +9,7 @@ It also helps us identify critical resources within this system and the power dy
 
 ## Table of Contents 🗂️
 
-- [Power Map Activity](#power-map-activity)
+- [Community Map Activity](#community-map-activity)
   - [Table of Contents 🗂️](#table-of-contents-️)
   - [Learning Objectives 🧠](#learning-objectives-)
   - [Instructions 📝](#instructions-)

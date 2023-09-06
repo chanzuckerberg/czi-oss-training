@@ -29,7 +29,7 @@
 ## Sustainability ♻️
 
 By definition, open source licenses allow everyone to use, modify, and re-distribute software freely and for any endeavor. Additionally, free and open source software (FOSS) is often cost-free at the point of use or acquisition. Such unrestricted access is why FOSS sits at the core of all primary digital infrastructure tools and innovation initiatives.
-Such a heavy reliance on FOSS - across industry, research, academia, and many more - has also increased our demand for those who sustain our digital infrastructure[^1], mainly on a volunteer basis. Hence, it is not uncommon for open-source sustainers to experience burnout, stress, and diminished mental health. Consequently, all interested parties (i.e., corporate, governmental, research, and not-for-profit) must invest in the OSS ecosystem to ensure long-term sustainability.
+Such a heavy reliance on FOSS - across industry, research, academia, and many more - has also increased our demand for those who sustain our digital infrastructure[^1], mainly on a volunteer basis. Hence, it is not uncommon for open source sustainers to experience burnout, stress, and diminished mental health. Consequently, all interested parties (i.e., corporate, governmental, research, and not-for-profit) must invest in the OSS ecosystem to ensure long-term sustainability.
 
 [^1]: [Roads and bridges by Nadia Eghbal][roads-and-bridges]
 

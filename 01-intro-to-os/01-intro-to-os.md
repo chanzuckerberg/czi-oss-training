@@ -23,7 +23,7 @@
 By the end of this section, you should be able to:
 
 - Define open source and describe the main pillars of open source software.
-- Understand the difference and similarities between Open Source, Free Software, and InnerSource.
+  Understand the differences and similarities between Open Source, Free Software, and InnerSource.
 
 ## The Origins Of Open Source 🌱
 
@@ -31,7 +31,7 @@ Sharing software began almost as the computer age emerged. The practice of shari
 
 The image below shows a condensed timeline of the Origins of open source.
 
-![Timeline of the Origins of open source](./images/OSS-early-timeline.svg)
+![Timeline of the Origins of open source](./images/OSS-early-timeline.png)
 
 - In the early years of computing (1950-1960s), software was often a research activity. It was usually released under the public domain, meaning that these works could not be owned by an individual or a collective.
 - Later, in the 1960s, with the rise of compilers and Operating Systems (OS) also came the rise of software-only companies.
