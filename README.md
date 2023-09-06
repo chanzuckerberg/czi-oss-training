@@ -119,6 +119,22 @@ Community members who support teams of regular contributors, specifically:
 - [Module 03 - Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md): This last chapter builds on the principles and learnings from the previous chapters and includes some best practices to further your open source contributions' impact and strategy.
 - Each module contains a module activity to help you apply the learnings from the module to your open source project and your professional development.
 
+Supporting slides for the workshop can be found in the [slides directory](./slides).
+These slides are intended to cover two training sessions with the following content split:
+
+- [Session/Day 1](./slides/day-1-OSS-workshop.pdf):
+  - [Module 01 - Introduction to open-source](./01-intro-to-os/README.md)
+  - [Module 02 - Participating in open source communities](02-participating-in-oss/README.md)
+    - Chapter 2.2 - [Understand open source sustainability and life cycle](./02-participating-in-oss/02-understand-oss-sustainability.md)
+    - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
+- [Session/Day 2](./slides/day-2-oss-workshop.pdf):
+  - [Module 02 - Participating in open source communities](02-participating-in-oss/README.md)
+    - Chapter 2.1 - [Why contribute to open source](./02-participating-in-oss/01-why-contributing-to-oss.md)
+  - [Module 03 - Enhancing your OSS contribution impact](./03-improving-oss-impact/README.md)
+    - Chapter 3.1 - [Creating a New OSS Project](./03-improving-oss-impact/01-create-new-oss.md)
+    - Chapter 3.2 - [Effective upstream contributions](./03-improving-oss-impact/02-effective-upstream-contributions.md)
+    - Chapter 3.3 - [Creating an impactful open source strategy](./03-improving-oss-impact/03-impactful-contribution-model.md)
+
 ## Contributing
 
 ### Pre-commit hooks 🧹
