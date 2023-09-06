@@ -22,6 +22,9 @@ After completing this activity, you should be able to:
 - Gain a better understanding of critical stakeholders and resources in an open source project and factors that could disrupt the project
 - Generate a power map for an open source project
 
+> **Note**
+> ✨ We have included a completed example of this activity at: [oss-power-map-Jupyter.pdf](./oss-power-map-Jupyter.pdf)
+
 ## Instructions 📝
 
 1. Choose the open source projects you will create the map for. Ideally, this would be a project in which you are already involved. If you are not involved in any open source projects, you can choose a project you are interested in or one you have contributed to in the past.
