@@ -10,7 +10,7 @@
   - [Why Contribute to Upstream Projects? 💭](#why-contribute-to-upstream-projects-)
   - [Upstream Engagement Strategy 🌳](#upstream-engagement-strategy-)
     - [Critical projects](#critical-projects)
-    - [](#)
+    - [Supporting projects](#supporting-projects)
   - [Collaborate with Downstream Projects 🌿](#collaborate-with-downstream-projects-)
   - [🙋🏽‍♀️ Learner Question: Identify the "critical upstream" projects for napari](#️-learner-question-identify-the-critical-upstream-projects-for-napari)
   - [Resources 📚](#resources-)
@@ -83,7 +83,11 @@ Interfacing with downstream projects is an extension of your collaboration strat
 
 - **Answer questions:** Downstream projects are first-line users who will have many good questions and identify several issues in your project. You can work with them to build a knowledge base, improve your project documentation, and gather their feedback to enhance the project.
 - **Communicate changes:** Even minor changes can cause severe challenges downstream, so involve downstream projects in development discussions and proactively share your release notes, release candidates, and more. They can help you thoroughly test your RCs before wide releases.
-<!-- JRG: I would also add something about a solid deprecation policy and Hyrum's law -->
+- **Adopt strict policies:** Follow clearly documented policies for releases, handling deprecations, security and hot fixes, and more, to set expectations for downstream project and guide your interactions.
+  > **Note** > [Hyrum's Law](https://www.hyrumslaw.com/) is an observation in software engineering:
+  > _"With a sufficient number of users of an API, it does not matter what you promise in the contract: all observable behaviors of your system will be depended on by somebody."_
+  >
+  > In other words, every change is a breaking change if you have sufficient number of users. Hence, strong policies and communication with downstream projects is critical in OSS.
 - **Encourage contributions and community participation:** Encourage and support downstream projects to become regular contributors and active community members. You can invite them to special communication channels and meetings and eagerly seek their feedback on major project decisions.
 
 ## 🙋🏽‍♀️ Learner Question: Identify the "critical upstream" projects for napari
