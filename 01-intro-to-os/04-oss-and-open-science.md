@@ -46,7 +46,7 @@ To ensure Research is genuinely open, every element of the research lifecycle sh
 <figure>
 <img src="./images/reproducible-journey.jpg" alt="A man holding a book and standing at the beginning of a path with a hopeful expression. The winding path goes through an Open Data Village, an Open Tools waterfall, and an Open Code forest and finishes at the top of the Open Results mountain. At the top of the mountain is a person with a Data dashboard as a background." />
 <figcaption>
-The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. <a href="https://doi.org/10.5281/zenodo.3332807"> DOI: 10.5281/zenodo.3332807</a>
+The Turing Way project illustration by Scriberia. Used under a CC-BY 4.0 license. <a href="https://doi.org/10.5281/zenodo.3332807">DOI: 10.5281/zenodo.3332807</a>
 </figcaption>
 </figure>
 

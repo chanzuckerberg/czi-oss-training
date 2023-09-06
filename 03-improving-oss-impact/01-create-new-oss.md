@@ -70,7 +70,7 @@ Project development and maintenance start right after the preliminary setup phas
 
 Community is the beating heart of open source software. The following activities can prepare you to create and nurture a vibrant community of users, contributors, enthusiasts, advocates, collaborators, and more.
 
-- **Code of Conduct (CoC):** Establish a robust CoC and enforcement strategy to ensure an inclusive, respectful, and welcoming community. You can adopt some community-created CoC policies in the ecosystem and create a small committee to handle reports[^].
+- **Code of Conduct (CoC):** Establish a robust CoC and enforcement strategy to ensure an inclusive, respectful, and welcoming community. You can adopt some community-created CoC policies in the ecosystem and create a small committee to handle reports[^3].
   [^3]: If possible, provide the CoC committee members with adequate training to handle reports effectively.
 - **Governance:** Implement (and document) a governance structure with guidelines for decision-making and project leadership roles and responsibilities.
 - **Messaging and Brand:** Craft a consistent messaging strategy that highlights the project's unique value proposition, and design brand guidelines that reflect the project's identity. These can align with the organization's overarching brand and messaging framework or stand independently.

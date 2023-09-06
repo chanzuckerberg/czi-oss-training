@@ -36,7 +36,7 @@ The image below shows a condensed timeline of the Origins of open source.
 - In the early years of computing (1950-1960s), software was often a research activity. It was usually released under the public domain, meaning that these works could not be owned by an individual or a collective.
 - Later, in the 1960s, with the rise of compilers and Operating Systems (OS) also came the rise of software-only companies.
 - In 1974, software was granted the ability to be copyrighted, which marked the start of software as a commodity.
-- In the Early 1980s, the Free Software Foundation (FSF) was founded by Richard Stallman, the first organization to advocate for free software. Stallman wrote the [Free Software Definition][free-software-definition] within that decade.
+- In the early 1980s, the Free Software Foundation (FSF) was founded by Richard Stallman, the first organization to advocate for free software. Stallman wrote the [Free Software Definition][free-software-definition] within that decade.
 - Around this same time, the GNU Public License (GPL) was created, and the first Linux kernel was released under such license.
 - Eric S. Raymond published the ["Cathedral and the Bazaar"][cathedral-and-bazaar] in 1997, an essay comparing two different development models: the Cathedral (top-down development model by an exclusive group of developers) and the Bazaar (where the code is developed publicly over the internet).
 - In 1998, a group of industry and free software individuals coined the term open source, and the Open Source Initiative (OSI) was founded.
@@ -83,7 +83,7 @@ In the OSD, the considerations are more technically aligned, focusing on faster 
 
 ## InnerSource 🏢
 
-While InnerSource is not a core part of this training, it is worth mentioning as it is a practice often confusing with open source.
+While InnerSource is not a core part of this training, it is worth mentioning as it is a practice often confused with open source.
 
 InnerSource is the application of open source principles within an organization. It is a practice that aims to increase collaboration and transparency within an organization by using open source tools and methodologies.
 
