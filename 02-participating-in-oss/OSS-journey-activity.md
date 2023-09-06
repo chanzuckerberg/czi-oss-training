@@ -15,7 +15,7 @@ This module has covered some main benefits of contributing to open source for in
 
 ## Learning Objectives 🧠
 
-We hope by this point you feel inspired, motivated, and even more curious about the opportunity to contribute to open-source projects.
+We hope by this point you feel inspired, motivated, and even more curious about the opportunity to contribute to open source projects.
 This activity is designed to:
 
 - Help you reflect on your journey with open source and identify the next steps you want to take

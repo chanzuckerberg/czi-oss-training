@@ -71,7 +71,7 @@ Their incentives can be incredibly varied, ranging from software commercializati
 
 We give you a starting point below, but you need to answer this with your team.
 
-Napari is a powerful, open source, imaging tool for scientific research. It fits CZI's mission to solve the global challenge of eradicating disease by investing in science and technology. You can innovate faster and reach more people with an open-source-friendly philosophy.
+Napari is a powerful, open source, imaging tool for scientific research. It fits CZI's mission to solve the global challenge of eradicating disease by investing in science and technology. You can innovate faster and reach more people with an open source-friendly philosophy.
 
 ## Volunteer and organizational contributions 🤝
 
