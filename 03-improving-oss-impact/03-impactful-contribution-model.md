@@ -84,6 +84,7 @@ The following steps will help you define or clarify your open source strategy.
    - Where are we in our open source journey? (consumer, participant, contributor, leader)
 
 3. **Decide on and document your open source strategy.**
+
    Your open source strategy should connect the plans for managing, participating in, and creating open source software. (Details on what to include in your OSS strategy are provided in [Components of an open source strategy section](#components-of-an-open-source-strategy).)
 
 4. **Design an implementation plan.**
@@ -100,6 +101,7 @@ The following steps will help you define or clarify your open source strategy.
    - Do we have the relevant expertise, or do we need to hire for it?
 
 5. **Implement your open source strategy.**
+
    Depending on where your organization is within its open source journey, it might be best to embrace a phased approach to strategy implementation, starting by focusing on its short-to-medium-term goals and reevaluating and adjusting over time.
 
    > **Note**
@@ -138,12 +140,12 @@ At the minimum, your strategy should contain the following:
    1. building open source platforms and tools
    2. building with open source
 6. **Policies and other guidelines relevant to OSS, such as:**
-   1. Data and supply chain security
-   2. Open Source license compliance (including CLA's signing)
-   3. Branding and IP guidelines
-   4. Starting a new open source project or opening source code
-   5. Community standards and repository quality/structure
-   6. Community interaction
+   1. data and supply chain security
+   2. open Source license compliance (including CLA's signing)
+   3. branding and IP guidelines
+   4. starting a new open source project or opening source code
+   5. community standards and repository quality/structure
+   6. community interaction
 
 ## Guiding principles for open source strategies and contributions 🧭
 
