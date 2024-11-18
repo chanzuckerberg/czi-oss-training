@@ -10,3 +10,8 @@
 ## Module activity 🙇🏻‍♀️
 
 - [OSS Journey activity](./OSS-journey-activity.md) - a self-reflection activity to help you map your open source personal journey and how OSS contributions can help you achieve your goals.
+
+## Attribution
+
+Authored by Tania Allard and Pavithra Eswaramoorthy.
+Reviewed by Justine Larsen, Justin Kiggins, and Kate Hertweck.
