@@ -168,7 +168,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ### Attribution
 
-This training was scoped and outlined by Justine Larsen, Justin Kiggins, Kate Hertweck from the Chan Zuckerberg Initiative, and Tania Allard from Quansight Labs.
+Justine Larsen, Justin Kiggins, Kate Hertweck, Kyle Harrington, Ashley Anderson, Danielle McCarthy from the Chan Zuckerberg Initiative, and Tania Allard from Quansight Labs scoped and outlined this training.
 
 The content was authored by Tania Allard and Pavithra Eswaramoorthy from Quansight Labs, and the development of this training was funded by the Chan Zuckerberg Initiative.
 
