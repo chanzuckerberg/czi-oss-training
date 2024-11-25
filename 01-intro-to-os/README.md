@@ -12,3 +12,8 @@ This module gives an introduction to Open Source, its history and ethos. As well
 ## Module activity 🙇🏻‍♀️
 
 - [Open source power map](./power-map-activity.md) - a hands-on activity to help you identify key stakeholders and resources in an open source project.
+
+## Attribution
+
+Authored by Tania Allard and Pavithra Eswaramoorthy.
+Reviewed by Justine Larsen, Justin Kiggins, and Kate Hertweck.

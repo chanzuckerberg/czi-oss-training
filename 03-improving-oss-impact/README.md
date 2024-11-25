@@ -9,3 +9,8 @@
 ## Module activity 🙇🏻‍♀️
 
 - [Community map](./community-map-activity.md) - a hands-on activity to help you dive deeper into a project's community and the dynamics between them.
+
+## Attribution
+
+Authored by Tania Allard and Pavithra Eswaramoorthy.
+Reviewed by Justine Larsen, Justin Kiggins, and Kate Hertweck.
